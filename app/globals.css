@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --text: #130e01;
+  --background: #ffffff;
+}
+
+body {
+  background-color: var(--background);
+}
+
+input {
+  @apply rounded-md outline-none pl-4 pr-8 px-64 py-2;
+}
+
+select {
+  @apply rounded-full outline-none px-[26px];
+}
+
+h1 {
+  @apply text-4xl;
+}
+
+button {
+  @apply rounded-md px-4 py-2 bg-white;
+}
