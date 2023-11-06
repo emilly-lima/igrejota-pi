@@ -1,7 +1,6 @@
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import Navbar from "../components/navbar";
 import Random from "../components/random";
-import { faQuestion } from '@fortawesome/free-solid-svg-icons'
+import Card from "../components/card";
 
 export default function Second() {
     return (
@@ -46,8 +45,8 @@ export default function Second() {
 
             </aside>
 
-            <main>
-
+            <main className="w-full h-screen">
+                <Card/>
             </main>
 
         </div>

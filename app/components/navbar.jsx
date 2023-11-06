@@ -7,10 +7,10 @@ export default function Navbar() {
             <div className='flex flex-row items-center'>
                 <div className='flex flex-row relative mx-9'>
                     <input type="text" placeholder="Buscar jogo.." />
-                    <FontAwesomeIcon icon={faMagnifyingGlass} width={24} height={24} className='absolute top-1.5 right-2 pointer-events-none' />
+                    <FontAwesomeIcon icon={faMagnifyingGlass} width={24} height={24} className='absolute top-2 right-2 pointer-events-none' />
                 </div>
                 <button className='px-4'>
-                    <FontAwesomeIcon icon={faQuestion} width={24} height={24} />
+                    <FontAwesomeIcon icon={faQuestion} width={30} height={30} />
                 </button>
             </div>
         </div>

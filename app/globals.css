@@ -16,7 +16,7 @@ input {
 }
 
 select {
-  @apply rounded-full outline-none px-[26px];
+  @apply rounded-full outline-none px-[23px];
 }
 
 h1 {
