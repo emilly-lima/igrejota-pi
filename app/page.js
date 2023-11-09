@@ -7,7 +7,6 @@ export default function Home() {
   return (
     <div>
         <header>
-          <p>oi</p>
           <Navbar/>
         </header>
 
