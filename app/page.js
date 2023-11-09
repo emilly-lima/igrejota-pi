@@ -16,8 +16,8 @@ export default function Home() {
         </main>
 
         <footer className="flex justify-center">
-          <Link href="/second" className="bg-zinc-800 text-white px-4 py-2 rounded-md">
-            Encontrar
+          <Link href="/second" className="px-4 py-2 text-white rounded-md bg-zinc-800">
+            Encontrar Algo
           </Link>
         </footer>
     </div>
