@@ -1,4 +1,5 @@
-import Navbar from "../components/navbar";
+"use client";
+import Navbar from "@/app/components/navbar";
 import Random from "../components/random";
 import Card from "../components/card";
 
