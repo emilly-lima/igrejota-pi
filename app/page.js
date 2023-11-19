@@ -6,7 +6,6 @@ import CustomCarousel from "@/app/components/carrossel";
 export default function Home() {
   return (
     <div>
-      <h1>Oi!!!</h1>
         <header>
           <Navbar/>
         </header>
