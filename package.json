@@ -15,6 +15,7 @@
     "@fortawesome/free-solid-svg-icons": "^6.4.2",
     "@fortawesome/react-fontawesome": "^0.2.0",
     "@material-tailwind/react": "^2.1.4",
+    "modal-nextjs": "^0.1.6",
     "next": "14.0.1",
     "react": "^18",
     "react-dom": "^18"
@@ -22,6 +23,6 @@
   "devDependencies": {
     "autoprefixer": "^10.0.1",
     "postcss": "^8",
-    "tailwindcss": "^3.3.0"
+    "tailwindcss": "^3.3.5"
   }
 }
