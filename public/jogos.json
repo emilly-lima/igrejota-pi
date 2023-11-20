@@ -2,7 +2,7 @@
     {
         "Jogo": "ToteMonstros",
         "Tempo": "30min",
-        "Nº de jogadores": "2 a 4",
+        "Njoga": "2 a 4",
         "Formato": "Tabuleiro",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
@@ -11,7 +11,7 @@
     {
         "Jogo": "Américo ? Amerigo",
         "Tempo": "90min",
-        "Nº de jogadores": "2 a 4",
+        "Njoga": "2 a 4",
         "Formato": "Tabuleiro",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -20,7 +20,7 @@
     {
         "Jogo": "Herdeiros do Khan",
         "Tempo": "90min",
-        "Nº de jogadores": "2 a 5",
+        "Njoga": "2 a 5",
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermed",
         "Estilo": "Competitivo",
@@ -29,7 +29,7 @@
     {
         "Jogo": "Niagara: The Spirits of Niagara",
         "Tempo": "45min",
-        "Nº de jogadores": "3 a 6",
+        "Njoga": "3 a 6",
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermed",
         "Estilo": "Competitivo",
@@ -38,7 +38,7 @@
     {
         "Jogo": "Dakota",
         "Tempo": "90min",
-        "Nº de jogadores": "3 a 5",
+        "Njoga": "3 a 5",
         "Formato": "Tabuleiro",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -47,7 +47,7 @@
     {
         "Jogo": "Dixit",
         "Tempo": "30min",
-        "Nº de jogadores": "3 a 6",
+        "Njoga": "3 a 6",
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Coop-Comp",
@@ -56,7 +56,7 @@
     {
         "Jogo": "Niagara",
         "Tempo": "30-45",
-        "Nº de jogadores": "3 a 5",
+        "Njoga": "3 a 5",
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermed",
         "Estilo": "Competitivo",
@@ -65,7 +65,7 @@
     {
         "Jogo": "Tzolk’in The Mayan Calendar",
         "Tempo": "90min",
-        "Nº de jogadores": "2 a 4",
+        "Njoga": "2 a 4",
         "Formato": "Tabuleiro",
         "Peso": "Interm-Complx",
         "Estilo": "Competitivo",
@@ -74,13 +74,13 @@
     {
         "Jogo": "Velocity",
         "Tempo": "45min",
-        "Nº de jogadores": "3 7",
+        "Njoga": "3 a 7",
         "Img": "/teste.png"
     },
     {
         "Jogo": "Quissama",
         "Tempo": "30min",
-        "Nº de jogadores": "2 a 5",
+        "Njoga": "2 a 5",
         "Formato": "Tabuleiro",
         "Estilo": "Competitivo",
         "Img": "/teste.png"
@@ -88,7 +88,7 @@
     {
         "Jogo": "Perfil 3",
         "Tempo": "30min",
-        "Nº de jogadores": "2 a 7",
+        "Njoga": "2 a 7",
         "Formato": "Tabuleiro",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
@@ -97,7 +97,7 @@
     {
         "Jogo": "Domínio de Carcassonne",
         "Tempo": "30-90",
-        "Nº de jogadores": "2 a 5",
+        "Njoga": "2 a 5",
         "Formato": "Tabuleiro",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
@@ -106,7 +106,7 @@
     {
         "Jogo": "Pandemic Legacy",
         "Tempo": "60min",
-        "Nº de jogadores": "2 a 4",
+        "Njoga": "2 a 4",
         "Formato": "Tabuleiro",
         "Peso": "Intermediário",
         "Estilo": "Cooperativo",
@@ -115,7 +115,7 @@
     {
         "Jogo": "Dungeon Roll",
         "Tempo": "15min",
-        "Nº de jogadores": "1 a 4",
+        "Njoga": "1 a 4",
         "Formato": "Cartas/Dados",
         "Peso": "Fácil",
         "Estilo": "Cooperativo",
@@ -124,7 +124,7 @@
     {
         "Jogo": "Hanabi",
         "Tempo": "30min",
-        "Nº de jogadores": "2 a 5",
+        "Njoga": "2 a 5",
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Cooperativo",
@@ -133,7 +133,7 @@
     {
         "Jogo": "Lucca Città",
         "Tempo": "20min",
-        "Nº de jogadores": "3 a 5",
+        "Njoga": "3 a 5",
         "Formato": "Cartas",
         "Peso": "Fácil-Intermed",
         "Estilo": "Competitivo",
@@ -142,7 +142,7 @@
     {
         "Jogo": "Province",
         "Tempo": "30min",
-        "Nº de jogadores": 2,
+        "Njoga": 2,
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermed",
         "Estilo": "Competitivo",
@@ -151,7 +151,7 @@
     {
         "Jogo": "Age of War",
         "Tempo": "30min",
-        "Nº de jogadores": "2 a 6",
+        "Njoga": "2 a 6",
         "Formato": "Cartas/Dados",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
@@ -160,7 +160,7 @@
     {
         "Jogo": "Vampire The Eternal Struggle",
         "Tempo": "120min",
-        "Nº de jogadores": "2 a 5",
+        "Njoga": "2 a 5",
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -169,7 +169,7 @@
     {
         "Jogo": "Warlord Saga of The Storm (Deverenian Legion)",
         "Tempo": "10min",
-        "Nº de jogadores": "2 a 4",
+        "Njoga": "2 a 4",
         "Formato": "Cartas",
         "Peso": "Fácil-Intermed",
         "Estilo": "Competitivo",
@@ -178,7 +178,7 @@
     {
         "Jogo": "Warlord Saga of The Storm (Elf Legion)",
         "Tempo": "10min",
-        "Nº de jogadores": "2 a 4",
+        "Njoga": "2 a 4",
         "Formato": "Cartas",
         "Peso": "Fácil-Intermed",
         "Estilo": "Competitivo",
@@ -187,7 +187,7 @@
     {
         "Jogo": "Mafia",
         "Tempo": "30min",
-        "Nº de jogadores": "3 a 8",
+        "Njoga": "3 a 8",
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
@@ -196,7 +196,7 @@
     {
         "Jogo": "Zombie Dice",
         "Tempo": "10min",
-        "Nº de jogadores": "2 a 99",
+        "Njoga": "2 a 99",
         "Formato": "Dados",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
@@ -205,7 +205,7 @@
     {
         "Jogo": "Yu-Gi-Oh (Deck Luminoso)",
         "Tempo": "20min",
-        "Nº de jogadores": 2,
+        "Njoga": 2,
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -214,7 +214,7 @@
     {
         "Jogo": "Battle Scenes Evolução Tática Força Suprema",
         "Tempo": "30min",
-        "Nº de jogadores": 2,
+        "Njoga": 2,
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -223,7 +223,7 @@
     {
         "Jogo": "Battle Scenes Universo Marvel Heróis",
         "Tempo": "30min",
-        "Nº de jogadores": 2,
+        "Njoga": 2,
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -232,7 +232,7 @@
     {
         "Jogo": "Battle Scenes Universo Marvel Vilões",
         "Tempo": "30min",
-        "Nº de jogadores": 2,
+        "Njoga": 2,
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -241,7 +241,7 @@
     {
         "Jogo": "Hitler Secreto",
         "Tempo": "20min",
-        "Nº de jogadores": "5 a 10",
+        "Njoga": "5 a 10",
         "Formato": "Cartas",
         "Peso": "Inter-Complex",
         "Estilo": "Competitivo",
@@ -250,7 +250,7 @@
     {
         "Jogo": "Battle Scenes Evolução Tática Ilusão Sombria",
         "Tempo": "30min",
-        "Nº de jogadores": 2,
+        "Njoga": 2,
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -259,7 +259,7 @@
     {
         "Jogo": "Ultimate Werewolf Deluxe Edition",
         "Tempo": "30min",
-        "Nº de jogadores": "7 a 30",
+        "Njoga": "7 a 30",
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Interm",
         "Estilo": "Competitivo",
@@ -268,7 +268,7 @@
     {
         "Jogo": "Dobble",
         "Tempo": "5-15",
-        "Nº de jogadores": "2 a 8",
+        "Njoga": "2 a 8",
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
@@ -277,13 +277,13 @@
     {
         "Jogo": "The Cook-Off",
         "Tempo": "40min",
-        "Nº de jogadores": "4 a 6",
+        "Njoga": "4 a 6",
         "Img": "/teste.png"
     },
     {
         "Jogo": "The Resistance",
         "Tempo": "30min",
-        "Nº de jogadores": "5 a 10",
+        "Njoga": "5 a 10",
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -292,7 +292,7 @@
     {
         "Jogo": "For Sale",
         "Tempo": "30min",
-        "Nº de jogadores": "2 a 6",
+        "Njoga": "2 a 6",
         "Formato": "Cartas(e fichas)",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
@@ -301,7 +301,7 @@
     {
         "Jogo": "Super-Trunfo Energia",
         "Tempo": "15min",
-        "Nº de jogadores": "2 a 8",
+        "Njoga": "2 a 8",
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
@@ -310,7 +310,7 @@
     {
         "Jogo": "Dropmix",
         "Tempo": "30min",
-        "Nº de jogadores": "1 a 4",
+        "Njoga": "1 a 4",
         "Formato": "Cartas(e celular)",
         "Peso": "Intermediário",
         "Estilo": "Coop-Compet",
@@ -319,19 +319,19 @@
     {
         "Jogo": "011: An adventure with Therion",
         "Tempo": "90-120",
-        "Nº de jogadores": "3 a 6",
+        "Njoga": "3 a 6",
         "Img": "/teste.png"
     },
     {
         "Jogo": "Brazil Imperial",
         "Tempo": "100min",
-        "Nº de jogadores": "1 a 4",
+        "Njoga": "1 a 4",
         "Img": "/teste.png"
     },
     {
         "Jogo": "Camel Cup",
         "Tempo": "45min",
-        "Nº de jogadores": "2 a 10",
+        "Njoga": "2 a 10",
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermed",
         "Estilo": "Competitivo",
@@ -340,7 +340,7 @@
     {
         "Jogo": "Neuroshima Hex! 3.0",
         "Tempo": "30min",
-        "Nº de jogadores": "2 a 4",
+        "Njoga": "2 a 4",
         "Formato": "Tabuleiro",
         "Peso": "Interm-Complex",
         "Estilo": "Competitvo",
@@ -349,7 +349,7 @@
     {
         "Jogo": "Samurai (Reiner Knizia)",
         "Tempo": "45min",
-        "Nº de jogadores": "2 a 4",
+        "Njoga": "2 a 4",
         "Formato": "Tabuleiro",
         "Peso": "Interm-Complex",
         "Estilo": "Competitivo",
@@ -358,7 +358,7 @@
     {
         "Jogo": "Steampunk Rally",
         "Tempo": "45min",
-        "Nº de jogadores": "2 a 8",
+        "Njoga": "2 a 8",
         "Formato": "Tabuleiro",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -367,7 +367,7 @@
     {
         "Jogo": "Zombiecide Season 2 Prision Outbeak",
         "Tempo": "60min",
-        "Nº de jogadores": "1 a 6",
+        "Njoga": "1 a 6",
         "Formato": "Tabuleiro",
         "Peso": "Intermediário",
         "Estilo": "Cooperativo",
@@ -376,7 +376,7 @@
     {
         "Jogo": "Aquileia",
         "Tempo": "90min",
-        "Nº de jogadores": "3 a 5",
+        "Njoga": "3 a 5",
         "Formato": "Tabuleiro",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -385,19 +385,19 @@
     {
         "Jogo": "City Tycoon",
         "Tempo": "60min",
-        "Nº de jogadores": "2 a 5",
+        "Njoga": "2 a 5",
         "Img": "/teste.png"
     },
     {
         "Jogo": "Gears of War",
         "Tempo": "180min",
-        "Nº de jogadores": "1 a 4",
+        "Njoga": "1 a 4",
         "Img": "/teste.png"
     },
     {
         "Jogo": "Uno",
         "Tempo": "30min",
-        "Nº de jogadores": "2 a 10",
+        "Njoga": "2 a 10",
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
@@ -406,7 +406,7 @@
     {
         "Jogo": "Tiny epic kingdoms heroes' call",
         "Tempo": "60min",
-        "Nº de jogadores": "1 a 5",
+        "Njoga": "1 a 5",
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
@@ -415,7 +415,7 @@
     {
         "Jogo": "War of indines",
         "Tempo": "15min",
-        "Nº de jogadores": "2 a 4",
+        "Njoga": "2 a 4",
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -424,7 +424,7 @@
     {
         "Jogo": "Super cats",
         "Tempo": "15min",
-        "Nº de jogadores": "3 a 6",
+        "Njoga": "3 a 6",
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
@@ -433,13 +433,13 @@
     {
         "Jogo": "Sim, mestre das trevas!",
         "Tempo": "30min",
-        "Nº de jogadores": "4 a 16",
+        "Njoga": "4 a 16",
         "Img": "/teste.png"
     },
     {
         "Jogo": "Butim",
         "Tempo": "60min",
-        "Nº de jogadores": "2 a 7",
+        "Njoga": "2 a 7",
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
@@ -448,7 +448,7 @@
     {
         "Jogo": "Love letter",
         "Tempo": "20min",
-        "Nº de jogadores": "2 a 4",
+        "Njoga": "2 a 4",
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
@@ -457,7 +457,7 @@
     {
         "Jogo": "Munchkin",
         "Tempo": "90min",
-        "Nº de jogadores": "3 a 6",
+        "Njoga": "3 a 6",
         "Formato": "Cartas",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
@@ -466,13 +466,13 @@
     {
         "Jogo": "Eric Lang's senator",
         "Tempo": "60min",
-        "Nº de jogadores": "3 a 5",
+        "Njoga": "3 a 5",
         "Img": "/teste.png"
     },
     {
         "Jogo": "Cardfight!! Vanguard",
         "Tempo": "30min",
-        "Nº de jogadores": 2,
+        "Njoga": 2,
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -481,7 +481,7 @@
     {
         "Jogo": "Lords of xidit",
         "Tempo": "90min",
-        "Nº de jogadores": "3 a 5",
+        "Njoga": "3 a 5",
         "Formato": "Tabuleiro",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -490,7 +490,7 @@
     {
         "Jogo": "Quarriors! Dice building game",
         "Tempo": "30min",
-        "Nº de jogadores": "2 a 4",
+        "Njoga": "2 a 4",
         "Formato": "Tabuleiro",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -499,7 +499,7 @@
     {
         "Jogo": "Dogs(de marcos macri)",
         "Tempo": "60min",
-        "Nº de jogadores": "2 a 4",
+        "Njoga": "2 a 4",
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Cooperativo",
@@ -508,7 +508,7 @@
     {
         "Jogo": "O vale dos monstros",
         "Tempo": "60min",
-        "Nº de jogadores": "2 a 5",
+        "Njoga": "2 a 5",
         "Formato": "Tabuleiro",
         "Peso": "Intermediário",
         "Estilo": "Cooperativo",
@@ -521,19 +521,19 @@
     {
         "Jogo": "Jester",
         "Tempo": "75min",
-        "Nº de jogadores": "2 a 4",
+        "Njoga": "2 a 4",
         "Img": "/teste.png"
     },
     {
         "Jogo": "Viagem no tempo",
         "Tempo": "60min",
-        "Nº de jogadores": "3 a 5",
+        "Njoga": "3 a 5",
         "Img": "/teste.png"
     },
     {
         "Jogo": "Aquarium",
         "Tempo": "90min",
-        "Nº de jogadores": "2 a 4",
+        "Njoga": "2 a 4",
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
@@ -542,7 +542,7 @@
     {
         "Jogo": "Gran circo",
         "Tempo": "50min",
-        "Nº de jogadores": "2 a 5",
+        "Njoga": "2 a 5",
         "Formato": "Tabuleiro",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
@@ -551,7 +551,7 @@
     {
         "Jogo": "Trilha",
         "Tempo": "20min",
-        "Nº de jogadores": 2,
+        "Njoga": 2,
         "Formato": "Tabuleiro",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
@@ -560,13 +560,13 @@
     {
         "Jogo": "Selene the fantasy",
         "Tempo": "60min",
-        "Nº de jogadores": "2 a 6",
+        "Njoga": "2 a 6",
         "Img": "/teste.png"
     },
     {
         "Jogo": "Gammon",
         "Tempo": "30min",
-        "Nº de jogadores": 2,
+        "Njoga": 2,
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
@@ -575,7 +575,7 @@
     {
         "Jogo": "Futebox",
         "Tempo": "15min",
-        "Nº de jogadores": 2,
+        "Njoga": 2,
         "Formato": "Tabuleiro",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
@@ -584,7 +584,7 @@
     {
         "Jogo": "Queops",
         "Tempo": "20min",
-        "Nº de jogadores": 2,
+        "Njoga": 2,
         "Formato": "Tabuleiro",
         "Peso": "Interm-Complexo",
         "Estilo": "Competitivo",
@@ -593,7 +593,7 @@
     {
         "Jogo": "Oware",
         "Tempo": "20min",
-        "Nº de jogadores": 2,
+        "Njoga": 2,
         "Formato": "Tabuleiro",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
@@ -602,7 +602,7 @@
     {
         "Jogo": "Polaris",
         "Tempo": "30min",
-        "Nº de jogadores": 2,
+        "Njoga": 2,
         "Formato": "RPG",
         "Peso": "Interm-Complexo",
         "Estilo": "Cooperativo",
@@ -611,7 +611,7 @@
     {
         "Jogo": "Bagha-chall",
         "Tempo": "20min",
-        "Nº de jogadores": 2,
+        "Njoga": 2,
         "Formato": "Tabuleiro",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
@@ -620,7 +620,7 @@
     {
         "Jogo": "Jogo real de ur",
         "Tempo": "30min",
-        "Nº de jogadores": 2,
+        "Njoga": 2,
         "Formato": "Tabuleiro",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
@@ -629,7 +629,7 @@
     {
         "Jogo": "Pagoda",
         "Tempo": "30min",
-        "Nº de jogadores": 2,
+        "Njoga": 2,
         "Formato": "Tabuleiro",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -638,7 +638,7 @@
     {
         "Jogo": "Runicards",
         "Tempo": "120min",
-        "Nº de jogadores": "1 a 8",
+        "Njoga": "1 a 8",
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -647,7 +647,7 @@
     {
         "Jogo": "Mysterium",
         "Tempo": "42min",
-        "Nº de jogadores": "2 a 7",
+        "Njoga": "2 a 7",
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Cooperativo",
@@ -656,7 +656,7 @@
     {
         "Jogo": "Das ver rücket labyrinth",
         "Tempo": "25min",
-        "Nº de jogadores": "2 a 4",
+        "Njoga": "2 a 4",
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
@@ -665,7 +665,7 @@
     {
         "Jogo": "Bot",
         "Tempo": "60min",
-        "Nº de jogadores": 2,
+        "Njoga": 2,
         "Formato": "Tabuleiro",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
@@ -674,7 +674,7 @@
     {
         "Jogo": "Imigrantes",
         "Tempo": "120min",
-        "Nº de jogadores": "1 a 4",
+        "Njoga": "1 a 4",
         "Formato": "Tabuleiro",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -683,7 +683,7 @@
     {
         "Jogo": "Cyclades",
         "Tempo": "90min",
-        "Nº de jogadores": "2 a 5",
+        "Njoga": "2 a 5",
         "Formato": "Tabuleiro",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -692,7 +692,7 @@
     {
         "Jogo": "Imhotep builder of egypt",
         "Tempo": "40min",
-        "Nº de jogadores": "2 a 4",
+        "Njoga": "2 a 4",
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
@@ -701,7 +701,7 @@
     {
         "Jogo": "Possessão arcana",
         "Tempo": "120min",
-        "Nº de jogadores": "1 a 6",
+        "Njoga": "1 a 6",
         "Formato": "Tabuleiro",
         "Peso": "Intermediário",
         "Estilo": "Cooperativo",
@@ -710,7 +710,7 @@
     {
         "Jogo": "Dominion",
         "Tempo": "30min",
-        "Nº de jogadores": "2 a 4",
+        "Njoga": "2 a 4",
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
@@ -719,7 +719,7 @@
     {
         "Jogo": "Hase und igel (Hare and Turtoise)",
         "Tempo": "45min",
-        "Nº de jogadores": "2 a 6",
+        "Njoga": "2 a 6",
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
@@ -728,7 +728,7 @@
     {
         "Jogo": "Ultimate Warlorz",
         "Tempo": "30min",
-        "Nº de jogadores": "2 a 8",
+        "Njoga": "2 a 8",
         "Formato": "Tabuleiro",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
@@ -737,7 +737,7 @@
     {
         "Jogo": "Tash-Kalar Arena of Legends",
         "Tempo": "20min",
-        "Nº de jogadores": "2 a 4",
+        "Njoga": "2 a 4",
         "Formato": "Tabuleiro",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -746,7 +746,7 @@
     {
         "Jogo": "Pantheon",
         "Tempo": "90min",
-        "Nº de jogadores": "2 a 4",
+        "Njoga": "2 a 4",
         "Formato": "Tabuleiro",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -755,7 +755,7 @@
     {
         "Jogo": "Horse Fever",
         "Tempo": "90min",
-        "Nº de jogadores": "2 a 6",
+        "Njoga": "2 a 6",
         "Formato": "Tabuleiro",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -764,7 +764,7 @@
     {
         "Jogo": "Dogs Cardgame",
         "Tempo": "40min",
-        "Nº de jogadores": "2 a 5",
+        "Njoga": "2 a 5",
         "Formato": "Cartas",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
@@ -773,7 +773,7 @@
     {
         "Jogo": "Castle Panic",
         "Tempo": "60min",
-        "Nº de jogadores": "1 a 6",
+        "Njoga": "1 a 6",
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Cooperativo",
@@ -782,7 +782,7 @@
     {
         "Jogo": "Dice City",
         "Tempo": "60min",
-        "Nº de jogadores": "1 a 4",
+        "Njoga": "1 a 4",
         "Formato": "Cartas",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
@@ -791,13 +791,13 @@
     {
         "Jogo": "O Senhor dos Anéis",
         "Tempo": "60min",
-        "Nº de jogadores": "1 a 4",
+        "Njoga": "1 a 4",
         "Img": "/teste.png"
     },
     {
         "Jogo": "Survive Fuga de Atlântida!",
         "Tempo": "60min",
-        "Nº de jogadores": "2 a 4",
+        "Njoga": "2 a 4",
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
@@ -806,7 +806,7 @@
     {
         "Jogo": "Madeira",
         "Tempo": "120min",
-        "Nº de jogadores": "2 a 4",
+        "Njoga": "2 a 4",
         "Formato": "Tabuleiro",
         "Peso": "Médio-Pesado",
         "Estilo": "Competitivo",
@@ -815,7 +815,7 @@
     {
         "Jogo": "K2",
         "Tempo": "60min",
-        "Nº de jogadores": "1 a 5",
+        "Njoga": "1 a 5",
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
@@ -824,7 +824,7 @@
     {
         "Jogo": "Broom Service",
         "Tempo": "75min",
-        "Nº de jogadores": "2 a 5",
+        "Njoga": "2 a 5",
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
@@ -833,7 +833,7 @@
     {
         "Jogo": "Catan o Jogo",
         "Tempo": "90min",
-        "Nº de jogadores": "3 a 4",
+        "Njoga": "3 a 4",
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
@@ -842,7 +842,7 @@
     {
         "Jogo": "Keyforge",
         "Tempo": "45min",
-        "Nº de jogadores": 2,
+        "Njoga": 2,
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -851,7 +851,7 @@
     {
         "Jogo": "Card Fight Vanguard",
         "Tempo": "30min",
-        "Nº de jogadores": 2,
+        "Njoga": 2,
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -860,7 +860,7 @@
     {
         "Jogo": "Scotland yard",
         "Tempo": "90min",
-        "Nº de jogadores": "2 a 6",
+        "Njoga": "2 a 6",
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
@@ -869,7 +869,7 @@
     {
         "Jogo": "Auf achse (Carga Máxima) (On the Road)",
         "Tempo": "60min",
-        "Nº de jogadores": "2 a 6",
+        "Njoga": "2 a 6",
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
@@ -882,7 +882,7 @@
     {
         "Jogo": "Der fliegende Holländer",
         "Tempo": "60min",
-        "Nº de jogadores": "3 a 6",
+        "Njoga": "3 a 6",
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
@@ -891,7 +891,7 @@
     {
         "Jogo": "Manhattan",
         "Tempo": "45 min",
-        "Nº de jogadores": "2 a 4",
+        "Njoga": "2 a 4",
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
@@ -900,7 +900,7 @@
     {
         "Jogo": "Alta velocidade",
         "Tempo": "60min",
-        "Nº de jogadores": "2 a 4",
+        "Njoga": "2 a 4",
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
@@ -909,7 +909,7 @@
     {
         "Jogo": "Tadsch mahal*",
         "Tempo": "90min",
-        "Nº de jogadores": "2 a 5",
+        "Njoga": "2 a 5",
         "Formato": "Tabuleiro",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -918,20 +918,20 @@
     {
         "Jogo": "Die Fürsten von Florenz (Os príncipes de Florença)",
         "Tempo": "100min",
-        "Nº de jogadores": "3 a 5",
+        "Njoga": "3 a 5",
         "Estilo": "Coop-Compet",
         "Img": "/teste.png"
     },
     {
         "Jogo": "Senhor dos Anéis a sociedade do anel (miniaturas)",
         "Tempo": "20 min",
-        "Nº de jogadores": "2 a 6",
+        "Njoga": "2 a 6",
         "Img": "/teste.png"
     },
     {
         "Jogo": "Tikal",
         "Tempo": "90min",
-        "Nº de jogadores": "2 a 4",
+        "Njoga": "2 a 4",
         "Formato": "Tabuleiro",
         "Peso": "Intermediário",
         "Estilo": "Cooperativo",
@@ -940,7 +940,7 @@
     {
         "Jogo": "Die Händler von Genua (Os comerciantes de Gênova)",
         "Tempo": "120min",
-        "Nº de jogadores": "2 a 5",
+        "Njoga": "2 a 5",
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Cooperativo",
@@ -949,7 +949,7 @@
     {
         "Jogo": "Saboteur",
         "Tempo": "30min",
-        "Nº de jogadores": "3 a 10",
+        "Njoga": "3 a 10",
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
@@ -958,7 +958,7 @@
     {
         "Jogo": "Magic The Gathering (Ultra Pro Deck Box)",
         "Tempo": "35min",
-        "Nº de jogadores": "2 a 4",
+        "Njoga": "2 a 4",
         "Formato": "Cartas",
         "Peso": "Pesado",
         "Estilo": "Competitivo",
@@ -967,7 +967,7 @@
     {
         "Jogo": "Port Royal",
         "Tempo": "30min",
-        "Nº de jogadores": "2 a 5",
+        "Njoga": "2 a 5",
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Coop-Compet",
@@ -976,7 +976,7 @@
     {
         "Jogo": "Pictureka!",
         "Tempo": "30min",
-        "Nº de jogadores": "2 a 7",
+        "Njoga": "2 a 7",
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
@@ -985,7 +985,7 @@
     {
         "Jogo": "Telma",
         "Tempo": "20min",
-        "Nº de jogadores": "4 a 8",
+        "Njoga": "4 a 8",
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -994,7 +994,7 @@
     {
         "Jogo": "Dominion Update Pack",
         "Tempo": "30min",
-        "Nº de jogadores": "2 a 4",
+        "Njoga": "2 a 4",
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -1003,7 +1003,7 @@
     {
         "Jogo": "Diamonsters",
         "Tempo": "20min",
-        "Nº de jogadores": "2 a 6",
+        "Njoga": "2 a 6",
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
@@ -1012,7 +1012,7 @@
     {
         "Jogo": "Reinos e Relíquias Entre Luz e Trevas",
         "Tempo": "45min",
-        "Nº de jogadores": "2 a 9",
+        "Njoga": "2 a 9",
         "Formato": "Cartas",
         "Peso": "Pesado",
         "Estilo": "Coop-Compet",
@@ -1021,7 +1021,7 @@
     {
         "Jogo": "A Ilha Proibida (Aventure-se… Se tiver coragem)",
         "Tempo": "30min",
-        "Nº de jogadores": "2 a 4",
+        "Njoga": "2 a 4",
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -1030,7 +1030,7 @@
     {
         "Jogo": "O Último Grande Campeão",
         "Tempo": "45min",
-        "Nº de jogadores": "3 a 6",
+        "Njoga": "3 a 6",
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
@@ -1039,7 +1039,7 @@
     {
         "Jogo": "Robin Hood",
         "Tempo": "50min",
-        "Nº de jogadores": "3 a 5",
+        "Njoga": "3 a 5",
         "Formato": "Cartas",
         "Peso": "Pesado",
         "Estilo": "Competitivo",
@@ -1048,7 +1048,7 @@
     {
         "Jogo": "War Zoo",
         "Tempo": "30min",
-        "Nº de jogadores": "2 a 4",
+        "Njoga": "2 a 4",
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
@@ -1057,7 +1057,7 @@
     {
         "Jogo": "Munchkin Zombies",
         "Tempo": "90min",
-        "Nº de jogadores": "3 a 6",
+        "Njoga": "3 a 6",
         "Formato": "Cartas",
         "Peso": "Pesado",
         "Estilo": "Competitivo",
@@ -1066,7 +1066,7 @@
     {
         "Jogo": "Don Capollo",
         "Tempo": "45min",
-        "Nº de jogadores": "3 a 6",
+        "Njoga": "3 a 6",
         "Formato": "Cartas",
         "Peso": "Pesado",
         "Estilo": "Coop-Compet",
@@ -1075,13 +1075,13 @@
     {
         "Jogo": "Engage Senhores da Guerra (Maldição de Silent Crown)",
         "Tempo": "45min",
-        "Nº de jogadores": 2,
+        "Njoga": 2,
         "Img": "/teste.png"
     },
     {
         "Jogo": "Viajantes",
         "Tempo": "20min",
-        "Nº de jogadores": "3 a 6",
+        "Njoga": "3 a 6",
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Cooperativo",
@@ -1090,7 +1090,7 @@
     {
         "Jogo": "Pablo",
         "Tempo": "30min",
-        "Nº de jogadores": "2 a 10",
+        "Njoga": "2 a 10",
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -1099,7 +1099,7 @@
     {
         "Jogo": "Histórias de Pescador",
         "Tempo": "30min",
-        "Nº de jogadores": "3 a 7",
+        "Njoga": "3 a 7",
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -1108,7 +1108,7 @@
     {
         "Jogo": "Imagine",
         "Tempo": "30min",
-        "Nº de jogadores": "3 a 8",
+        "Njoga": "3 a 8",
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
@@ -1117,7 +1117,7 @@
     {
         "Jogo": "Codenames",
         "Tempo": "15 min",
-        "Nº de jogadores": "2 a 8",
+        "Njoga": "2 a 8",
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Coop-Compet",
@@ -1126,7 +1126,7 @@
     {
         "Jogo": "Citadels",
         "Tempo": "60min",
-        "Nº de jogadores": "2 a 8",
+        "Njoga": "2 a 8",
         "Formato": "Cartas",
         "Peso": "Pesado",
         "Estilo": "Competitivo",
@@ -1135,7 +1135,7 @@
     {
         "Jogo": "Pássaros (de Marcos Macri)",
         "Tempo": "50min",
-        "Nº de jogadores": "2 a 5",
+        "Njoga": "2 a 5",
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
@@ -1144,7 +1144,7 @@
     {
         "Jogo": "Spellfire O poder da Magia",
         "Tempo": "90min",
-        "Nº de jogadores": "2 a 8",
+        "Njoga": "2 a 8",
         "Formato": "Cartas",
         "Peso": "Pesado",
         "Estilo": "Competitivo",
@@ -1153,7 +1153,7 @@
     {
         "Jogo": "Spelfire Master the magic",
         "Tempo": "90min",
-        "Nº de jogadores": "2 a 8",
+        "Njoga": "2 a 8",
         "Formato": "Cartas",
         "Peso": "Pesado",
         "Estilo": "Competitivo",
@@ -1162,7 +1162,7 @@
     {
         "Jogo": "Magic The Gathering (Deckmaster)",
         "Tempo": "35 min",
-        "Nº de jogadores": "2 a 4",
+        "Njoga": "2 a 4",
         "Formato": "Cartas",
         "Peso": "Pesado",
         "Estilo": "Competitivo",
@@ -1171,7 +1171,7 @@
     {
         "Jogo": "Modern art",
         "Tempo": "45min",
-        "Nº de jogadores": "3 a 5",
+        "Njoga": "3 a 5",
         "Formato": "Cartas",
         "Peso": "Pesado",
         "Estilo": "Competitivo",
@@ -1180,7 +1180,7 @@
     {
         "Jogo": "O grande chefão",
         "Tempo": "30min",
-        "Nº de jogadores": "3 a 6",
+        "Njoga": "3 a 6",
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Coop-Compet",
@@ -1189,7 +1189,7 @@
     {
         "Jogo": "Elfenland",
         "Tempo": "60min",
-        "Nº de jogadores": "2 a 6",
+        "Njoga": "2 a 6",
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Coop-Compet",

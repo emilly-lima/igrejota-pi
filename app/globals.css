@@ -28,9 +28,9 @@ button {
 }
 
 h3 {
-  @apply text-lg text-center;
+  @apply text-[18px] text-center;
 }
 
 p {
-  @apply rounded-xl bg-zinc-500 px-4 text-sm;
+  @apply rounded-xl bg-zinc-500 px-2 text-xs;
 }

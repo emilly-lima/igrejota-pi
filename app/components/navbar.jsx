@@ -1,9 +1,10 @@
+"use client";
 import * as React from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faMagnifyingGlass, faQuestion } from '@fortawesome/free-solid-svg-icons'
 import Modal from "@/app/components/modal"
 import { useState } from 'react';
-
+import Link from 'next/link'
 
 /*let offsetHeight;*/
 export default function Navbar() {
@@ -19,7 +20,8 @@ export default function Navbar() {
 
     return (
         <div /*ref={headerRef}*/ className="w-full flex px-16 z-[1000] bg-zinc-800 h-[108px] items-center place-content-between gap-2 md:gap-8 ">
-            <h1 className="text-white font-bold ml-[130px]">IGREJOTA</h1>
+            <Link href="/">
+                <h1 className="text-white font-bold ml-[130px]">IGREJOTA</h1></Link>
             <div className='flex flex-row items-center mr-[130px]'>
                 <div className='flex flex-row relative mx-9'>
                     <input type="text" placeholder="Buscar jogo..." className='bg-zinc-200  rounded-[16px] w-[400px] h-[43px] mr-[30px] hover:bg-white'/>
