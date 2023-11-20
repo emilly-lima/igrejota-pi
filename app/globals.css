@@ -26,3 +26,11 @@ h1 {
 button {
   @apply rounded-md px-4 py-2 bg-white;
 }
+
+h3 {
+  @apply text-lg text-center;
+}
+
+p {
+  @apply rounded-xl bg-zinc-500 px-4 text-sm;
+}
