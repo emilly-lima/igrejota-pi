@@ -1,13 +1,18 @@
 import react from "react";
 import Link from "next/link";
+import { useRef } from "react";
 
 const Filtros = ({ jogos }) => {
+   const ref = useRef(initialValue)
+    return (
+        <div className='flex flex-row gap-[58px] justify-center py-6 flex-wrap relative bottom-0'>
+            {jogos && jogos.map((item) => (
 
     <div className="m-auto max-w-[100vw]">
    
     <section className="flex justify-evenly bg-zinc-300 w-full p-4">
         <select className="appearence-none" id="tempo">
-            <option value="todos-p">Tempo de Partida</option>
+            <option value="todos-p" >Tempo de Partida</option>
             <option value="30">Menor que 30min</option>
             <option value="60">Entre 30 e 60min</option>
             <option value="90">Maior que 60min</option>
@@ -40,5 +45,9 @@ const Filtros = ({ jogos }) => {
         <Random />
     </section>
 
+    
     </div>
-}
+            ))}
+</div>
+    );
+};
