@@ -18,7 +18,8 @@
     "modal-nextjs": "^0.1.6",
     "next": "14.0.1",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "zustand": "^4.4.6"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
