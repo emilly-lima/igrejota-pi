@@ -13,13 +13,14 @@ const BACKGROUND_STYLE = {
 
 const MODAL_STYLE = {
   position: 'fixed',
-  top: '50%',
+  top: '0%',
   left: '50%',
   transform: 'translate(-50%,-50%)',
   padding: '150px',
   backgroundColor: '#fff',
   borderRadius: '10px',
-  color: 'black'
+  color: 'black',
+  transform: "rotate(335deg)"
 }
 
 export default function Modal({ isOpen, setModalOpen, children }) {
