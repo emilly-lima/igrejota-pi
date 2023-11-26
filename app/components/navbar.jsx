@@ -1,10 +1,11 @@
 "use client";
 import * as React from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faMagnifyingGlass, faQuestion } from '@fortawesome/free-solid-svg-icons'
+import { faQuestion } from '@fortawesome/free-solid-svg-icons'
 import Modal from "@/app/components/modal"
 import { useState } from 'react';
 import Link from 'next/link'
+import Busca from './busca';
 
 /*let offsetHeight;*/
 export default function Navbar() {
@@ -19,16 +20,15 @@ export default function Navbar() {
     const [openModal, setOpenModal] = useState(false)
 
     return (
-        <div /*ref={headerRef}*/ className="w-full flex px-16 z-[1000] bg-zinc-800 h-[108px] items-center place-content-between gap-2 md:gap-8 ">
+        <div /*ref={headerRef}*/ className="w-full flex z-[1000] bg-zinc-800 h-[75px] items-center place-content-between lg:gap-2">
             <Link href="/">
-                <h1 className="text-white font-bold ml-[130px]">IGREJOTA</h1></Link>
-            <div className='flex flex-row items-center mr-[130px]'>
-                <div className='flex flex-row relative mx-9'>
-                    <input type="text" placeholder="Buscar jogo..." className='bg-zinc-200  rounded-[16px] w-[400px] h-[43px] mr-[30px] hover:bg-white'/>
-                    <FontAwesomeIcon icon={faMagnifyingGlass} width={24} height={24} className='absolute top-2.5 left-[365px] w-[22px] h-[22px] pointer-events-none ' />
-                </div>
-                <button className='px-4 rounded-[16px] w-[50px] h-[54px] bg-zinc-200 hover:bg-white' onClick={() => setOpenModal(true)}>
-                    <FontAwesomeIcon icon={faQuestion} width={30} height={30} className='flex items-center w-[20px] h-[37px]'/>
+                <h1 className="text-white font-bold ml-[20px] text-2xl  sm:text-3xl  lg:ml-[130px]">IGREJOTA</h1></Link>
+            <div className='flex flex-row items-center lg:mr-[130px]'>
+            <div>
+                <Busca/>
+            </div>
+                <button className=' rounded-[16px] w-[46px] h-[38px] bg-zinc-200 mr-[20px] ml-[-12px] hover:bg-white  lg:px-4 lg:h-[48px]' onClick={() => setOpenModal(true)}>
+                    <FontAwesomeIcon icon={faQuestion} width={30} height={30} className=' w-[28px] h-[28px] ml-[-7px] mt-[-1px]  lg:h-[33px] lg: mt-0'/>
                 </button>
                 <div>
                     <Modal isOpen={openModal} setModalOpen={() => setOpenModal(!openModal)}>
