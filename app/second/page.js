@@ -23,10 +23,13 @@ export default function Second() {
     }, []);
     // rest of your component
     return (
-        <div className="m-auto max-w-[100vw]">
+        <div>
             <Navbar />
-            <section className="flex justify-evenly bg-zinc-300 w-full p-4">
-                <select className="appearence-none" id="tempo">
+        <div className="m-auto max-w-[100vw]">
+            
+            
+            <section className="flex flew-wrap justify-evenly items-center bg-zinc-300 w-full p-4 h-[80px]">
+                <select className="appearence-none" id="tempo ">
                     <option value="todos-p">Tempo de Partida</option>
                     <option value="30">Menor que 30min</option>
                     <option value="60">Entre 30 e 60min</option>
@@ -56,18 +59,18 @@ export default function Second() {
                     <option value="medio">Médio</option>
                     <option value="dificil">Dificil</option>
                 </select>
-
-                <Random />
             </section>
-
+            
+            
+            <Random />
             <aside>
-
             </aside>
 
             <main className="w-full h-screen">
                 <Card jogos={jogos} />
             </main>
 
+        </div>
         </div>
     )
 }
