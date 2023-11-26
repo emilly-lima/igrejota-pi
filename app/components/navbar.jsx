@@ -27,8 +27,8 @@ export default function Navbar() {
             <div>
                 <Busca/>
             </div>
-                <button className=' rounded-[16px] w-[48px] h-[45px] bg-zinc-200 mr-[20px] ml-[-12px] hover:bg-white  lg:px-4 md:w-[50px] lg:h-[54px]' onClick={() => setOpenModal(true)}>
-                    <FontAwesomeIcon icon={faQuestion} width={30} height={30} className='flex items-center w-[20px] h-[30px] ml-[-2px] lg:h-[37px] lg:ml-[0px]'/>
+                <button className=' rounded-[16px] w-[46px] h-[38px] bg-zinc-200 mr-[20px] ml-[-12px] hover:bg-white  lg:px-4 lg:h-[48px]' onClick={() => setOpenModal(true)}>
+                    <FontAwesomeIcon icon={faQuestion} width={30} height={30} className=' w-[28px] h-[28px] ml-[-7px] mt-[-2px]  lg:h-[37px]'/>
                 </button>
                 <div>
                     <Modal isOpen={openModal} setModalOpen={() => setOpenModal(!openModal)}>
