@@ -14,7 +14,7 @@ export default function CustomCarousel() {
     <Carousel
       className="rounded-xl w-[500px] relative mx-5"
       navigation={({ setActiveIndex, activeIndex, length }) => (
-        <div className="absolute z-50 flex gap-2 bottom-4 left-2/4 -translate-x-2/4 gap-2">
+        <div className="absolute z-50 flex gap-2 bottom-4 left-2/4 -translate-x-2/4">
           {new Array(length).fill("").map((_, i) => (
             <span
               key={i}
