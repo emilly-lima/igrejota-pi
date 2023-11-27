@@ -16,7 +16,7 @@ input {
 }
 
 select {
-  @apply rounded-full outline-none px-[23px] h-[40px];
+  @apply rounded-full outline-none px-[23px] h-[40px] w-[110px]  mx-2 text-xs sm:text-base sm:w-[194px];
 }
 
 h1 {
@@ -28,7 +28,7 @@ button {
 }
 
 h3 {
-  @apply text-[18px] text-center;
+  @apply flex text-[18px] text-center text-sm flex-wrap;
 }
 
 p {
