@@ -29,7 +29,7 @@ export default function Second() {
   return (
     <div className="m-auto max-w-[100vw]">
       <Navbar />
-      <section className="flex w-full p-4 justify-evenly bg-zinc-300">
+      <section className="flex justify-evenly items-center bg-zinc-300  p-4 h-[80px]">
         <select
           className="appearence-none"
           id="tempo"
@@ -55,21 +55,36 @@ export default function Second() {
           <option value="carta">Cartas</option>
           <option value="Dados">Dados</option>
         </select>
-        <select>
+        <select id="estilo" className="hidden lg:flex">
           <option value="todos-e">Estilo de Jogo</option>
           <option value="competitivo">Competitivo</option>
           <option value="cooperativo">Cooperativo</option>
           <option value="ambos">Ambos</option>
         </select>
-        <select id="complexidade">
+        <select id="complexidade" className="hidden lg:flex">
           <option value="todos-c">Complexidade</option>
           <option value="facil">Fácil</option>
           <option value="medio">Médio</option>
           <option value="dificil">Dificil</option>
         </select>
-
-        <Random />
       </section>
+
+      <section className="flex justify-evenly items-center bg-zinc-300 p-4 h-[60px] lg:hidden mt-[-10px]"> 
+            <select id="estilo">
+                    <option value="todos-e">Estilo de Jogo</option>
+                    <option value="competitivo">Competitivo</option>
+                    <option value="cooperativo">Cooperativo</option>
+                    <option value="ambos">Ambos</option>
+                </select>
+                <select id="complexidade">
+                    <option value="todos-c">Complexidade</option>
+                    <option value="facil">Fácil</option>
+                    <option value="medio">Médio</option>
+                    <option value="dificil">Dificil</option>
+                </select>
+            </section>
+      
+      <Random />
 
       <aside></aside>
 
