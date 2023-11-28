@@ -6,7 +6,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/ToteMonstros.webp"
     },
     {
         "Jogo": "Amerigo",
@@ -24,7 +24,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermed",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Herdeiros do Khan.jpg"
     },
     {
         "Jogo": "Niagara: The Spirits of Niagara",
@@ -33,7 +33,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermed",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/NiagaraTheSpiritsofNiagara.webp"
     },
     {
         "Jogo": "Dakota",
@@ -60,7 +60,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermed",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Niagara.webp"
     },
     {
         "Jogo": "Tzolk’in The Mayan Calendar",
@@ -75,7 +75,9 @@
         "Jogo": "Velocity",
         "Tempo": "45min",
         "Njoga": "3 a 7",
-        "Img": "/teste.png"
+        "Formato":"Dados",
+        "Estilo":"Competitivo",
+        "Img": "/FDJ/Velocity.jpg"
     },
     {
         "Jogo": "Quissama",
@@ -83,7 +85,7 @@
         "Njoga": "2 a 5",
         "Formato": "Tabuleiro",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Quissama.jpg"
     },
     {
         "Jogo": "Perfil 3",
@@ -110,7 +112,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Intermediário",
         "Estilo": "Cooperativo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Pandemic Legacy.jpg"
     },
     {
         "Jogo": "Dungeon Roll",
@@ -137,7 +139,7 @@
         "Formato": "Cartas",
         "Peso": "Fácil-Intermed",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Lucca Città.jpg"
     },
     {
         "Jogo": "Province",
@@ -209,7 +211,7 @@
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/FDJ/Yu-Gi-Oh(Deck Luminoso).jpg"
+        "Img": "/FDJ/Yu-Gi-Oh (Deck Luminoso).jpg"
     },
     {
         "Jogo": "Battle Scenes Evolução Tática Força Suprema",
@@ -218,7 +220,7 @@
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Battle Scenes Evolução Tática Força Suprema.webp"
     },
     {
         "Jogo": "Battle Scenes Universo Marvel Heróis",
@@ -227,7 +229,7 @@
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Battle Scenes Universo Marvel Heróis.webp"
     },
     {
         "Jogo": "Battle Scenes Universo Marvel Vilões",
@@ -236,7 +238,7 @@
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Battle Scenes Universo Marvel Vilões.webp"
     },
     {
         "Jogo": "Hitler Secreto",
@@ -245,7 +247,7 @@
         "Formato": "Cartas",
         "Peso": "Inter-Complex",
         "Estilo": "Competitivo",
-        "Img": "/FDJ/Hitler Secreto.webp"
+        "Img": "/FDJ/Secrethitler.jpg"
     },
     {
         "Jogo": "Battle Scenes Evolução Tática Ilusão Sombria",
@@ -254,7 +256,7 @@
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "FDJ/Battle Scenes Evolução Tática Ilusão Sombria.webp"
     },
     {
         "Jogo": "Ultimate Werewolf Deluxe Edition",
@@ -272,13 +274,16 @@
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Dobble.jpg"
     },
     {
         "Jogo": "The Cook-Off",
         "Tempo": "40min",
         "Njoga": "4 a 6",
-        "Img": "/teste.png"
+        "Formato":"Cartas",
+        "Peso":"Intermediário",
+        "Estilo": "Competitivo",
+        "Img": "/FDJ/Thecookoff.jpg"
     },
     {
         "Jogo": "The Resistance",
@@ -287,7 +292,7 @@
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Theresistance.jpg"
     },
     {
         "Jogo": "For Sale",
@@ -296,7 +301,7 @@
         "Formato": "Cartas(e fichas)",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Forsale.jpg"
     },
     {
         "Jogo": "Super-Trunfo Energia",
@@ -305,7 +310,7 @@
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Trunfoenergia.png"
     },
     {
         "Jogo": "Dropmix",
@@ -314,7 +319,7 @@
         "Formato": "Cartas(e celular)",
         "Peso": "Intermediário",
         "Estilo": "Coop-Compet",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Dropmix.jpg"
     },
     {
         "Jogo": "011: An adventure with Therion",
