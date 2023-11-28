@@ -1,6 +1,6 @@
 import { create } from "zustand";
 
 export const useGameTime = create((set) => ({
-  time: "",
+ time: "",
   setTime: (time) => set({ time }),
 }));
