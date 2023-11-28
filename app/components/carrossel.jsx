@@ -4,10 +4,10 @@ import Image from "next/image";
 import { useGameTime } from "../store/gameTime";
 
 export default function CustomCarousel() {
-  const { time, setTime } = useGameTime();
+ const { time, setTime } = useGameTime();
 
-  React.useEffect(() => {
-    console.log(time);
+React.useEffect(() => {
+   console.log(time);
   }, [time]);
 
   return (

@@ -32,7 +32,7 @@ export default function Navbar() {
                 </button>
                 <div>
                     <Modal isOpen={openModal} setModalOpen={() => setOpenModal(!openModal)}>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vulputate mi tristique hendrerit rhoncus. Quisque maximus enim eget mauris imperdiet tincidunt. Pellentesque commodo consequat diam vitae tincidunt. Phasellus mollis sem lobortis volutpat accumsan. Nam auctor nulla porttitor venenatis dictum. Proin venenatis turpis sit amet ante malesuada, id tempor metus consectetur. Sed vulputate accumsan lacus vitae egestas. Quisque ut elit in ligula lobortis semper. Quisque vehicula massa euismod risus posuere, sit amet accumsan elit mattis. Pellentesque est enim, feugiat vitae ullamcorper nec, ullamcorper vitae eros. Ut eu hendrerit dui.
+                    <img src="modal1.png" alt="" /> 
                     </Modal>
                 </div>
             </div>

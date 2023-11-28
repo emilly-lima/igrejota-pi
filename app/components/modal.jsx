@@ -13,14 +13,14 @@ const BACKGROUND_STYLE = {
 
 const MODAL_STYLE = {
   position: 'fixed',
-  top: '0%',
+  top: '50%',
   left: '50%',
   transform: 'translate(-50%,-50%)',
-  padding: '150px',
-  backgroundColor: '#fff',
+  padding: '0px',
+  
   borderRadius: '10px',
   color: 'black',
-  transform: "rotate(335deg)"
+  
 }
 
 export default function Modal({ isOpen, setModalOpen, children }) {
@@ -28,11 +28,10 @@ export default function Modal({ isOpen, setModalOpen, children }) {
     return (
       <div style={BACKGROUND_STYLE}>
         <div style={MODAL_STYLE}>
-          <div style={{ cursor: 'pointer'}} onClick={setModalOpen}>
-            x
+          <div style={{ cursor: 'pointer'}} onClick={setModalOpen} class='flex justify-end'>
+           .
           </div>
           <div>{children}</div>
-          <button onClick={setModalOpen}>Fechar</button>
         </div>
       </div>
     )
