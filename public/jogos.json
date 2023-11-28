@@ -15,7 +15,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Amerigo.jpg"
     },
     {
         "Jogo": "Herdeiros do Khan",
@@ -42,7 +42,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Dakota.jpg"
     },
     {
         "Jogo": "Dixit",
@@ -51,7 +51,7 @@
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Coop-Comp",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Dixit.jpg"
     },
     {
         "Jogo": "Niagara",
@@ -69,7 +69,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Interm-Complx",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Tzolk’in The Mayan Calendar.jpg"
     },
     {
         "Jogo": "Velocity",
@@ -92,7 +92,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Perfil 3.webp"
     },
     {
         "Jogo": "Domínio de Carcassonne",
@@ -101,7 +101,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Domínio de Carcassonne.webp"
     },
     {
         "Jogo": "Pandemic Legacy",
@@ -119,7 +119,7 @@
         "Formato": "Cartas/Dados",
         "Peso": "Fácil",
         "Estilo": "Cooperativo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Dungeon Roll.jpg"
     },
     {
         "Jogo": "Hanabi",
@@ -128,7 +128,7 @@
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Cooperativo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Hanabi.jpg"
     },
     {
         "Jogo": "Lucca Città",
@@ -146,7 +146,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermed",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Province.jpg"
     },
     {
         "Jogo": "Age of War",
@@ -155,7 +155,7 @@
         "Formato": "Cartas/Dados",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Age of War2.png"
     },
     {
         "Jogo": "Vampire The Eternal Struggle",
@@ -164,7 +164,7 @@
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Vampire The Eternal Struggle2.jpg"
     },
     {
         "Jogo": "Warlord Saga of The Storm (Deverenian Legion)",
@@ -173,7 +173,7 @@
         "Formato": "Cartas",
         "Peso": "Fácil-Intermed",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Warlord Saga of The Storm (Deverenian Legion).jpg"
     },
     {
         "Jogo": "Warlord Saga of The Storm (Elf Legion)",
@@ -182,7 +182,7 @@
         "Formato": "Cartas",
         "Peso": "Fácil-Intermed",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Warlord Saga of The Storm (Elf Legion).jpg"
     },
     {
         "Jogo": "Mafia",
@@ -191,7 +191,7 @@
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Mafia.jpg"
     },
     {
         "Jogo": "Zombie Dice",
@@ -200,7 +200,7 @@
         "Formato": "Dados",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Zombie Dice.jpeg"
     },
     {
         "Jogo": "Yu-Gi-Oh (Deck Luminoso)",
@@ -209,7 +209,7 @@
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Yu-Gi-Oh(Deck Luminoso).jpg"
     },
     {
         "Jogo": "Battle Scenes Evolução Tática Força Suprema",
@@ -245,7 +245,7 @@
         "Formato": "Cartas",
         "Peso": "Inter-Complex",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Hitler Secreto.webp"
     },
     {
         "Jogo": "Battle Scenes Evolução Tática Ilusão Sombria",
@@ -263,7 +263,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Interm",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Ultimate Werewolf Deluxe Edition.jpg"
     },
     {
         "Jogo": "Dobble",
