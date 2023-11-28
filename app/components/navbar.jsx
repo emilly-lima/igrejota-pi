@@ -32,7 +32,7 @@ export default function Navbar() {
                 </button>
                 <div>
                     <Modal isOpen={openModal} setModalOpen={() => setOpenModal(!openModal)}>
-                    <img src="modal1.png" alt="" /> 
+                    <img src="modal1.png" alt=""/> 
                     </Modal>
                 </div>
             </div>

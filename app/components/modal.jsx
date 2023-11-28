@@ -28,10 +28,10 @@ export default function Modal({ isOpen, setModalOpen, children }) {
     return (
       <div style={BACKGROUND_STYLE}>
         <div style={MODAL_STYLE}>
-          <div style={{ cursor: 'pointer'}} onClick={setModalOpen} class='flex justify-end'>
-           .
+          <div style={{ cursor: 'pointer',position: 'absolute',top: '0px',left: '436px',background: 'transparent',border: 'none',padding: '10px',cursor: 'pointer',}} onClick={setModalOpen} class='flex justify-end'>
+          .
           </div>
-          <div>{children}</div>
+          <div class="w-[500px] h-[400px]">{children}</div>
         </div>
       </div>
     )
