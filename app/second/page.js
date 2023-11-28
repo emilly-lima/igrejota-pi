@@ -26,22 +26,34 @@ export default function Second() {
 
   console.log(time);
 
+  const [filtros, setFiltros] = React.useState({
+    tempo: "todos",
+    jogadores: "todos-j",
+    formato: "todos-f",
+    estilo: "todos-e",
+    complexidade: "todos-c",
+  })
+
+  const handleSelectChange = (event) => {
+    const selectedValue = event.target.value;
+    console.log(selectedValue);
+    // Aqui você pode fazer algo com o valor selecionado
+  };
+
+
+
   return (
     <div className="m-auto max-w-[100vw]">
       <Navbar />
-      <section className="flex justify-evenly items-center bg-zinc-300  p-4 h-[80px]">
-        <select
-          className="appearence-none"
+      <section className="flex w-full p-4 justify-evenly bg-zinc-300">
+        <select    
           id="tempo"
-          onClick={(e) => {
-            setTime(e.target.value);
-          }}
-          defaultValue={time}
+          onChange={handleSelectChange}
         >
-          <option value={0}>Tempo de Partida</option>
-          <option value={1}>Menor que 30min</option>
-          <option value={2}>Entre 30 e 60min</option>
-          <option value={3}>Maior que 60min</option>
+          <option value="todos">Tempo de Partida</option>
+          <option value="30min">Menor que 30min</option>
+          <option value="60min">Entre 30 e 60min</option>
+          <option value="90min">Maior que 60min</option>
         </select>
         <select id="jogadores">
           <option value="todos-j">Nº Jogadores</option>
@@ -55,36 +67,21 @@ export default function Second() {
           <option value="carta">Cartas</option>
           <option value="Dados">Dados</option>
         </select>
-        <select id="estilo" className="hidden lg:flex">
+        <select>
           <option value="todos-e">Estilo de Jogo</option>
           <option value="competitivo">Competitivo</option>
           <option value="cooperativo">Cooperativo</option>
           <option value="ambos">Ambos</option>
         </select>
-        <select id="complexidade" className="hidden lg:flex">
+        <select id="complexidade">
           <option value="todos-c">Complexidade</option>
           <option value="facil">Fácil</option>
           <option value="medio">Médio</option>
           <option value="dificil">Dificil</option>
         </select>
-      </section>
 
-      <section className="flex justify-evenly items-center bg-zinc-300 p-4 h-[60px] lg:hidden mt-[-10px]"> 
-            <select id="estilo">
-                    <option value="todos-e">Estilo de Jogo</option>
-                    <option value="competitivo">Competitivo</option>
-                    <option value="cooperativo">Cooperativo</option>
-                    <option value="ambos">Ambos</option>
-                </select>
-                <select id="complexidade">
-                    <option value="todos-c">Complexidade</option>
-                    <option value="facil">Fácil</option>
-                    <option value="medio">Médio</option>
-                    <option value="dificil">Dificil</option>
-                </select>
-            </section>
-      
-      <Random />
+        <Random />
+      </section>
 
       <aside></aside>
 
