@@ -21,6 +21,7 @@ const MODAL_STYLE = {
   borderRadius: '10px',
   color: 'black',
   
+  
 }
 
 export default function Modal({ isOpen, setModalOpen, children }) {

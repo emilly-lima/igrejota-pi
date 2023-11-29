@@ -5,7 +5,7 @@ import CustomCarousel from "@/app/components/carrossel";
 
 export default function Home() {
   return (
-    <div>
+    <div className="w-full h-screen" id="first-page">
         <header>
           <Navbar/>
         </header>

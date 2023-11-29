@@ -7,8 +7,8 @@
   --background: #ffffff;
 }
 
-body {
-  background-color: var(--background);
+#first-page {
+  @apply bg-[url('/assets/background.png')] bg-cover bg-no-repeat;
 }
 
 input {
