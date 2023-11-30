@@ -100,6 +100,9 @@ export default function Second() {
       <aside></aside>
 
       <main className="w-full h-full overflow-x">
+        <div className="fixed w-screen h-screen z-[-2] bottom-0">
+          <img src="/assets/fundo-lista.png" />
+        </div>
         <Card jogos={jogos} />
       </main>
     </div>
