@@ -56,7 +56,7 @@ export default function Second() {
           <option value="90min">Maior que 60min</option>
         </select>
         <select id="jogadores">
-          <option value="todos-j">Nº Jogadores</option>
+          <option value="todos-j">Nº de Jogadores</option>
           <option value="1">Um</option>
           <option value="2">Dois</option>
           <option value="3">Mais de 3</option>
