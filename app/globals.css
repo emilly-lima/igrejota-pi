@@ -2,13 +2,32 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;600&display=swap');
+
+
 :root {
   --text: #130e01;
   --background: #ffffff;
 }
 
-#first-page {
-  @apply bg-[url('/assets/background.png')] bg-cover bg-no-repeat;
+body {
+  font-family: var(--font-poppins);
+}
+
+#second {
+  @apply bg-[url('/assets/PNGS/fundo-lista.png')] bg-cover bg-no-repeat;
+}
+
+#nav {
+  background-color: #C85875;
+}
+
+#carta-super {
+  background-color: #8493CE;
+}
+
+#carta-infer {
+  
 }
 
 input {
@@ -16,7 +35,8 @@ input {
 }
 
 select {
-  @apply rounded-full outline-none px-[23px] h-[40px] w-[110px]  mx-2 text-xs sm:text-base sm:w-[194px];
+  background-color: #9E572D;
+  @apply rounded-full outline-none px-[23px] h-[40px] w-[110px] mx-2 text-xs sm:text-base sm:w-[194px] text-white;
 }
 
 h1 {
@@ -33,4 +53,8 @@ h3 {
 
 p {
   @apply rounded-xl bg-zinc-500 px-2 text-xs;
+}
+
+#filtros {
+  background-color: #FFF0DE;
 }

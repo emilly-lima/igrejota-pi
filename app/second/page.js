@@ -45,7 +45,7 @@ export default function Second() {
   return (
     <div className="m-auto max-w-[100vw]">
       <Navbar />
-      <section className="flex justify-evenly items-center bg-zinc-300  p-4 h-[80px]">
+      <section id="filtros" className="flex justify-evenly items-center  p-4 h-[100px]">
         <select    
           id="tempo"
           onChange={handleSelectChange}
@@ -80,7 +80,7 @@ export default function Second() {
           <option value="dificil">Dificil</option>
         </select>
       </section>
-      <section className="flex justify-evenly items-center bg-zinc-300 p-4 h-[60px] lg:hidden mt-[-10px]"> 
+      <section className="flex justify-evenly items-center p-4 h-[60px] lg:hidden mt-[-10px]"> 
             <select id="estilo">
                     <option value="todos-e">Estilo de Jogo</option>
                     <option value="competitivo">Competitivo</option>
@@ -94,10 +94,9 @@ export default function Second() {
                     <option value="dificil">Dificil</option>
                 </select>
             </section>
-            <Random />
       <aside></aside>
 
-      <main className="w-full h-screen">
+      <main className="w-full h-full overflow-x ">
         <Card jogos={jogos} />
       </main>
     </div>
