@@ -3,11 +3,13 @@ import React from "react";
 import Navbar from "@/app/components/navbar";
 import Random from "../components/random";
 import Card from "../components/card";
-import { useGameTime } from "../store/gameTime";
+import { useGameTime } from "@/app/store/gameTime";
+import { useFormato } from "@/app/store/formato";
 
 export default function Second() {
   const [jogos, setJogos] = React.useState([]);
   const { setTime, time } = useGameTime();
+  const {setFormato, formato} = useFormato();
 
   React.useEffect(() => {
     const fetchGames = async () => {
@@ -58,13 +60,18 @@ export default function Second() {
           <option value="2">Entre 30 e 60min</option>
           <option value="3">Maior que 60min</option>
         </select>
-        <select id="jogadores">
+        <select id="jogadores"
+        >
           <option value="0">Nº de Jogadores</option>
           <option value="1">Um</option>
           <option value="2">Dois</option>
           <option value="3">Mais de 3</option>
         </select>
-        <select id="formato">
+        <select id="formato"
+          onClick={(e) => {
+            setFormato(e.target.value);
+          }}
+          defaultValue={formato}>
           <option value="0">Formato de Jogo</option>
           <option value="1">Tabuleiro</option>
           <option value="2">Cartas</option>
@@ -105,7 +112,7 @@ export default function Second() {
       <aside></aside>
 
       <main className="md:w-full md:h-full overflow-x">
-        <div className="fixed md:w-full md:h-full z-[-2] bottom-0">
+        <div className="fixed md:w-full md:h-full z-[-2] bottom-0 bg-cover">
           <img src="/assets/fundolistaaRED.png" />
         </div>
         <Card jogos={jogos} />
