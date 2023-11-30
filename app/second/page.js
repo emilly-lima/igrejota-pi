@@ -46,7 +46,7 @@ export default function Second() {
     <div className="m-auto max-w-[100vw]">
       <Navbar />
       <section id="filtros" className="flex justify-evenly items-center  p-4 h-[100px]">
-        <select    
+        <select
           id="tempo"
           onClick={(e) => {
             setTime(e.target.value);
@@ -59,16 +59,16 @@ export default function Second() {
           <option value="3">Maior que 60min</option>
         </select>
         <select id="jogadores">
-          <option value="todos-j">Nº de Jogadores</option>
+          <option value="0">Nº de Jogadores</option>
           <option value="1">Um</option>
           <option value="2">Dois</option>
           <option value="3">Mais de 3</option>
         </select>
         <select id="formato">
-          <option value="todos-f">Formato de Jogo</option>
-          <option value="tabuleiro">Tabuleiro</option>
-          <option value="carta">Cartas</option>
-          <option value="Dados">Dados</option>
+          <option value="0">Formato de Jogo</option>
+          <option value="1">Tabuleiro</option>
+          <option value="2">Cartas</option>
+          <option value="3">Dados</option>
         </select>
         <select id="estilo" className="hidden lg:flex">
           <option value="todos-e">Estilo de Jogo</option>
@@ -83,6 +83,8 @@ export default function Second() {
           <option value="dificil">Dificil</option>
         </select>
       </section>
+      {/*
+      
       <section className="flex justify-evenly items-center p-4 h-[60px] lg:hidden mt-[-10px]"> 
             <select id="estilo">
                     <option value="todos-e">Estilo de Jogo</option>
@@ -97,11 +99,14 @@ export default function Second() {
                     <option value="dificil">Dificil</option>
                 </select>
             </section>
+      
+      
+      */}
       <aside></aside>
 
-      <main className="w-full h-full overflow-x">
-        <div className="fixed w-screen h-screen z-[-2] bottom-0">
-          <img src="/assets/fundo-lista.png" />
+      <main className="md:w-full md:h-full overflow-x">
+        <div className="fixed md:w-full md:h-full z-[-2] bottom-0">
+          <img src="/assets/fundolistaaRED.png" />
         </div>
         <Card jogos={jogos} />
       </main>

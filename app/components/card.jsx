@@ -2,7 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 const Card = ({ jogos }) => {
     return (
-        <div className='flex flex-row gap-[58px] px-48 justify-center py-6 flex-wrap relative bottom-0 '>
+        <div className='flex flex-row gap-[58px] px-[185px] justify-center py-6 flex-wrap relative bottom-0 '>
             {jogos && jogos.map((item) => (
                 <Link href="/game" key={item.Jogo}>
                     <div className='relative '>
