@@ -27,11 +27,11 @@ export default function Second() {
   console.log(time);
 
   const [filtros, setFiltros] = React.useState({
-    tempo: "todos",
-    jogadores: "todos-j",
-    formato: "todos-f",
-    estilo: "todos-e",
-    complexidade: "todos-c",
+    tempo: "0",
+    jogadores: "0",
+    formato: "0",
+    estilo: "0",
+    complexidade: "0",
   })
 
   const handleSelectChange = (event) => {
@@ -48,12 +48,15 @@ export default function Second() {
       <section id="filtros" className="flex justify-evenly items-center  p-4 h-[100px]">
         <select    
           id="tempo"
-          onChange={handleSelectChange}
+          onClick={(e) => {
+            setTime(e.target.value);
+          }}
+          defaultValue={time}
         >
-          <option value="todos">Tempo de Jogo</option>
-          <option value="30min">Menor que 30min</option>
-          <option value="60min">Entre 30 e 60min</option>
-          <option value="90min">Maior que 60min</option>
+          <option value="0">Tempo de Jogo</option>
+          <option value="1">Menor que 30min</option>
+          <option value="2">Entre 30 e 60min</option>
+          <option value="3">Maior que 60min</option>
         </select>
         <select id="jogadores">
           <option value="todos-j">Nº de Jogadores</option>
@@ -96,7 +99,7 @@ export default function Second() {
             </section>
       <aside></aside>
 
-      <main className="w-full h-full overflow-x ">
+      <main className="w-full h-full overflow-x">
         <Card jogos={jogos} />
       </main>
     </div>
