@@ -1,15 +1,15 @@
 import React from "react";
 import { Carousel, IconButton } from "@material-tailwind/react";
 import Image from "next/image";
-import { useGameTime } from "../store/gameTime";
+import { useComplex } from "../store/complex";
 
-export default function CarouselTime() {
-  const { time, setTime } = useGameTime();
+export default function CarouselComplex() {
+  const { complex, setComplex } = useComplex();
   const [index, setIndex] = React.useState(0);
 
   React.useEffect(() => {
-    console.log(time);
-  }, [time]);
+    console.log(complex);
+  }, [complex]);
 
   return (
     <Carousel
@@ -23,7 +23,7 @@ export default function CarouselTime() {
                 }`}
               onClick={() => {
                 setActiveIndex(i);
-                setTime(i);
+                setComplex(i);
               }}
             />
           ))}
@@ -37,7 +37,7 @@ export default function CarouselTime() {
           onClick={() => {
             const newIndex = activeIndex - 1 >= 0 ? activeIndex - 1 : 0;
             handlePrev();
-            setTime(newIndex);
+            setComplex(newIndex);
             setIndex(newIndex);
           }}
           className="!absolute top-2/4 left-0 -translate-y-2/4"
@@ -58,7 +58,7 @@ export default function CarouselTime() {
           onClick={() => {
             const newIndex = activeIndex + 1 <= 3 ? activeIndex + 1 : 3;
             handleNext();
-            setTime(newIndex);
+            setComplex(newIndex);
             setIndex(newIndex);
           }}
           className="!absolute top-2/4 !right-0 -translate-y-2/4"

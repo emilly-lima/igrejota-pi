@@ -1,7 +1,7 @@
 import React from "react";
 import { Carousel, IconButton } from "@material-tailwind/react";
 import Image from "next/image";
-import { useFormato } from "@/store/formato";
+import { useFormato } from "../store/formato";
 
 export default function CarouselFormato() {
   const { formato, setFormato } = useFormato();

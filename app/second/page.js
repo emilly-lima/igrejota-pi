@@ -5,11 +5,13 @@ import Random from "../components/random";
 import Card from "../components/card";
 import { useGameTime } from "@/app/store/gameTime";
 import { useFormato } from "@/app/store/formato";
+import { useComplex } from "../store/complex";
 
 export default function Second() {
   const [jogos, setJogos] = React.useState([]);
   const { setTime, time } = useGameTime();
-  const {setFormato, formato} = useFormato();
+  const { setFormato, formato } = useFormato();
+  const { setComplex, complex } = useComplex();
 
   React.useEffect(() => {
     const fetchGames = async () => {
@@ -78,16 +80,20 @@ export default function Second() {
           <option value="3">Dados</option>
         </select>
         <select id="estilo" className="hidden lg:flex">
-          <option value="todos-e">Estilo de Jogo</option>
-          <option value="competitivo">Competitivo</option>
-          <option value="cooperativo">Cooperativo</option>
-          <option value="ambos">Ambos</option>
+          <option value="0">Estilo de Jogo</option>
+          <option value="1">Competitivo</option>
+          <option value="2">Cooperativo</option>
+          <option value="3">Ambos</option>
         </select>
-        <select id="complexidade" className="hidden lg:flex">
-          <option value="todos-c">Complexidade</option>
-          <option value="facil">Fácil</option>
-          <option value="medio">Médio</option>
-          <option value="dificil">Dificil</option>
+        <select id="complexidade" className="hidden lg:flex"
+          onClick={(e) => {
+            setComplex(e.target.value);
+          }}
+          defaultValue={complex}>
+          <option value="0">Complexidade</option>
+          <option value="1">Fácil</option>
+          <option value="2">Médio</option>
+          <option value="3">Dificil</option>
         </select>
       </section>
       {/*

@@ -3,7 +3,7 @@ import Link from "next/link"
 import Navbar from "./components/navbar";
 import CarouselTime from "@/app/components/carrossel-tempo";
 import CarouselComplex from "@/app/components/carrossel-complex";
-import CarouselFormat from "@/app/components/carrossel-formato";
+import CarouselFormato from "@/app/components/carrossel-formato";
 
 export default function Home() {
   return (
@@ -15,7 +15,7 @@ export default function Home() {
         <main className="flex justify-center my-16">
           <CarouselTime/>
           <CarouselComplex/>
-          <CarouselFormat/>
+          <CarouselFormato/>
         </main>
 
         <footer className="flex justify-center">
