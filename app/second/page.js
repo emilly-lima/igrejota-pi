@@ -105,7 +105,7 @@ export default function Second() {
       <aside></aside>
 
       <main className="md:w-full md:h-full overflow-x">
-        <div className="fixed md:w-full md:h-full z-[-2] bottom-0">
+        <div className="fixed w-[100%] z-[-2] bottom-0 h-[calc(100%+200px)];">
           <img src="/assets/fundolistaaRED.png" />
         </div>
         <Card jogos={jogos} />
