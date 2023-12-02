@@ -24,7 +24,7 @@ body {
 
 #carta-super {
   background-color: #8493CE;
-  @apply w-[145px] h-[220px] md:w-[200px] md:h-[350px] cursor-pointer items-center flex flex-col gap-2 p-5 rounded-xl;
+  @apply w-[145px] h-[220px] md:w-[200px] md:h-[350px] items-center flex flex-col gap-2 p-5 rounded-xl;
 }
 
 #carta-infer {
