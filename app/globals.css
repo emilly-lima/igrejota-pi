@@ -38,7 +38,7 @@ input {
 
 select {
   background-color: #9E572D;
-  @apply rounded-full outline-none px-[23px] h-[40px] w-[110px] mx-2 text-xs sm:text-base sm:w-[194px] text-white;
+  @apply rounded-full outline-none px-1 lg:px-4 xl:px-6 h-[40px] w-[70px] lg:mx-2 text-xs lg:text-[14px] sm:w-[130px] lg:w-[182px] xl:w-[200px]  text-white;
 }
 
 h1 {
@@ -54,7 +54,7 @@ h3 {
 }
 
 p {
-  @apply rounded-xl bg-zinc-500 px-2 text-xs;
+  @apply rounded-xl bg-white px-2 text-xs;
 }
 
 #filtros {

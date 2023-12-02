@@ -8,7 +8,7 @@ import Link from 'next/link'
 import Busca from './busca';
 
 /*let offsetHeight;*/
-export default function Navbar() {
+export default function Navbar2() {
     /*const headerRef = React.useRef(null);
     const [height, setHeight] = React.useState(0);
 
@@ -22,7 +22,7 @@ export default function Navbar() {
     return (
         <div id='nav' className="w-screen flex z-[1000] h-[62px] items-center place-content-between">
             <Link href="/">
-                <h1 className="text-white font-bold ml-[20px] text-2xl sm:text-3xl lg:ml-[80px] xl:ml-[130px]">TABLETOPPING</h1></Link>
+                <h1 className="text-white font-bold ml-[20px] text-2xl  sm:text-3xl  lg:ml-[80px] xl:ml-[130px]">TABLETOPPING</h1></Link>
             <div className='flex flex-row items-center lg:mr-[80px] xl:mr-[130px]'>
             <div>
                 <Busca/>
@@ -32,7 +32,7 @@ export default function Navbar() {
                 </button>
                 <div>
                     <Modal isOpen={openModal} setModalOpen={() => setOpenModal(!openModal)}>
-                    <img src="modal1.png" alt=""/> 
+                    <img src="modal2.png" alt=""/> 
                     </Modal>
                 </div>
             </div>

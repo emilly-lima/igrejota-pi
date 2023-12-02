@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import Navbar from "@/app/components/navbar";
+import Navbar2 from "@/app/components/navbar2";
 import Random from "../components/random";
 import Card from "../components/card";
 import { useGameTime } from "@/app/store/gameTime";
@@ -48,8 +48,9 @@ export default function Second() {
 
   return (
     <div className="m-auto max-w-[100vw]">
-      <Navbar />
-      <section id="filtros" className="flex justify-evenly items-center  p-4 h-[100px]">
+      <div className="fixed">
+      <Navbar2 />
+      <section id="filtros" className="flex justify-evenly items-center w-screen p-4 h-[70px]">
         <select
           id="tempo"
           onClick={(e) => {
@@ -79,13 +80,13 @@ export default function Second() {
           <option value="2">Cartas</option>
           <option value="3">Dados</option>
         </select>
-        <select id="estilo" className="hidden lg:flex">
+        <select id="estilo">
           <option value="0">Estilo de Jogo</option>
           <option value="1">Competitivo</option>
           <option value="2">Cooperativo</option>
           <option value="3">Ambos</option>
         </select>
-        <select id="complexidade" className="hidden lg:flex"
+        <select id="complexidade" 
           onClick={(e) => {
             setComplex(e.target.value);
           }}
@@ -116,13 +117,16 @@ export default function Second() {
       
       */}
       <aside></aside>
-
-      <main className="md:w-full md:h-full overflow-x">
-        <div className="fixed w-[100%] z-[-2] bottom-0 h-[calc(100%+200px)];">
-          <img src="/assets/fundolistaaRED.png" />
-        </div>
-        <Card jogos={jogos} />
+      </div>
+      <main className="overflow-y-auto overflow-x-auto" style={{ maxHeight: "calc(100vh-100px)" }}>
+        <div
+          className="fixed inset-0 bg-cover bg-no-repeat bg-center z-[-4]  w-screen"
+          style={{
+            backgroundImage: "url('/assets/fundo-lista.png')",
+          }}
+        />
       </main>
+      <Card jogos={jogos} />
     </div>
   );
 }
