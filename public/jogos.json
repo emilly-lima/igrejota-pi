@@ -1,1203 +1,1203 @@
 [
     {
-        "Jogo": "ToteMonstros",
-        "Tempo": "30min",
-        "Njoga": "2 a 4",
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/ToteMonstros.webp"
-    },
-    {
-        "Jogo": "Amerigo",
-        "Tempo": "90min",
-        "Njoga": "2 a 4",
-        "Formato": "Tabuleiro",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Amerigo.jpg"
-    },
-    {
-        "Jogo": "Herdeiros do Khan",
-        "Tempo": "90min",
-        "Njoga": "2 a 5",
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil-Intermed",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Herdeiros do Khan.jpg"
-    },
-    {
-        "Jogo": "Niagara: The Spirits of Niagara",
-        "Tempo": "45min",
-        "Njoga": "3 a 6",
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil-Intermed",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/NiagaraTheSpiritsofNiagara.webp"
-    },
-    {
-        "Jogo": "Dakota",
-        "Tempo": "90min",
-        "Njoga": "3 a 5",
-        "Formato": "Tabuleiro",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Dakota.jpg"
-    },
-    {
-        "Jogo": "Dixit",
-        "Tempo": "30min",
-        "Njoga": "3 a 6",
-        "Formato": "Cartas",
-        "Peso": "Fácil",
-        "Estilo": "Coop-Comp",
-        "Img": "/FDJ/Dixit.jpg"
-    },
-    {
-        "Jogo": "Niagara",
-        "Tempo": "30-45",
-        "Njoga": "3 a 5",
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil-Intermed",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Niagara.webp"
-    },
-    {
-        "Jogo": "Tzolk’in The Mayan Calendar",
-        "Tempo": "90min",
-        "Njoga": "2 a 4",
-        "Formato": "Tabuleiro",
-        "Peso": "Interm-Complx",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Tzolk’in The Mayan Calendar.jpg"
-    },
-    {
-        "Jogo": "Velocity",
-        "Tempo": "45min",
-        "Njoga": "3 a 7",
-        "Formato":"Dados",
-        "Estilo":"Competitivo",
-        "Img": "/FDJ/Velocity.jpg"
-    },
-    {
-        "Jogo": "Quissama",
-        "Tempo": "30min",
-        "Njoga": "2 a 5",
-        "Formato": "Tabuleiro",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Quissama.jpg"
-    },
-    {
-        "Jogo": "Perfil 3",
-        "Tempo": "30min",
-        "Njoga": "2 a 7",
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Perfil 3.webp"
-    },
-    {
-        "Jogo": "Domínio de Carcassonne",
-        "Tempo": "30-90",
-        "Njoga": "2 a 5",
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Domínio de Carcassonne.webp"
-    },
-    {
-        "Jogo": "Pandemic Legacy",
-        "Tempo": "60min",
-        "Njoga": "2 a 4",
-        "Formato": "Tabuleiro",
-        "Peso": "Intermediário",
-        "Estilo": "Cooperativo",
-        "Img": "/FDJ/Pandemic Legacy.jpg"
-    },
-    {
-        "Jogo": "Dungeon Roll",
-        "Tempo": "15min",
-        "Njoga": "1 a 4",
-        "Formato": "Cartas/Dados",
-        "Peso": "Fácil",
-        "Estilo": "Cooperativo",
-        "Img": "/FDJ/Dungeon Roll.jpg"
-    },
-    {
-        "Jogo": "Hanabi",
-        "Tempo": "30min",
-        "Njoga": "2 a 5",
-        "Formato": "Cartas",
-        "Peso": "Fácil",
-        "Estilo": "Cooperativo",
-        "Img": "/FDJ/Hanabi.jpg"
-    },
-    {
-        "Jogo": "Lucca Città",
-        "Tempo": "20min",
-        "Njoga": "3 a 5",
-        "Formato": "Cartas",
-        "Peso": "Fácil-Intermed",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Lucca Città.jpg"
-    },
-    {
-        "Jogo": "Province",
-        "Tempo": "30min",
-        "Njoga": 2,
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil-Intermed",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Province.jpg"
-    },
-    {
-        "Jogo": "Age of War",
-        "Tempo": "30min",
-        "Njoga": "2 a 6",
-        "Formato": "Cartas/Dados",
-        "Peso": "Fácil",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Age of War2.png"
-    },
-    {
-        "Jogo": "Vampire The Eternal Struggle",
-        "Tempo": "120min",
-        "Njoga": "2 a 5",
-        "Formato": "Cartas",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Vampire The Eternal Struggle2.jpg"
-    },
-    {
-        "Jogo": "Warlord Saga of The Storm (Deverenian Legion)",
-        "Tempo": "10min",
-        "Njoga": "2 a 4",
-        "Formato": "Cartas",
-        "Peso": "Fácil-Intermed",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Warlord Saga of The Storm (Deverenian Legion).jpg"
-    },
-    {
-        "Jogo": "Warlord Saga of The Storm (Elf Legion)",
-        "Tempo": "10min",
-        "Njoga": "2 a 4",
-        "Formato": "Cartas",
-        "Peso": "Fácil-Intermed",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Warlord Saga of The Storm (Elf Legion).jpg"
-    },
-    {
-        "Jogo": "Mafia",
-        "Tempo": "30min",
-        "Njoga": "3 a 8",
-        "Formato": "Cartas",
-        "Peso": "Fácil",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Mafia.jpg"
-    },
-    {
-        "Jogo": "Zombie Dice",
-        "Tempo": "10min",
-        "Njoga": "2 a 99",
-        "Formato": "Dados",
-        "Peso": "Fácil",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Zombie Dice.jpeg"
-    },
-    {
-        "Jogo": "Yu-Gi-Oh (Deck Luminoso)",
-        "Tempo": "20min",
-        "Njoga": 2,
-        "Formato": "Cartas",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Yu-Gi-Oh (Deck Luminoso).jpg"
-    },
-    {
-        "Jogo": "Battle Scenes Evolução Tática Força Suprema",
-        "Tempo": "30min",
-        "Njoga": 2,
-        "Formato": "Cartas",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Battle Scenes Evolução Tática Força Suprema.webp"
-    },
-    {
-        "Jogo": "Battle Scenes Universo Marvel Heróis",
-        "Tempo": "30min",
-        "Njoga": 2,
-        "Formato": "Cartas",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Battle Scenes Universo Marvel Heróis.webp"
-    },
-    {
-        "Jogo": "Battle Scenes Universo Marvel Vilões",
-        "Tempo": "30min",
-        "Njoga": 2,
-        "Formato": "Cartas",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Battle Scenes Universo Marvel Vilões.webp"
-    },
-    {
-        "Jogo": "Hitler Secreto",
-        "Tempo": "20min",
-        "Njoga": "5 a 10",
-        "Formato": "Cartas",
-        "Peso": "Inter-Complex",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Secrethitler.jpg"
-    },
-    {
-        "Jogo": "Battle Scenes Evolução Tática Ilusão Sombria",
-        "Tempo": "30min",
-        "Njoga": 2,
-        "Formato": "Cartas",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "FDJ/Battle Scenes Evolução Tática Ilusão Sombria.webp"
-    },
-    {
-        "Jogo": "Ultimate Werewolf Deluxe Edition",
-        "Tempo": "30min",
-        "Njoga": "7 a 30",
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil-Interm",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Ultimate Werewolf Deluxe Edition.jpg"
-    },
-    {
-        "Jogo": "Dobble",
-        "Tempo": "5-15",
-        "Njoga": "2 a 8",
-        "Formato": "Cartas",
-        "Peso": "Fácil",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Dobble.jpg"
-    },
-    {
-        "Jogo": "The Cook-Off",
-        "Tempo": "40min",
-        "Njoga": "4 a 6",
-        "Formato":"Cartas",
-        "Peso":"Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Thecookoff.jpg"
-    },
-    {
-        "Jogo": "The Resistance",
-        "Tempo": "30min",
-        "Njoga": "5 a 10",
-        "Formato": "Cartas",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Theresistance.jpg"
-    },
-    {
-        "Jogo": "For Sale",
-        "Tempo": "30min",
-        "Njoga": "2 a 6",
-        "Formato": "Cartas(e fichas)",
-        "Peso": "Fácil",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Forsale.jpg"
-    },
-    {
-        "Jogo": "Super-Trunfo Energia",
-        "Tempo": "15min",
-        "Njoga": "2 a 8",
-        "Formato": "Cartas",
-        "Peso": "Fácil",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Trunfoenergia.png"
-    },
-    {
-        "Jogo": "Dropmix",
-        "Tempo": "30min",
-        "Njoga": "1 a 4",
-        "Formato": "Cartas(e celular)",
-        "Peso": "Intermediário",
-        "Estilo": "Coop-Compet",
-        "Img": "/FDJ/Dropmix.jpg"
-    },
-    {
-        "Jogo": "011: An adventure with Therion",
-        "Tempo": "90-120",
-        "Njoga": "3 a 6",
-        "Img": "/FDJ/011An adventure with Therion2.jpg"
-    },
-    {
-        "Jogo": "Brazil Imperial",
-        "Tempo": "100min",
-        "Njoga": "1 a 4",
-        "Img": "/FDJ/Brazil Imperial.png"
-    },
-    {
-        "Jogo": "Camel Cup",
-        "Tempo": "45min",
-        "Njoga": "2 a 10",
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil-Intermed",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Camel Cup.webp"
-    },
-    {
-        "Jogo": "Neuroshima Hex! 3.0",
-        "Tempo": "30min",
-        "Njoga": "2 a 4",
-        "Formato": "Tabuleiro",
-        "Peso": "Interm-Complex",
-        "Estilo": "Competitvo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Samurai (Reiner Knizia)",
-        "Tempo": "45min",
-        "Njoga": "2 a 4",
-        "Formato": "Tabuleiro",
-        "Peso": "Interm-Complex",
-        "Estilo": "Competitivo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Steampunk Rally",
-        "Tempo": "45min",
-        "Njoga": "2 a 8",
-        "Formato": "Tabuleiro",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Zombiecide Season 2 Prision Outbeak",
-        "Tempo": "60min",
-        "Njoga": "1 a 6",
-        "Formato": "Tabuleiro",
-        "Peso": "Intermediário",
-        "Estilo": "Cooperativo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Aquileia",
-        "Tempo": "90min",
-        "Njoga": "3 a 5",
-        "Formato": "Tabuleiro",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "City Tycoon",
-        "Tempo": "60min",
-        "Njoga": "2 a 5",
-        "Img": "/FDJ/City Tycoon.jpg"
-    },
-    {
-        "Jogo": "Gears of War",
-        "Tempo": "180min",
-        "Njoga": "1 a 4",
-        "Img": "/FDJ/Gears of War.jpg"
-    },
-    {
-        "Jogo": "Uno",
-        "Tempo": "30min",
-        "Njoga": "2 a 10",
-        "Formato": "Cartas",
-        "Peso": "Fácil",
-        "Estilo": "Competitivo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Tiny epic kingdoms heroes' call",
-        "Tempo": "60min",
-        "Njoga": "1 a 5",
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil-Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "War of indines",
-        "Tempo": "15min",
-        "Njoga": "2 a 4",
-        "Formato": "Cartas",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Super cats",
-        "Tempo": "15min",
-        "Njoga": "3 a 6",
-        "Formato": "Cartas",
-        "Peso": "Fácil",
-        "Estilo": "Competitivo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Sim, mestre das trevas!",
-        "Tempo": "30min",
-        "Njoga": "4 a 16",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Butim",
-        "Tempo": "60min",
-        "Njoga": "2 a 7",
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil-Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Butim.jpg"
-    },
-    {
-        "Jogo": "Love letter",
-        "Tempo": "20min",
-        "Njoga": "2 a 4",
-        "Formato": "Cartas",
-        "Peso": "Fácil",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Love.jpg"
-    },
-    {
-        "Jogo": "Munchkin",
-        "Tempo": "90min",
-        "Njoga": "3 a 6",
-        "Formato": "Cartas",
-        "Peso": "Fácil-Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Munchkin.jpg"
-    },
-    {
-        "Jogo": "Eric Lang's senator",
-        "Tempo": "60min",
-        "Njoga": "3 a 5",
-        "Img": "/FDJ/Eric Lang's senator.webp"
-    },
-    {
-        "Jogo": "Cardfight!! Vanguard",
-        "Tempo": "30min",
-        "Njoga": 2,
-        "Formato": "Cartas",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "FDJ/Card Fight Vanguard.jpg"
-    },
-    {
-        "Jogo": "Lords of xidit",
-        "Tempo": "90min",
-        "Njoga": "3 a 5",
-        "Formato": "Tabuleiro",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Lords of xidit.jpg"
-    },
-    {
-        "Jogo": "Quarriors! Dice building game",
-        "Tempo": "30min",
-        "Njoga": "2 a 4",
-        "Formato": "Tabuleiro",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Dogs(de marcos macri)",
-        "Tempo": "60min",
-        "Njoga": "2 a 4",
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil-Intermediário",
-        "Estilo": "Cooperativo",
-        "Img": "/FDJ/Dogs(de marcos macri).jpg"
-    },
-    {
-        "Jogo": "O vale dos monstros",
-        "Tempo": "60min",
-        "Njoga": "2 a 5",
-        "Formato": "Tabuleiro",
-        "Peso": "Intermediário",
-        "Estilo": "Cooperativo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Ovini 4",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Jester",
-        "Tempo": "75min",
-        "Njoga": "2 a 4",
-        "Img": "/FDJ/Jester.jpg"
-    },
-    {
-        "Jogo": "Viagem no tempo",
-        "Tempo": "60min",
-        "Njoga": "3 a 5",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Aquarium",
-        "Tempo": "90min",
-        "Njoga": "2 a 4",
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil-Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Aquarium.png"
-    },
-    {
-        "Jogo": "Gran circo",
-        "Tempo": "50min",
-        "Njoga": "2 a 5",
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Gran circo.png"
-    },
-    {
-        "Jogo": "Trilha",
-        "Tempo": "20min",
-        "Njoga": 2,
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil",
-        "Estilo": "Competitivo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Selene the fantasy",
-        "Tempo": "60min",
-        "Njoga": "2 a 6",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Gammon",
-        "Tempo": "30min",
-        "Njoga": 2,
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil-Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Gammon.jpg"
-    },
-    {
-        "Jogo": "Futebox",
-        "Tempo": "15min",
-        "Njoga": 2,
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Futebox.jpg"
-    },
-    {
-        "Jogo": "Queops",
-        "Tempo": "20min",
-        "Njoga": 2,
-        "Formato": "Tabuleiro",
-        "Peso": "Interm-Complexo",
-        "Estilo": "Competitivo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Oware",
-        "Tempo": "20min",
-        "Njoga": 2,
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil",
-        "Estilo": "Competitivo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Polaris",
-        "Tempo": "30min",
-        "Njoga": 2,
-        "Formato": "RPG",
-        "Peso": "Interm-Complexo",
-        "Estilo": "Cooperativo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Bagha-chall",
-        "Tempo": "20min",
-        "Njoga": 2,
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Bagha-chall.webp"
-    },
-    {
-        "Jogo": "Jogo real de ur",
-        "Tempo": "30min",
-        "Njoga": 2,
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Jogo real de ur.jpg"
-    },
-    {
-        "Jogo": "Pagoda",
-        "Tempo": "30min",
-        "Njoga": 2,
-        "Formato": "Tabuleiro",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Runicards",
-        "Tempo": "120min",
-        "Njoga": "1 a 8",
-        "Formato": "Cartas",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Mysterium",
-        "Tempo": "42min",
-        "Njoga": "2 a 7",
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil-Intermediário",
-        "Estilo": "Cooperativo",
-        "Img": "/FDJ/Mysterium.jpg"
-    },
-    {
-        "Jogo": "Das ver rücket labyrinth",
-        "Tempo": "25min",
-        "Njoga": "2 a 4",
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil-Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Das ver rücket labyrinth.jpg"
-    },
-    {
-        "Jogo": "Bot",
-        "Tempo": "60min",
-        "Njoga": 2,
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Bot.jpg"
-    },
-    {
-        "Jogo": "Imigrantes",
-        "Tempo": "120min",
-        "Njoga": "1 a 4",
-        "Formato": "Tabuleiro",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Imigrantes.webp"
-    },
-    {
-        "Jogo": "Cyclades",
-        "Tempo": "90min",
-        "Njoga": "2 a 5",
-        "Formato": "Tabuleiro",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Cyclades.jpg"
-    },
-    {
-        "Jogo": "Imhotep builder of egypt",
-        "Tempo": "40min",
-        "Njoga": "2 a 4",
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil-Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Imhotep builder of egypt.webp"
-    },
-    {
-        "Jogo": "Possessão arcana",
-        "Tempo": "120min",
-        "Njoga": "1 a 6",
-        "Formato": "Tabuleiro",
-        "Peso": "Intermediário",
-        "Estilo": "Cooperativo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Dominion",
-        "Tempo": "30min",
-        "Njoga": "2 a 4",
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil-Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Dominion.jpg"
-    },
-    {
-        "Jogo": "Hase und igel (Hare and Turtoise)",
-        "Tempo": "45min",
-        "Njoga": "2 a 6",
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil-Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Hase und igel (Hare and Turtoise).webp"
-    },
-    {
-        "Jogo": "Ultimate Warlorz",
-        "Tempo": "30min",
-        "Njoga": "2 a 8",
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil",
-        "Estilo": "Competitivo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Tash-Kalar Arena of Legends",
-        "Tempo": "20min",
-        "Njoga": "2 a 4",
-        "Formato": "Tabuleiro",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Pantheon",
-        "Tempo": "90min",
-        "Njoga": "2 a 4",
-        "Formato": "Tabuleiro",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Horse Fever",
-        "Tempo": "90min",
-        "Njoga": "2 a 6",
-        "Formato": "Tabuleiro",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Horse Fever.webp"
-    },
-    {
-        "Jogo": "Dogs Cardgame",
-        "Tempo": "40min",
-        "Njoga": "2 a 5",
-        "Formato": "Cartas",
-        "Peso": "Fácil-Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Dogs Cardgame.jpg"
-    },
-    {
-        "Jogo": "Castle Panic",
-        "Tempo": "60min",
-        "Njoga": "1 a 6",
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil-Intermediário",
-        "Estilo": "Cooperativo",
-        "Img": "FDJ/Castle Panic.jpg"
-    },
-    {
-        "Jogo": "Dice City",
-        "Tempo": "60min",
-        "Njoga": "1 a 4",
-        "Formato": "Cartas",
-        "Peso": "Fácil-Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Dice City.jpg"
-    },
-    {
-        "Jogo": "O Senhor dos Anéis",
-        "Tempo": "60min",
-        "Njoga": "1 a 4",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Survive Fuga de Atlântida!",
-        "Tempo": "60min",
-        "Njoga": "2 a 4",
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil-Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Madeira",
-        "Tempo": "120min",
-        "Njoga": "2 a 4",
-        "Formato": "Tabuleiro",
-        "Peso": "Médio-Pesado",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Madeira.jpg"
-    },
-    {
-        "Jogo": "K2",
-        "Tempo": "60min",
-        "Njoga": "1 a 5",
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil-Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/K2-2.png"
-    },
-    {
-        "Jogo": "Broom Service",
-        "Tempo": "75min",
-        "Njoga": "2 a 5",
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil-Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Broom Service.jpg"
-    },
-    {
-        "Jogo": "Catan o Jogo",
-        "Tempo": "90min",
-        "Njoga": "3 a 4",
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil-Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Catan o Jogo.jpg"
-    },
-    {
-        "Jogo": "Keyforge",
-        "Tempo": "45min",
-        "Njoga": 2,
-        "Formato": "Cartas",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Keyforge.jpg"
-    },
-    {
-        "Jogo": "Card Fight Vanguard",
-        "Tempo": "30min",
-        "Njoga": 2,
-        "Formato": "Cartas",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Scotland yard",
-        "Tempo": "90min",
-        "Njoga": "2 a 6",
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil-Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Auf achse (Carga Máxima) (On the Road)",
-        "Tempo": "60min",
-        "Njoga": "2 a 6",
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil-Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Auf achse (Carga Máxima) (On the Road).jpg"
-    },
-    {
-        "Jogo": "Jockey",
-        "Img": "/FDJ/Jockey.jpg"
-    },
-    {
-        "Jogo": "Der fliegende Holländer",
-        "Tempo": "60min",
-        "Njoga": "3 a 6",
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil-Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Der fliegende Holländer2.jpg"
-    },
-    {
-        "Jogo": "Manhattan",
-        "Tempo": "45 min",
-        "Njoga": "2 a 4",
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil-Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Manhattan.jpg"
-    },
-    {
-        "Jogo": "Alta velocidade",
-        "Tempo": "60min",
-        "Njoga": "2 a 4",
-        "Formato": "Tabuleiro",
-        "Peso": "Fácil-Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Alta velocidade2.jpg"
-    },
-    {
-        "Jogo": "Tadsch mahal*",
-        "Tempo": "90min",
-        "Njoga": "2 a 5",
-        "Formato": "Tabuleiro",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/teste.png"
-    },
-    {
-        "Jogo": "Die Fürsten von Florenz (Os príncipes de Florença)",
-        "Tempo": "100min",
-        "Njoga": "3 a 5",
-        "Estilo": "Coop-Compet",
-        "Img": "/FDJ/teste.png"
-    },
-    {
-        "Jogo": "Senhor dos Anéis a sociedade do anel (miniaturas)",
-        "Tempo": "20 min",
-        "Njoga": "2 a 6",
-        "Img": "/FDJ/teste.png"
-    },
-    {
-        "Jogo": "Tikal",
-        "Tempo": "90min",
-        "Njoga": "2 a 4",
-        "Formato": "Tabuleiro",
-        "Peso": "Intermediário",
-        "Estilo": "Cooperativo",
-        "Img": "/FDJ/teste.png"
-    },
-    {
-        "Jogo": "Die Händler von Genua (Os comerciantes de Gênova)",
-        "Tempo": "120min",
-        "Njoga": "2 a 5",
-        "Formato": "Cartas",
-        "Peso": "Intermediário",
-        "Estilo": "Cooperativo",
-        "Img": "/FDJ/Die Händler von Genua (Os comerciantes de Gênova)2.jpg"
-    },
-    {
-        "Jogo": "Saboteur",
-        "Tempo": "30min",
-        "Njoga": "3 a 10",
-        "Formato": "Cartas",
-        "Peso": "Fácil",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/teste.png"
-    },
-    {
-        "Jogo": "Magic The Gathering (Ultra Pro Deck Box)",
-        "Tempo": "35min",
-        "Njoga": "2 a 4",
-        "Formato": "Cartas",
-        "Peso": "Pesado",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Magic The Gathering (Ultra Pro Deck Box).jpg"
-    },
-    {
-        "Jogo": "Port Royal",
-        "Tempo": "30min",
-        "Njoga": "2 a 5",
-        "Formato": "Cartas",
-        "Peso": "Fácil",
-        "Estilo": "Coop-Compet",
-        "Img": "/FDJ/teste.png"
-    },
-    {
-        "Jogo": "Pictureka!",
-        "Tempo": "30min",
-        "Njoga": "2 a 7",
-        "Formato": "Cartas",
-        "Peso": "Fácil",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/teste.png"
-    },
-    {
-        "Jogo": "Telma",
-        "Tempo": "20min",
-        "Njoga": "4 a 8",
-        "Formato": "Cartas",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/teste.png"
-    },
-    {
-        "Jogo": "Dominion Update Pack",
-        "Tempo": "30min",
-        "Njoga": "2 a 4",
-        "Formato": "Cartas",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Dominion Update Pack.jpg"
-    },
-    {
-        "Jogo": "Diamonsters",
-        "Tempo": "20min",
-        "Njoga": "2 a 6",
-        "Formato": "Cartas",
-        "Peso": "Fácil",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Diamonsters.jpg"
-    },
-    {
-        "Jogo": "Reinos e Relíquias Entre Luz e Trevas",
-        "Tempo": "45min",
-        "Njoga": "2 a 9",
-        "Formato": "Cartas",
-        "Peso": "Pesado",
-        "Estilo": "Coop-Compet",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "A Ilha Proibida (Aventure-se… Se tiver coragem)",
-        "Tempo": "30min",
-        "Njoga": "2 a 4",
-        "Formato": "Cartas",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/A Ilha Proibida (Aventure-se… Se tiver coragem).jpg"
-    },
-    {
-        "Jogo": "O Último Grande Campeão",
-        "Tempo": "45min",
-        "Njoga": "3 a 6",
-        "Formato": "Cartas",
-        "Peso": "Fácil",
-        "Estilo": "Competitivo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Robin Hood",
-        "Tempo": "50min",
-        "Njoga": "3 a 5",
-        "Formato": "Cartas",
-        "Peso": "Pesado",
-        "Estilo": "Competitivo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "War Zoo",
-        "Tempo": "30min",
-        "Njoga": "2 a 4",
-        "Formato": "Cartas",
-        "Peso": "Fácil",
-        "Estilo": "Competitivo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Munchkin Zombies",
-        "Tempo": "90min",
-        "Njoga": "3 a 6",
-        "Formato": "Cartas",
-        "Peso": "Pesado",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Munchkin Zombies.jpg"
-    },
-    {
-        "Jogo": "Don Capollo",
-        "Tempo": "45min",
-        "Njoga": "3 a 6",
-        "Formato": "Cartas",
-        "Peso": "Pesado",
-        "Estilo": "Coop-Compet",
-        "Img": "/FDJ/Don Capollo.jpg"
-    },
-    {
-        "Jogo": "Engage Senhores da Guerra (Maldição de Silent Crown)",
-        "Tempo": "45min",
-        "Njoga": 2,
-        "Img": "/FDJ/Engage Senhores da Guerra (Maldição de Silent Crown).png"
-    },
-    {
-        "Jogo": "Viajantes",
-        "Tempo": "20min",
-        "Njoga": "3 a 6",
-        "Formato": "Cartas",
-        "Peso": "Fácil",
-        "Estilo": "Cooperativo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Pablo",
-        "Tempo": "30min",
-        "Njoga": "2 a 10",
-        "Formato": "Cartas",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Histórias de Pescador",
-        "Tempo": "30min",
-        "Njoga": "3 a 7",
-        "Formato": "Cartas",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Histórias de Pescador.jpg"
-    },
-    {
-        "Jogo": "Imagine",
-        "Tempo": "30min",
-        "Njoga": "3 a 8",
-        "Formato": "Cartas",
-        "Peso": "Fácil",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Imagine.jpg"
-    },
-    {
-        "Jogo": "Codenames",
-        "Tempo": "15 min",
-        "Njoga": "2 a 8",
-        "Formato": "Cartas",
-        "Peso": "Intermediário",
-        "Estilo": "Coop-Compet",
-        "Img": "/FDJ/Codenames.jpg"
-    },
-    {
-        "Jogo": "Citadels",
-        "Tempo": "60min",
-        "Njoga": "2 a 8",
-        "Formato": "Cartas",
-        "Peso": "Pesado",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Citadels.jpg"
-    },
-    {
-        "Jogo": "Pássaros (de Marcos Macri)",
-        "Tempo": "50min",
-        "Njoga": "2 a 5",
-        "Formato": "Cartas",
-        "Peso": "Intermediário",
-        "Estilo": "Competitivo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Spellfire O poder da Magia",
-        "Tempo": "90min",
-        "Njoga": "2 a 8",
-        "Formato": "Cartas",
-        "Peso": "Pesado",
-        "Estilo": "Competitivo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Spelfire Master the magic",
-        "Tempo": "90min",
-        "Njoga": "2 a 8",
-        "Formato": "Cartas",
-        "Peso": "Pesado",
-        "Estilo": "Competitivo",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Magic The Gathering (Deckmaster)",
-        "Tempo": "35 min",
-        "Njoga": "2 a 4",
-        "Formato": "Cartas",
-        "Peso": "Pesado",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Magic The Gathering (Deckmaster).webp"
-    },
-    {
-        "Jogo": "Modern art",
-        "Tempo": "45min",
-        "Njoga": "3 a 5",
-        "Formato": "Cartas",
-        "Peso": "Pesado",
-        "Estilo": "Competitivo",
-        "Img": "/FDJ/Modern Art.jpg"
-    },
-    {
-        "Jogo": "O grande chefão",
-        "Tempo": "30min",
-        "Njoga": "3 a 6",
-        "Formato": "Cartas",
-        "Peso": "Fácil",
-        "Estilo": "Coop-Compet",
-        "Img": "/teste.png"
-    },
-    {
-        "Jogo": "Elfenland",
-        "Tempo": "60min",
-        "Njoga": "2 a 6",
-        "Formato": "Cartas",
-        "Peso": "Fácil",
-        "Estilo": "Coop-Compet",
-        "Img": "/FDJ/Elfenland.jpg"
+     "game": "ToteMonstros",
+     "time": "30min",
+     "players": "2 a 4",
+     "format": "Tabuleiro",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/ToteMonstros.webp"
+    },
+    {
+     "game": "Amerigo",
+     "time": "90min",
+     "players": "2 a 4",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Amerigo.jpg"
+    },
+    {
+     "game": "Herdeiros do Khan",
+     "time": "90min",
+     "players": "2 a 5",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Herdeiros do Khan.jpg"
+    },
+    {
+     "game": "Niagara: The Spirits of Niagara",
+     "time": "45min",
+     "players": "3 a 6",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/NiagaraTheSpiritsofNiagara.webp"
+    },
+    {
+     "game": "Dakota",
+     "time": "90min",
+     "players": "3 a 5",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Dakota.jpg"
+    },
+    {
+     "game": "Dixit",
+     "time": "30min",
+     "players": "3 a 6",
+     "format": "Cartas",
+     "complexity": "Fácil",
+     "modality": "Ambos",
+     "img": "/FDJ/Dixit.jpg"
+    },
+    {
+     "game": "Niagara",
+     "time": "45min",
+     "players": "3 a 5",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Niagara.webp"
+    },
+    {
+     "game": "Tzolk’in The Mayan Calendar",
+     "time": "90min",
+     "players": "2 a 4",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Tzolk’in The Mayan Calendar.jpg"
+    },
+    {
+     "game": "VeloCity",
+     "time": "45min",
+     "players": "3 a 7",
+     "format": "Tabuleiro",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Velocity.jpg"
+    },
+    {
+     "game": "Quissama",
+     "time": "30min",
+     "players": "2 a 5",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Quissama.jpg"
+    },
+    {
+     "game": "Perfil 3",
+     "time": "30min",
+     "players": "2 a 7",
+     "format": "Tabuleiro",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Perfil 3.webp"
+    },
+    {
+     "game": "Domínio de Carcassonne",
+     "time": "90min",
+     "players": "2 a 5",
+     "format": "Tabuleiro",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Domínio de Carcassonne.webp"
+    },
+    {
+     "game": "Pandemic Legacy",
+     "time": "60min",
+     "players": "2 a 4",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Cooperativo",
+     "img": "/FDJ/Pandemic Legacy.jpg"
+    },
+    {
+     "game": "Dungeon Roll",
+     "time": "15min",
+     "players": "1 a 4",
+     "format": "Ambos",
+     "complexity": "Fácil",
+     "modality": "Cooperativo",
+     "img": "/FDJ/Dungeon Roll.jpg"
+    },
+    {
+     "game": "Hanabi",
+     "time": "30min",
+     "players": "2 a 5",
+     "format": "Cartas",
+     "complexity": "Fácil",
+     "modality": "Cooperativo",
+     "img": "/FDJ/Hanabi.jpg"
+    },
+    {
+     "game": "Lucca Città",
+     "time": "20min",
+     "players": "3 a 5",
+     "format": "Cartas",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Lucca Città.jpg"
+    },
+    {
+     "game": "Province",
+     "time": "30min",
+     "players": 2,
+     "format": "Tabuleiro",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Province.jpg"
+    },
+    {
+     "game": "Age of War",
+     "time": "30min",
+     "players": "2 a 6",
+     "format": "Ambos",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Age of War2.png"
+    },
+    {
+     "game": "Vampire The Eternal Struggle",
+     "time": "120min",
+     "players": "2 a 5",
+     "format": "Cartas",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Vampire The Eternal Struggle2.jpg"
+    },
+    {
+     "game": "Warlord Saga of The Storm (Deverenian Legion)",
+     "time": "10min",
+     "players": "2 a 4",
+     "format": "Cartas",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Warlord Saga of The Storm (Deverenian Legion).jpg"
+    },
+    {
+     "game": "Warlord Saga of The Storm (Elf Legion)",
+     "time": "10min",
+     "players": "2 a 4",
+     "format": "Cartas",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Warlord Saga of The Storm (Elf Legion).jpg"
+    },
+    {
+     "game": "Mafia",
+     "time": "30min",
+     "players": "3 a 8",
+     "format": "Cartas",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Mafia.jpg"
+    },
+    {
+     "game": "Zombie Dice",
+     "time": "10min",
+     "players": "2 a 99",
+     "format": "Dados",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Zombie Dice.jpeg"
+    },
+    {
+     "game": "Yu-Gi-Oh (Deck Luminoso)",
+     "time": "20min",
+     "players": 2,
+     "format": "Cartas",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Yu-Gi-Oh (Deck Luminoso).jpg"
+    },
+    {
+     "game": "Battle Scenes Evolução Tática Força Suprema",
+     "time": "30min",
+     "players": 2,
+     "format": "Cartas",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Battle Scenes Evolução Tática Força Suprema.webp"
+    },
+    {
+     "game": "Battle Scenes Universo Marvel Heróis",
+     "time": "30min",
+     "players": 2,
+     "format": "Cartas",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Battle Scenes Universo Marvel Heróis.webp"
+    },
+    {
+     "game": "Battle Scenes Universo Marvel Vilões",
+     "time": "30min",
+     "players": 2,
+     "format": "Cartas",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Battle Scenes Universo Marvel Vilões.webp"
+    },
+    {
+     "game": "Hitler Secreto",
+     "time": "20min",
+     "players": "5 a 10",
+     "format": "Cartas",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Secrethitler.jpg"
+    },
+    {
+     "game": "Battle Scenes Evolução Tática Ilusão Sombria",
+     "time": "30min",
+     "players": 2,
+     "format": "Cartas",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Battle Scenes Evolução Tática Ilusão Sombria.webp"
+    },
+    {
+     "game": "Ultimate Werewolf Deluxe Edition",
+     "time": "30min",
+     "players": "7 a 30",
+     "format": "Tabuleiro",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Ultimate Werewolf Deluxe Edition.jpg"
+    },
+    {
+     "game": "Dobble",
+     "time": "5min",
+     "players": "2 a 8",
+     "format": "Cartas",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Dobble.jpg"
+    },
+    {
+     "game": "The Cook-Off",
+     "time": "40min",
+     "players": "4 a 6",
+     "format": "Cartas",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Thecookoff.jpg"
+    },
+    {
+     "game": "The Resistance",
+     "time": "30min",
+     "players": "5 a 10",
+     "format": "Cartas",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Theresistance.jpg"
+    },
+    {
+     "game": "For Sale",
+     "time": "30min",
+     "players": "2 a 6",
+     "format": "Cartas",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Forsale.jpg"
+    },
+    {
+     "game": "Super-Trunfo Energia",
+     "time": "15min",
+     "players": "2 a 8",
+     "format": "Cartas",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Trunfoenergia.png"
+    },
+    {
+     "game": "Dropmix",
+     "time": "30min",
+     "players": "1 a 4",
+     "format": "Cartas",
+     "complexity": "Intermediário",
+     "modality": "Ambos",
+     "img": "/FDJ/Dropmix.jpg"
+    },
+    {
+     "game": "011: An adventure with Therion",
+     "time": "120min",
+     "players": "3 a 6",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Ambos",
+     "img": "/FDJ/011An adventure with Therion2.jpg"
+    },
+    {
+     "game": "Brazil Imperial",
+     "time": "100min",
+     "players": "1 a 4",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Brazil Imperial.png"
+    },
+    {
+     "game": "Camel Cup",
+     "time": "45min",
+     "players": "2 a 10",
+     "format": "Tabuleiro",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Camel Cup.webp"
+    },
+    {
+     "game": "Neuroshima Hex! 3.0",
+     "time": "30min",
+     "players": "2 a 4",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitvo"
+    },
+    {
+     "game": "Samurai (Reiner Knizia)",
+     "time": "45min",
+     "players": "2 a 4",
+     "format": "Tabuleiro",
+     "complexity": "Difícil",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Steampunk Rally",
+     "time": "45min",
+     "players": "2 a 8",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Zombiecide Season 2 Prision Outbeak",
+     "time": "60min",
+     "players": "1 a 6",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Cooperativo"
+    },
+    {
+     "game": "Aquileia",
+     "time": "90min",
+     "players": "3 a 5",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "City Tycoon",
+     "time": "60min",
+     "players": "2 a 5",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/City Tycoon.jpg"
+    },
+    {
+     "game": "Gears of War",
+     "time": "180min",
+     "players": "1 a 4",
+     "format": "Ambos",
+     "complexity": "Difícil",
+     "modality": "Cooperativo",
+     "img": "/FDJ/Gears of War.jpg"
+    },
+    {
+     "game": "Uno",
+     "time": "30min",
+     "players": "2 a 10",
+     "format": "Cartas",
+     "complexity": "Fácil",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Tiny epic kingdoms heroes' call",
+     "time": "60min",
+     "players": "1 a 5",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "War of indines",
+     "time": "15min",
+     "players": "2 a 4",
+     "format": "Cartas",
+     "complexity": "Intermediário",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Super cats",
+     "time": "15min",
+     "players": "3 a 6",
+     "format": "Cartas",
+     "complexity": "Fácil",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Sim, mestre das trevas!",
+     "time": "30min",
+     "players": "4 a 16",
+     "format": "Cartas",
+     "complexity": "Fácil",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Butim",
+     "time": "60min",
+     "players": "2 a 7",
+     "format": "Tabuleiro",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Butim.jpg"
+    },
+    {
+     "game": "Love letter",
+     "time": "20min",
+     "players": "2 a 4",
+     "format": "Cartas",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Love letter.jpg"
+    },
+    {
+     "game": "Munchkin",
+     "time": "90min",
+     "players": "3 a 6",
+     "format": "Cartas",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Munchkin.jpg"
+    },
+    {
+     "game": "Eric Lang's senator",
+     "time": "60min",
+     "players": "3 a 5",
+     "format": "Cartas",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Eric Lang's senator.webp"
+    },
+    {
+     "game": "Cardfight!! Vanguard",
+     "time": "30min",
+     "players": 2,
+     "format": "Cartas",
+     "complexity": "Intermediário",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Lords of xidit",
+     "time": "90min",
+     "players": "3 a 5",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Lords of xidit.jpg"
+    },
+    {
+     "game": "Quarriors! Dice building game",
+     "time": "30min",
+     "players": "2 a 4",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Dogs (de marcos macri)",
+     "time": "60min",
+     "players": "2 a 4",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Cooperativo"
+    },
+    {
+     "game": "O vale dos monstros",
+     "time": "60min",
+     "players": "2 a 5",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Cooperativo"
+    },
+    {
+     "game": "Ovini",
+     "time": "60min",
+     "players": "3 a 4",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Jester",
+     "time": "75min",
+     "players": "2 a 4",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Viagem no tempo",
+     "time": "60min",
+     "players": "3 a 5",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Aquarium",
+     "time": "90min",
+     "players": "2 a 4",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Aquarium.png"
+    },
+    {
+     "game": "Gran circo",
+     "time": "50min",
+     "players": "2 a 5",
+     "format": "Tabuleiro",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Gran circo.png"
+    },
+    {
+     "game": "Trilha",
+     "time": "20min",
+     "players": 2,
+     "format": "Tabuleiro",
+     "complexity": "Fácil",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Selene the fantasy",
+     "time": "60min",
+     "players": "2 a 6",
+     "format": "Tabuleiro",
+     "complexity": "Difícil",
+     "modality": "Ambos"
+    },
+    {
+     "game": "Gammon",
+     "time": "30min",
+     "players": "2",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Gammon.jpg"
+    },
+    {
+     "game": "Futebox",
+     "time": "15min",
+     "players": "2",
+     "format": "Tabuleiro",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Futebox.jpg"
+    },
+    {
+     "game": "Queops",
+     "time": "20min",
+     "players": "2",
+     "format": "Tabuleiro",
+     "complexity": "Difícil",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Oware",
+     "time": "20min",
+     "players": "2",
+     "format": "Tabuleiro",
+     "complexity": "Fácil",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Polaris",
+     "time": "30min",
+     "players": "2 a 4",
+     "format": "RPG",
+     "complexity": "Intermediário",
+     "modality": "Cooperativo"
+    },
+    {
+     "game": "Bagha-chall",
+     "time": "20min",
+     "players": "2",
+     "format": "Tabuleiro",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Bagha-chall.webp"
+    },
+    {
+     "game": "Jogo real de ur",
+     "time": "30min",
+     "players": "2",
+     "format": "Tabuleiro",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Jogo real de ur.jpg"
+    },
+    {
+     "game": "Pagoda",
+     "time": "30min",
+     "players": "2",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Runicards",
+     "time": "120min",
+     "players": "1 a 8",
+     "format": "Cartas",
+     "complexity": "Intermediário",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Mysterium",
+     "time": "42min",
+     "players": "2 a 7",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Cooperativo",
+     "img": "/FDJ/Mysterium.jpg"
+    },
+    {
+     "game": "Das ver rücket labyrinth",
+     "time": "25min",
+     "players": "2 a 4",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Das ver rücket labyrinth.jpg"
+    },
+    {
+     "game": "Bot",
+     "time": "60min",
+     "players": "2",
+     "format": "Tabuleiro",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Bot.jpg"
+    },
+    {
+     "game": "Imigrantes",
+     "time": "120min",
+     "players": "1 a 4",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Cyclades",
+     "time": "90min",
+     "players": "2 a 5",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Imhotep builder of egypt",
+     "time": "40min",
+     "players": "2 a 4",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Imhotep builder of egypt.webp"
+    },
+    {
+     "game": "Possessão arcana",
+     "time": "120min",
+     "players": "1 a 6",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Cooperativo"
+    },
+    {
+     "game": "Dominion",
+     "time": "30min",
+     "players": "2 a 4",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Dominion.jpg"
+    },
+    {
+     "game": "Hase und igel (Hare and Turtoise)",
+     "time": "45min",
+     "players": "2 a 6",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Hase und igel (Hare and Turtoise).webp"
+    },
+    {
+     "game": "Ultimate Warlorz",
+     "time": "30min",
+     "players": "2 a 8",
+     "format": "Tabuleiro",
+     "complexity": "Fácil",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Tash-Kalar Arena of Legends",
+     "time": "20min",
+     "players": "2 a 4",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Pantheon",
+     "time": "90min",
+     "players": "2 a 4",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Horse Fever",
+     "time": "90min",
+     "players": "2 a 6",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Horse Fever.webp"
+    },
+    {
+     "game": "Dogs Cardgame",
+     "time": "40min",
+     "players": "2 a 5",
+     "format": "Cartas",
+     "complexity": "Fácil",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Castle Panic",
+     "time": "60min",
+     "players": "1 a 6",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Cooperativo",
+     "img": "/FDJ/Castle Panic.jpg"
+    },
+    {
+     "game": "Dice City",
+     "time": "60min",
+     "players": "1 a 4",
+     "format": "Cartas",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Dice City.jpg"
+    },
+    {
+     "game": "O Senhor dos Anéis",
+     "time": "60min",
+     "players": "1 a 4",
+     "format": "Ambos",
+     "complexity": "Intermediário",
+     "modality": "Ambos"
+    },
+    {
+     "game": "Survive Fuga de Atlântida!",
+     "time": "60min",
+     "players": "2 a 4",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Madeira",
+     "time": "120min",
+     "players": "2 a 4",
+     "format": "Tabuleiro",
+     "complexity": "Difícil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Madeira.jpg"
+    },
+    {
+     "game": "K2",
+     "time": "60min",
+     "players": "1 a 5",
+     "format": "Tabuleiro",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/K2-2.png"
+    },
+    {
+     "game": "Broom Service",
+     "time": "75min",
+     "players": "2 a 5",
+     "format": "Tabuleiro",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Broom Service.jpg"
+    },
+    {
+     "game": "Catan o Jogo",
+     "time": "90min",
+     "players": "3 a 4",
+     "format": "Tabuleiro",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Catan o Jogo.jpg"
+    },
+    {
+     "game": "Keyforge",
+     "time": "45min",
+     "players": "2",
+     "format": "Cartas",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Keyforge.jpg"
+    },
+    {
+     "game": "Card Fight Vanguard",
+     "time": "30min",
+     "players": "2",
+     "format": "Cartas",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Card Fight Vanguard.jpg"
+    },
+    {
+     "game": "Scotland yard",
+     "time": "90min",
+     "players": "2 a 6",
+     "format": "Tabuleiro",
+     "complexity": "Fácil",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Auf achse (Carga Máxima)",
+     "time": "60min",
+     "players": "2 a 6",
+     "format": "Tabuleiro",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Auf achse (Carga Máxima) (On the Road).jpg"
+    },
+    {
+     "game": "Jockey",
+     "time": "45min",
+     "players": "2 a 6",
+     "format": "Tabuleiro",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Jockey.jpg"
+    },
+    {
+     "game": "Der fliegende Holländer",
+     "time": "60min",
+     "players": "3 a 6",
+     "format": "Tabuleiro",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Der fliegende Holländer2.jpg"
+    },
+    {
+     "game": "Manhattan",
+     "time": "45min",
+     "players": "2 a 4",
+     "format": "Tabuleiro",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Manhattan.jpg"
+    },
+    {
+     "game": "Alta velocidade",
+     "time": "60min",
+     "players": "2 a 4",
+     "format": "Tabuleiro",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Alta velocidade2.jpg"
+    },
+    {
+     "game": "Tadsch mahal*",
+     "time": "90min",
+     "players": "2 a 5",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Os príncipes de Florença",
+     "time": "100min",
+     "players": "3 a 5",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Ambos"
+    },
+    {
+     "game": "Senhor dos Anéis: A Sociedade do Anel (miniaturas)",
+     "time": "20min",
+     "players": "2 a 6",
+     "format": "Ambos",
+     "complexity": "Intermediário",
+     "modality": "Ambos"
+    },
+    {
+     "game": "Tikal",
+     "time": "90min",
+     "players": "2 a 4",
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Cooperativo"
+    },
+    {
+     "game": "Die Händler von Genua (Os comerciantes de Gênova)",
+     "time": "120min",
+     "players": "2 a 5",
+     "format": "Cartas",
+     "complexity": "Intermediário",
+     "modality": "Cooperativo",
+     "img": "/FDJ/Die Händler von Genua (Os comerciantes de Gênova)2.jpg"
+    },
+    {
+     "game": "Saboteur",
+     "time": "30min",
+     "players": "3 a 10",
+     "format": "Cartas",
+     "complexity": "Fácil",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Magic The Gathering (Ultra Pro Deck Box)",
+     "time": "35min",
+     "players": "2 a 4",
+     "format": "Cartas",
+     "complexity": "Difícil",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Port Royal",
+     "time": "30min",
+     "players": "2 a 5",
+     "format": "Cartas",
+     "complexity": "Fácil",
+     "modality": "Ambos"
+    },
+    {
+     "game": "Pictureka!",
+     "time": "30min",
+     "players": "2 a 7",
+     "format": "Cartas",
+     "complexity": "Fácil",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Telma",
+     "time": "20min",
+     "players": "4 a 8",
+     "format": "Cartas",
+     "complexity": "Intermediário",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Dominion Update Pack",
+     "time": "30min",
+     "players": "2 a 4",
+     "format": "Cartas",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Dominion Update Pack.jpg"
+    },
+    {
+     "game": "Diamonsters",
+     "time": "20min",
+     "players": "2 a 6",
+     "format": "Cartas",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Diamonsters.jpg"
+    },
+    {
+     "game": "Reinos e Relíquias Entre Luz e Trevas",
+     "time": "45min",
+     "players": "2 a 9",
+     "format": "Cartas",
+     "complexity": "Difícil",
+     "modality": "Ambos"
+    },
+    {
+     "game": "A Ilha Proibida (Aventure-se… Se tiver coragem)",
+     "time": "30min",
+     "players": "2 a 4",
+     "format": "Cartas",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/A Ilha Proibida (Aventure-se… Se tiver coragem).jpg"
+    },
+    {
+     "game": "O Último Grande Campeão",
+     "time": "45min",
+     "players": "3 a 6",
+     "format": "Cartas",
+     "complexity": "Fácil",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Robin Hood",
+     "time": "50min",
+     "players": "3 a 5",
+     "format": "Cartas",
+     "complexity": "Difícil",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "War Zoo",
+     "time": "30min",
+     "players": "2 a 4",
+     "format": "Cartas",
+     "complexity": "Fácil",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Munchkin Zombies",
+     "time": "90min",
+     "players": "3 a 6",
+     "format": "Cartas",
+     "complexity": "Difícil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Munchkin Zombies.jpg"
+    },
+    {
+     "game": "Don Capollo",
+     "time": "45min",
+     "players": "3 a 6",
+     "format": "Cartas",
+     "complexity": "Difícil",
+     "modality": "Ambos",
+     "img": "/FDJ/Don Capollo.jpg"
+    },
+    {
+     "game": "Engage Senhores da Guerra (Maldição de Silent Crown)",
+     "time": "45min",
+     "players": 2,
+     "format": "Tabuleiro",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Engage Senhores da Guerra (Maldição de Silent"
+    },
+    {
+     "game": "Viajantes",
+     "time": "20min",
+     "players": "3 a 6",
+     "format": "Cartas",
+     "complexity": "Fácil",
+     "modality": "Cooperativo"
+    },
+    {
+     "game": "Pablo",
+     "time": "30min",
+     "players": "2 a 10",
+     "format": "Cartas",
+     "complexity": "Intermediário",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Histórias de Pescador",
+     "time": "30min",
+     "players": "3 a 7",
+     "format": "Cartas",
+     "complexity": "Intermediário",
+     "modality": "Competitivo",
+     "img": "/FDJ/Histórias de Pescador.jpg"
+    },
+    {
+     "game": "Imagine",
+     "time": "30min",
+     "players": "3 a 8",
+     "format": "Cartas",
+     "complexity": "Fácil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Imagine.jpg"
+    },
+    {
+     "game": "Codenames",
+     "time": "15min",
+     "players": "2 a 8",
+     "format": "Cartas",
+     "complexity": "Intermediário",
+     "modality": "Ambos",
+     "img": "/FDJ/Codenames.jpg"
+    },
+    {
+     "game": "Citadels",
+     "time": "60min",
+     "players": "2 a 8",
+     "format": "Cartas",
+     "complexity": "Difícil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Citadels.jpg"
+    },
+    {
+     "game": "Pássaros (de Marcos Macri)",
+     "time": "50min",
+     "players": "2 a 5",
+     "format": "Cartas",
+     "complexity": "Intermediário",
+     "modality": "Competitivo"
+    },
+    {
+     "game": "Spellfire O poder da Magia",
+     "time": "90min",
+     "players": "2 a 8",
+     "format": "Cartas",
+     "complexity": "Difícil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Spellfire O poder da Magia.jpg"
+    },
+    {
+     "game": "Spelfire Master the magic",
+     "time": "90min",
+     "players": "2 a 8",
+     "format": "Cartas",
+     "complexity": "Difícil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Spelfire Master the magic.jpg"
+    },
+    {
+     "game": "Magic The Gathering (Deckmaster)",
+     "time": "35min",
+     "players": "2 a 4",
+     "format": "Cartas",
+     "complexity": "Difícil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Magic The Gathering (Deckmaster).jpg"
+    },
+    {
+     "game": "Modern art",
+     "time": "45min",
+     "players": "3 a 5",
+     "format": "Cartas",
+     "complexity": "Difícil",
+     "modality": "Competitivo",
+     "img": "/FDJ/Modern art.jpg"
+    },
+    {
+     "game": "O grande chefão",
+     "time": "30min",
+     "players": "3 a 6",
+     "format": "Cartas",
+     "complexity": "Fácil",
+     "modality": "Ambos",
+     "img": "/FDJ/O grande chefão.jpg"
+    },
+    {
+     "game": "Elfenland",
+     "time": "60min",
+     "players": "2 a 6",
+     "format": "Cartas",
+     "complexity": "Fácil",
+     "modality": "Ambos",
+     "img": "/FDJ/Elfenland.jpg"
     }
-]
+   ]
