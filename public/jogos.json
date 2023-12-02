@@ -325,13 +325,13 @@
         "Jogo": "011: An adventure with Therion",
         "Tempo": "90-120",
         "Njoga": "3 a 6",
-        "Img": "/teste.png"
+        "Img": "/FDJ/011An adventure with Therion2.jpg"
     },
     {
         "Jogo": "Brazil Imperial",
         "Tempo": "100min",
         "Njoga": "1 a 4",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Brazil Imperial.png"
     },
     {
         "Jogo": "Camel Cup",
@@ -340,7 +340,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermed",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Camel Cup.webp"
     },
     {
         "Jogo": "Neuroshima Hex! 3.0",
@@ -391,13 +391,13 @@
         "Jogo": "City Tycoon",
         "Tempo": "60min",
         "Njoga": "2 a 5",
-        "Img": "/teste.png"
+        "Img": "/FDJ/City Tycoon.jpg"
     },
     {
         "Jogo": "Gears of War",
         "Tempo": "180min",
         "Njoga": "1 a 4",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Gears of War.jpg"
     },
     {
         "Jogo": "Uno",
@@ -448,7 +448,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Butim.jpg"
     },
     {
         "Jogo": "Love letter",
@@ -457,7 +457,7 @@
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Love.jpg"
     },
     {
         "Jogo": "Munchkin",
@@ -466,13 +466,13 @@
         "Formato": "Cartas",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Munchkin.jpg"
     },
     {
         "Jogo": "Eric Lang's senator",
         "Tempo": "60min",
         "Njoga": "3 a 5",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Eric Lang's senator.webp"
     },
     {
         "Jogo": "Cardfight!! Vanguard",
@@ -481,7 +481,7 @@
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "FDJ/Card Fight Vanguard.jpg"
     },
     {
         "Jogo": "Lords of xidit",
@@ -490,7 +490,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Lords of xidit.jpg"
     },
     {
         "Jogo": "Quarriors! Dice building game",
@@ -508,7 +508,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Cooperativo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Dogs(de marcos macri).jpg"
     },
     {
         "Jogo": "O vale dos monstros",
@@ -527,7 +527,7 @@
         "Jogo": "Jester",
         "Tempo": "75min",
         "Njoga": "2 a 4",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Jester.jpg"
     },
     {
         "Jogo": "Viagem no tempo",
@@ -542,7 +542,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Aquarium.png"
     },
     {
         "Jogo": "Gran circo",
@@ -551,7 +551,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Gran circo.png"
     },
     {
         "Jogo": "Trilha",
@@ -575,7 +575,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Gammon.jpg"
     },
     {
         "Jogo": "Futebox",
@@ -584,7 +584,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Futebox.jpg"
     },
     {
         "Jogo": "Queops",
@@ -620,7 +620,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Bagha-chall.webp"
     },
     {
         "Jogo": "Jogo real de ur",
@@ -629,7 +629,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Jogo real de ur.jpg"
     },
     {
         "Jogo": "Pagoda",
@@ -656,7 +656,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Cooperativo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Mysterium.jpg"
     },
     {
         "Jogo": "Das ver rücket labyrinth",
@@ -665,7 +665,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Das ver rücket labyrinth.jpg"
     },
     {
         "Jogo": "Bot",
@@ -674,7 +674,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Bot.jpg"
     },
     {
         "Jogo": "Imigrantes",
@@ -683,7 +683,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Imigrantes.webp"
     },
     {
         "Jogo": "Cyclades",
@@ -692,7 +692,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Cyclades.jpg"
     },
     {
         "Jogo": "Imhotep builder of egypt",
@@ -701,7 +701,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Imhotep builder of egypt.webp"
     },
     {
         "Jogo": "Possessão arcana",
@@ -719,7 +719,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Dominion.jpg"
     },
     {
         "Jogo": "Hase und igel (Hare and Turtoise)",
@@ -728,7 +728,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Hase und igel (Hare and Turtoise).webp"
     },
     {
         "Jogo": "Ultimate Warlorz",
@@ -764,7 +764,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Horse Fever.webp"
     },
     {
         "Jogo": "Dogs Cardgame",
@@ -773,7 +773,7 @@
         "Formato": "Cartas",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Dogs Cardgame.jpg"
     },
     {
         "Jogo": "Castle Panic",
@@ -782,7 +782,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Cooperativo",
-        "Img": "/teste.png"
+        "Img": "FDJ/Castle Panic.jpg"
     },
     {
         "Jogo": "Dice City",
@@ -791,7 +791,7 @@
         "Formato": "Cartas",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Dice City.jpg"
     },
     {
         "Jogo": "O Senhor dos Anéis",
@@ -815,7 +815,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Médio-Pesado",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Madeira.jpg"
     },
     {
         "Jogo": "K2",
@@ -824,7 +824,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/K2-2.png"
     },
     {
         "Jogo": "Broom Service",
@@ -833,7 +833,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Broom Service.jpg"
     },
     {
         "Jogo": "Catan o Jogo",
@@ -842,7 +842,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Catan o Jogo.jpg"
     },
     {
         "Jogo": "Keyforge",
@@ -851,7 +851,7 @@
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Keyforge.jpg"
     },
     {
         "Jogo": "Card Fight Vanguard",
@@ -878,11 +878,11 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Auf achse (Carga Máxima) (On the Road).jpg"
     },
     {
-        "Jogo": "Dockey",
-        "Img": "/teste.png"
+        "Jogo": "Jockey",
+        "Img": "/FDJ/Jockey.jpg"
     },
     {
         "Jogo": "Der fliegende Holländer",
@@ -891,7 +891,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Der fliegende Holländer2.jpg"
     },
     {
         "Jogo": "Manhattan",
@@ -900,7 +900,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Manhattan.jpg"
     },
     {
         "Jogo": "Alta velocidade",
@@ -909,7 +909,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Fácil-Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Alta velocidade2.jpg"
     },
     {
         "Jogo": "Tadsch mahal*",
@@ -918,20 +918,20 @@
         "Formato": "Tabuleiro",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/teste.png"
     },
     {
         "Jogo": "Die Fürsten von Florenz (Os príncipes de Florença)",
         "Tempo": "100min",
         "Njoga": "3 a 5",
         "Estilo": "Coop-Compet",
-        "Img": "/teste.png"
+        "Img": "/FDJ/teste.png"
     },
     {
         "Jogo": "Senhor dos Anéis a sociedade do anel (miniaturas)",
         "Tempo": "20 min",
         "Njoga": "2 a 6",
-        "Img": "/teste.png"
+        "Img": "/FDJ/teste.png"
     },
     {
         "Jogo": "Tikal",
@@ -940,7 +940,7 @@
         "Formato": "Tabuleiro",
         "Peso": "Intermediário",
         "Estilo": "Cooperativo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/teste.png"
     },
     {
         "Jogo": "Die Händler von Genua (Os comerciantes de Gênova)",
@@ -949,7 +949,7 @@
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Cooperativo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Die Händler von Genua (Os comerciantes de Gênova)2.jpg"
     },
     {
         "Jogo": "Saboteur",
@@ -958,7 +958,7 @@
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/teste.png"
     },
     {
         "Jogo": "Magic The Gathering (Ultra Pro Deck Box)",
@@ -967,7 +967,7 @@
         "Formato": "Cartas",
         "Peso": "Pesado",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Magic The Gathering (Ultra Pro Deck Box).jpg"
     },
     {
         "Jogo": "Port Royal",
@@ -976,7 +976,7 @@
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Coop-Compet",
-        "Img": "/teste.png"
+        "Img": "/FDJ/teste.png"
     },
     {
         "Jogo": "Pictureka!",
@@ -985,7 +985,7 @@
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/teste.png"
     },
     {
         "Jogo": "Telma",
@@ -994,7 +994,7 @@
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/teste.png"
     },
     {
         "Jogo": "Dominion Update Pack",
@@ -1003,7 +1003,7 @@
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Dominion Update Pack.jpg"
     },
     {
         "Jogo": "Diamonsters",
@@ -1012,7 +1012,7 @@
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Diamonsters.jpg"
     },
     {
         "Jogo": "Reinos e Relíquias Entre Luz e Trevas",
@@ -1030,7 +1030,7 @@
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/A Ilha Proibida (Aventure-se… Se tiver coragem).jpg"
     },
     {
         "Jogo": "O Último Grande Campeão",
@@ -1066,7 +1066,7 @@
         "Formato": "Cartas",
         "Peso": "Pesado",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Munchkin Zombies.jpg"
     },
     {
         "Jogo": "Don Capollo",
@@ -1075,13 +1075,13 @@
         "Formato": "Cartas",
         "Peso": "Pesado",
         "Estilo": "Coop-Compet",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Don Capollo.jpg"
     },
     {
         "Jogo": "Engage Senhores da Guerra (Maldição de Silent Crown)",
         "Tempo": "45min",
         "Njoga": 2,
-        "Img": "/teste.png"
+        "Img": "/FDJ/Engage Senhores da Guerra (Maldição de Silent Crown).png"
     },
     {
         "Jogo": "Viajantes",
@@ -1108,7 +1108,7 @@
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Histórias de Pescador.jpg"
     },
     {
         "Jogo": "Imagine",
@@ -1117,7 +1117,7 @@
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Imagine.jpg"
     },
     {
         "Jogo": "Codenames",
@@ -1126,7 +1126,7 @@
         "Formato": "Cartas",
         "Peso": "Intermediário",
         "Estilo": "Coop-Compet",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Codenames.jpg"
     },
     {
         "Jogo": "Citadels",
@@ -1135,7 +1135,7 @@
         "Formato": "Cartas",
         "Peso": "Pesado",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Citadels.jpg"
     },
     {
         "Jogo": "Pássaros (de Marcos Macri)",
@@ -1171,7 +1171,7 @@
         "Formato": "Cartas",
         "Peso": "Pesado",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Magic The Gathering (Deckmaster).webp"
     },
     {
         "Jogo": "Modern art",
@@ -1180,7 +1180,7 @@
         "Formato": "Cartas",
         "Peso": "Pesado",
         "Estilo": "Competitivo",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Modern Art.jpg"
     },
     {
         "Jogo": "O grande chefão",
@@ -1198,6 +1198,6 @@
         "Formato": "Cartas",
         "Peso": "Fácil",
         "Estilo": "Coop-Compet",
-        "Img": "/teste.png"
+        "Img": "/FDJ/Elfenland.jpg"
     }
 ]
