@@ -7,6 +7,8 @@ import { useGameTime } from "@/app/store/gameTime";
 import { useFormato } from "@/app/store/formato";
 import { useComplex } from "../store/complex";
 import { useSearch } from "../store/search";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faDiceFive } from '@fortawesome/free-solid-svg-icons'
 
 export default function Second() {
 
@@ -134,6 +136,17 @@ export default function Second() {
     }
   };
 
+  const chooseRandomGame = () => {
+    if (jogos.length > 0) {
+      const randomIndex = Math.floor(Math.random() * jogos.length);
+      const randomGame = jogos[randomIndex];
+      console.log("Jogo escolhido:", randomGame); // Aqui você pode fazer o que quiser com o jogo escolhido
+    } else {
+      console.log("Nenhum jogo disponível.");
+    }
+  };
+
+
   return (
     <div className="m-auto max-w-[100vw]">
       <div className="fixed">
@@ -198,9 +211,14 @@ export default function Second() {
           >
             <option value="0">Complexidade</option>
             <option value="1">Fácil</option>
-            <option value="2">Médio</option>
+            <option value="2">Intermediário</option>
             <option value="3">Dificil</option>
           </select>
+          <div>
+          <button className="bg-zinc-100" onClick={chooseRandomGame}> 
+                <FontAwesomeIcon icon={faDiceFive} width={28} height={28} />
+            </button>
+          </div>
         </section>
         <aside></aside>
       </div>
