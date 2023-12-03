@@ -1,7 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+<<<<<<< HEAD
 {/*} @import 'animate.css';*/} 
+=======
+>>>>>>> 54b0700d485c21e76fd0953a69c5bee2e1254012
 
 @import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;600&display=swap');
 
@@ -51,7 +54,10 @@ button {
 }
 
 h3 {
-  @apply flex text-[18px] text-center text-sm flex-wrap;
+  color: #301D14;
+  word-break: break-all;
+  hyphens: auto;
+  @apply flex text-[18px] text-justify text-sm flex-wrap font-bold;
 }
 
 p {
@@ -59,7 +65,7 @@ p {
 }
 
 #filtros {
-  background-color: #FFF0DE;
+  background-color: #FFF0DEd3;
 }
 
 #first-page {
@@ -72,5 +78,11 @@ p {
 }
 
 #game {
-  @apply w-[50%] rounded-3xl bottom-0 h-screen bg-white opacity-5;
+  @apply flex flex-col items-center justify-start w-[50%] rounded-3xl bottom-0 h-screen bg-white opacity-80 pt-16 p-10;
 }
+
+#descricao {
+  background-color: #FBE8CD;
+  @apply rounded-3xl px-[40%] py-[12%];
+}
+

@@ -13,7 +13,7 @@
      "time": "90min",
      "players": "2 a 4",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Amerigo.jpg"
     },
@@ -22,7 +22,7 @@
      "time": "90min",
      "players": "2 a 5",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Herdeiros do Khan.jpg"
     },
@@ -31,7 +31,7 @@
      "time": "45min",
      "players": "3 a 6",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/NiagaraTheSpiritsofNiagara.webp"
     },
@@ -40,7 +40,7 @@
      "time": "90min",
      "players": "3 a 5",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Dakota.jpg"
     },
@@ -58,7 +58,7 @@
      "time": "45min",
      "players": "3 a 5",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Niagara.webp"
     },
@@ -67,7 +67,7 @@
      "time": "90min",
      "players": "2 a 4",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Tzolk’in The Mayan Calendar.jpg"
     },
@@ -85,7 +85,7 @@
      "time": "30min",
      "players": "2 a 5",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Quissama.jpg"
     },
@@ -112,7 +112,7 @@
      "time": "60min",
      "players": "2 a 4",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Cooperativo",
      "img": "/FDJ/Pandemic Legacy.jpg"
     },
@@ -166,7 +166,7 @@
      "time": "120min",
      "players": "2 a 5",
      "format": "Cartas",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Vampire The Eternal Struggle2.jpg"
     },
@@ -211,7 +211,7 @@
      "time": "20min",
      "players": "2",
      "format": "Cartas",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Yu-Gi-Oh (Deck Luminoso).jpg"
     },
@@ -220,7 +220,7 @@
      "time": "30min",
      "players": "2",
      "format": "Cartas",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Battle Scenes Evolução Tática Força Suprema.webp"
     },
@@ -229,7 +229,7 @@
      "time": "30min",
      "players": "2",
      "format": "Cartas",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Battle Scenes Universo Marvel Heróis.webp"
     },
@@ -238,7 +238,7 @@
      "time": "30min",
      "players": "2",
      "format": "Cartas",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Battle Scenes Universo Marvel Vilões.webp"
     },
@@ -247,7 +247,7 @@
      "time": "20min",
      "players": "5 a 10",
      "format": "Cartas",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Secrethitler.jpg"
     },
@@ -256,7 +256,7 @@
      "time": "30min",
      "players": "2",
      "format": "Cartas",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Battle Scenes Evolução Tática Ilusão Sombria.webp"
     },
@@ -292,7 +292,7 @@
      "time": "30min",
      "players": "5 a 10",
      "format": "Cartas",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Theresistance.jpg"
     },
@@ -319,7 +319,7 @@
      "time": "30min",
      "players": "1 a 4",
      "format": "Cartas",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Ambos",
      "img": "/FDJ/Dropmix.jpg"
     },
@@ -328,7 +328,7 @@
      "time": "120min",
      "players": "3 a 6",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Ambos",
      "img": "/FDJ/011An adventure with Therion2.jpg"
     },
@@ -337,7 +337,7 @@
      "time": "100min",
      "players": "1 a 4",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Brazil Imperial.png"
     },
@@ -355,7 +355,7 @@
      "time": "30min",
      "players": "2 a 4",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitvo"
     },
     {
@@ -371,7 +371,7 @@
      "time": "45min",
      "players": "2 a 8",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo"
     },
     {
@@ -379,7 +379,7 @@
      "time": "60min",
      "players": "1 a 6",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Cooperativo"
     },
     {
@@ -387,7 +387,7 @@
      "time": "90min",
      "players": "3 a 5",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo"
     },
     {
@@ -395,7 +395,7 @@
      "time": "60min",
      "players": "2 a 5",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/City Tycoon.jpg"
     },
@@ -421,7 +421,7 @@
      "time": "60min",
      "players": "1 a 5",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo"
     },
     {
@@ -429,7 +429,7 @@
      "time": "15min",
      "players": "2 a 4",
      "format": "Cartas",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo"
     },
     {
@@ -471,7 +471,7 @@
      "time": "90min",
      "players": "3 a 6",
      "format": "Cartas",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Munchkin.jpg"
     },
@@ -480,7 +480,7 @@
      "time": "60min",
      "players": "3 a 5",
      "format": "Cartas",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Eric Lang's senator.webp"
     },
@@ -489,7 +489,7 @@
      "time": "30min",
      "players": "2",
      "format": "Cartas",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo"
     },
     {
@@ -497,7 +497,7 @@
      "time": "90min",
      "players": "3 a 5",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Lords of xidit.jpg"
     },
@@ -506,7 +506,7 @@
      "time": "30min",
      "players": "2 a 4",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo"
     },
     {
@@ -514,7 +514,7 @@
      "time": "60min",
      "players": "2 a 4",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Cooperativo"
     },
     {
@@ -522,7 +522,7 @@
      "time": "60min",
      "players": "2 a 5",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Cooperativo"
     },
     {
@@ -530,7 +530,7 @@
      "time": "60min",
      "players": "3 a 4",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo"
     },
     {
@@ -538,7 +538,7 @@
      "time": "75min",
      "players": "2 a 4",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo"
     },
     {
@@ -546,7 +546,7 @@
      "time": "60min",
      "players": "3 a 5",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo"
     },
     {
@@ -554,7 +554,7 @@
      "time": "90min",
      "players": "2 a 4",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Aquarium.png"
     },
@@ -588,7 +588,7 @@
      "time": "30min",
      "players": "2",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Gammon.jpg"
     },
@@ -622,7 +622,7 @@
      "time": "30min",
      "players": "2 a 4",
      "format": "RPG",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Cooperativo"
     },
     {
@@ -648,7 +648,7 @@
      "time": "30min",
      "players": "2",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo"
     },
     {
@@ -656,7 +656,7 @@
      "time": "120min",
      "players": "1 a 8",
      "format": "Cartas",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo"
     },
     {
@@ -664,7 +664,7 @@
      "time": "42min",
      "players": "2 a 7",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Cooperativo",
      "img": "/FDJ/Mysterium.jpg"
     },
@@ -673,7 +673,7 @@
      "time": "25min",
      "players": "2 a 4",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Das ver rücket labyrinth.jpg"
     },
@@ -691,7 +691,7 @@
      "time": "120min",
      "players": "1 a 4",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo"
     },
     {
@@ -699,7 +699,7 @@
      "time": "90min",
      "players": "2 a 5",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo"
     },
     {
@@ -707,7 +707,7 @@
      "time": "40min",
      "players": "2 a 4",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Imhotep builder of egypt.webp"
     },
@@ -716,7 +716,7 @@
      "time": "120min",
      "players": "1 a 6",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Cooperativo"
     },
     {
@@ -724,7 +724,7 @@
      "time": "30min",
      "players": "2 a 4",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Dominion.jpg"
     },
@@ -733,7 +733,7 @@
      "time": "45min",
      "players": "2 a 6",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Hase und igel (Hare and Turtoise).webp"
     },
@@ -750,7 +750,7 @@
      "time": "20min",
      "players": "2 a 4",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo"
     },
     {
@@ -758,7 +758,7 @@
      "time": "90min",
      "players": "2 a 4",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo"
     },
     {
@@ -766,7 +766,7 @@
      "time": "90min",
      "players": "2 a 6",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Horse Fever.webp"
     },
@@ -783,7 +783,7 @@
      "time": "60min",
      "players": "1 a 6",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Cooperativo",
      "img": "/FDJ/Castle Panic.jpg"
     },
@@ -792,7 +792,7 @@
      "time": "60min",
      "players": "1 a 4",
      "format": "Cartas",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Dice City.jpg"
     },
@@ -801,7 +801,7 @@
      "time": "60min",
      "players": "1 a 4",
      "format": "Ambos",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Ambos"
     },
     {
@@ -809,7 +809,7 @@
      "time": "60min",
      "players": "2 a 4",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo"
     },
     {
@@ -853,7 +853,7 @@
      "time": "45min",
      "players": "2",
      "format": "Cartas",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Keyforge.jpg"
     },
@@ -862,7 +862,7 @@
      "time": "30min",
      "players": "2",
      "format": "Cartas",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Card Fight Vanguard.jpg"
     },
@@ -924,7 +924,7 @@
      "time": "90min",
      "players": "2 a 5",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo"
     },
     {
@@ -932,7 +932,7 @@
      "time": "100min",
      "players": "3 a 5",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Ambos"
     },
     {
@@ -940,7 +940,7 @@
      "time": "20min",
      "players": "2 a 6",
      "format": "Ambos",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Ambos"
     },
     {
@@ -948,7 +948,7 @@
      "time": "90min",
      "players": "2 a 4",
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Cooperativo"
     },
     {
@@ -956,7 +956,7 @@
      "time": "120min",
      "players": "2 a 5",
      "format": "Cartas",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Cooperativo",
      "img": "/FDJ/Die Händler von Genua (Os comerciantes de Gênova)2.jpg"
     },
@@ -997,7 +997,7 @@
      "time": "20min",
      "players": "4 a 8",
      "format": "Cartas",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo"
     },
     {
@@ -1005,7 +1005,7 @@
      "time": "30min",
      "players": "2 a 4",
      "format": "Cartas",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Dominion Update Pack.jpg"
     },
@@ -1031,7 +1031,7 @@
      "time": "30min",
      "players": "2 a 4",
      "format": "Cartas",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/A Ilha Proibida (Aventure-se… Se tiver coragem).jpg"
     },
@@ -1082,7 +1082,7 @@
      "time": "45min",
      "players": 2,
      "format": "Tabuleiro",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Engage Senhores da Guerra (Maldição de Silent"
     },
@@ -1099,7 +1099,7 @@
      "time": "30min",
      "players": "2 a 10",
      "format": "Cartas",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo"
     },
     {
@@ -1107,7 +1107,7 @@
      "time": "30min",
      "players": "3 a 7",
      "format": "Cartas",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Histórias de Pescador.jpg"
     },
@@ -1125,7 +1125,7 @@
      "time": "15min",
      "players": "2 a 8",
      "format": "Cartas",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Ambos",
      "img": "/FDJ/Codenames.jpg"
     },
@@ -1143,7 +1143,7 @@
      "time": "50min",
      "players": "2 a 5",
      "format": "Cartas",
-     "complexity": "Intermediário",
+     "complexity": "Médio",
      "gameStyle": "Competitivo"
     },
     {
