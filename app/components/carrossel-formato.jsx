@@ -13,9 +13,9 @@ export default function CarouselFormato() {
 
   return (
     <Carousel
-      className="w-[200px] h-[200px] mx-5"
+      id="car-formato" className="w-[200px] h-[200px] m-auto absolute top-[60%] right-[25%] sm:right-[36.5%] lg:right-[40%] xl:right-[42%] 2xl:right-[42.5%] "
       navigation={({ setActiveIndex, activeIndex, length }) => (
-        <div className="absolute z-50 flex gap-2 bottom-4 left-2/4 -translate-x-2/4">
+        <div className="absolute z-50 flex gap-2 bottom-4 left-2/4 -translate-x-2/4 ">
           {new Array(length).fill("").map((_, i) => (
             <span
               key={i}

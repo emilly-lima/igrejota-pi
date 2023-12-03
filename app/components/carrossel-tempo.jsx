@@ -13,7 +13,7 @@ export default function CarouselTime() {
 
   return (
     <Carousel
-      className="w-[200px] h-[200px] mx-5"
+      id="car-tempo" className="w-[200px] h-[200px] mx-auto left-[55%] top-[70%] lg:top-[60%] "
       navigation={({ setActiveIndex, activeIndex, length }) => (
         <div className="absolute z-50 flex gap-2 bottom-4 left-2/4 -translate-x-2/4">
           {new Array(length).fill("").map((_, i) => (

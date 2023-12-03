@@ -1,7 +1,6 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@import 'animate.css';
 
 @import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;600&display=swap');
 
@@ -51,7 +50,10 @@ button {
 }
 
 h3 {
-  @apply flex text-[18px] text-center text-sm flex-wrap;
+  color: #301D14;
+  word-break: break-all;
+  hyphens: auto;
+  @apply flex text-[18px] text-justify text-sm flex-wrap font-bold;
 }
 
 p {
@@ -59,7 +61,7 @@ p {
 }
 
 #filtros {
-  background-color: #FFF0DE;
+  background-color: #FFF0DEd3;
 }
 
 #first-page {

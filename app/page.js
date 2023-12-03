@@ -21,7 +21,7 @@ export default function Home() {
           <CarouselFormato/>
         </main>
 
-        <footer className="flex justify-center absolute bottom-4 left-[45%]">
+        <footer className="flex justify-center left-[50%] right-[50%] absolute bottom-4 ">
           <Link href="/second" id="buscar-p1">
             Buscar
           </Link>

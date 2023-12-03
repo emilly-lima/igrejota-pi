@@ -2,7 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 const Card = ({ jogos }) => {
     return (
-        <div className='flex flex-row gap-[58px] px-[185px] justify-center py-6 flex-wrap relative bottom-0 top-[200px]'>
+        <div className='flex flex-row gap-[58px] px-[185px] justify-center py-6 flex-wrap relative bottom-0 top-[140px] z-[-1]'>
             {jogos && jogos.map((item) => (
                 <Link href="/game" key={item.game}>
                     <div className='relative'>
@@ -12,7 +12,7 @@ const Card = ({ jogos }) => {
                             <h3>{item.game}</h3>
                             <div className='flex flex-row flex-wrap p-1 items-start gap-1 '>
                                 <p>{item.time}</p>
-                                <p>{item.players}</p>
+                                <p>{item.players + ' Jogadores'}</p>
                                 <p>{item.complexity}</p>
                                 <p>{item.gameStyle}</p>
                                 <p>{item.format}</p>
