@@ -83,7 +83,7 @@ export default function CarouselFormato() {
         />
 
       <Image
-        src="/assets/PNGS/TABULEIROCARTAS.png"
+        src="/assets/PNGS/TABULEIRODADOS.png"
         alt="image 2"
         width={80}
         height={30}
@@ -91,7 +91,7 @@ export default function CarouselFormato() {
         className={`object-scale-down pointer-events-none absolute -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 transition-all ${index !== 1 ? "opacity-0" : "opacity-100"}`} 
         />
       <Image
-        src="/assets/PNGS/TABULEIRODADOS.png"
+        src="/assets/PNGS/TABULEIROCARTAS.png"
         alt="image 2"
         width={80}
         height={100}

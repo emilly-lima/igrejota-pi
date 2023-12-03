@@ -9,13 +9,21 @@ import { useComplex } from "../store/complex";
 import { useSearch } from "../store/search";
 
 export default function Second() {
+
+  //filters selects
   const [jogos, setJogos] = React.useState([]);
+  const [players, setPlayers] = React.useState("0");
+  const [gameStyle, setGameStyle] = React.useState("0");
+
+  //filters carousel
   const { setTime, time } = useGameTime();
   const { setFormato, formato } = useFormato();
   const { setComplex, complex } = useComplex();
+
+  //search
   const { search } = useSearch();
 
-  console.log(search);
+  console.log(complex);
 
   React.useEffect(() => {
     const fetchGames = async () => {
@@ -24,7 +32,29 @@ export default function Second() {
         const games = await response.json();
 
         const filteredGames = games.filter((jogo) => {
-          return jogo.Jogo.toLowerCase().includes(search.toLowerCase());
+          const searchMatches = jogo.game?.toLowerCase().includes(
+            search?.toLowerCase()
+          );
+          // const playersMatch =
+          // players === "0" || (jogo.Njoga && jogo.Njoga.includes(players));
+
+          const timeMatch = time === "0" || jogo.time?.includes(time);
+
+          const fomatoMatch =
+            formato === "0" || jogo.format?.includes(formato);
+
+          const gameStyleMatch =
+            gameStyle === "0" || jogo.gameStyle?.includes(gameStyle);
+
+          const complexMatch = complex === "0" || jogo.complexity?.includes(complex);
+
+          return (
+            searchMatches &&
+            timeMatch &&
+            fomatoMatch &&
+            gameStyleMatch &&
+            complexMatch
+          );
         });
 
         setJogos(filteredGames);
@@ -34,22 +64,74 @@ export default function Second() {
     };
 
     fetchGames();
-  }, [search]);
+  }, [search, time, formato, gameStyle, complex]);
 
-  console.log(time);
+  const handleFormato = (e) => {
+    switch (e) {
+      case "1":
+        setFormato("Tabuleiro");
+        break;
+      case "2":
+        setFormato("Cartas");
+        break;
+      case "3":
+        setFormato("Dados");
+        break;
+      default:
+        setFormato("0");
+        break;
+    }
+  };
 
-  const [filtros, setFiltros] = React.useState({
-    tempo: "0",
-    jogadores: "0",
-    formato: "0",
-    estilo: "0",
-    complexidade: "0",
-  });
+  const handleGameStyle = (e) => {
+    switch (e) {
+      case "1":
+        setGameStyle("Competitivo");
+        break;
+      case "2":
+        setGameStyle("Cooperativo");
+        break;
+      case "3":
+        setGameStyle("Ambos");
+        break;
+      default:
+        setGameStyle("0");
+        break;
+    }
+  };
 
-  const handleSelectChange = (event) => {
-    const selectedValue = event.target.value;
-    console.log(selectedValue);
-    // Aqui você pode fazer algo com o valor selecionado
+  const handleComplex = (e) => {
+    switch (e) {
+      case "1":
+        setComplex("Fácil");
+        break;
+      case "2":
+        setComplex("Médio");
+        break;
+      case "3":
+        setComplex("Dificil");
+        break;
+      default:
+        setComplex("0");
+        break;
+    }
+  };
+
+  const handlePlayers = (e) => {
+    switch (e) {
+      case "1":
+        setPlayers("1");
+        break;
+      case "2":
+        setPlayers("2");
+        break;
+      case "3":
+        setPlayers("3");
+        break;
+      default:
+        setPlayers("0");
+        break;
+    }
   };
 
   return (
@@ -72,7 +154,12 @@ export default function Second() {
             <option value="2">Entre 30 e 60min</option>
             <option value="3">Maior que 60min</option>
           </select>
-          <select id="jogadores">
+          <select
+            id="jogadores"
+            onClick={(e) => {
+              handlePlayers(e.target.value);
+            }}
+          >
             <option value="0">Nº de Jogadores</option>
             <option value="1">Um</option>
             <option value="2">Dois</option>
@@ -81,7 +168,7 @@ export default function Second() {
           <select
             id="formato"
             onClick={(e) => {
-              setFormato(e.target.value);
+              handleFormato(e.target.value);
             }}
             defaultValue={formato}
           >
@@ -90,7 +177,13 @@ export default function Second() {
             <option value="2">Cartas</option>
             <option value="3">Dados</option>
           </select>
-          <select id="estilo">
+          <select
+            id="estilo"
+            defaultValue={gameStyle}
+            onClick={(e) => {
+              handleGameStyle(e.target.value);
+            }}
+          >
             <option value="0">Estilo de Jogo</option>
             <option value="1">Competitivo</option>
             <option value="2">Cooperativo</option>
@@ -99,7 +192,7 @@ export default function Second() {
           <select
             id="complexidade"
             onClick={(e) => {
-              setComplex(e.target.value);
+              handleComplex(e.target.value);
             }}
             defaultValue={complex}
           >
@@ -109,25 +202,6 @@ export default function Second() {
             <option value="3">Dificil</option>
           </select>
         </section>
-        {/*
-      
-      <section className="flex justify-evenly items-center p-4 h-[60px] lg:hidden mt-[-10px]"> 
-            <select id="estilo">
-                    <option value="todos-e">Estilo de Jogo</option>
-                    <option value="competitivo">Competitivo</option>
-                    <option value="cooperativo">Cooperativo</option>
-                    <option value="ambos">Ambos</option>
-                </select>
-                <select id="complexidade">
-                    <option value="todos-c">Complexidade</option>
-                    <option value="facil">Fácil</option>
-                    <option value="medio">Médio</option>
-                    <option value="dificil">Dificil</option>
-                </select>
-            </section>
-      
-      
-      */}
         <aside></aside>
       </div>
       <main
