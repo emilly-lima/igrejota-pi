@@ -68,5 +68,9 @@ p {
 
 #buscar-p1 {
   background-color: #47210B;
-  @apply flex justify-center shadow-md shadow-yellow-700 font-semibold items-center px-4 py-2 text-white text-3xl rounded-[46px] h-16 w-44 hover:bg-yellow-900 ease-in duration-300;
+  @apply flex justify-center shadow-md shadow-yellow-700 font-semibold items-center px-4 py-2 text-white text-3xl rounded-[46px] h-16 w-44 hover:bg-yellow-900;
+}
+
+#game {
+  @apply w-[50%] rounded-3xl bottom-0 h-screen bg-white opacity-5;
 }
