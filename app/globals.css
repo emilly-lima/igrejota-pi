@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import 'animate.css';
 
 @import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;600&display=swap');
 
@@ -67,5 +68,5 @@ p {
 
 #buscar-p1 {
   background-color: #47210B;
-  @apply flex justify-center shadow-md shadow-yellow-700 font-semibold items-center px-4 py-2 text-white text-3xl rounded-[46px] h-16 w-40;
+  @apply flex justify-center shadow-md shadow-yellow-700 font-semibold items-center px-4 py-2 text-white text-3xl rounded-[46px] h-16 w-44 hover:bg-yellow-900 ease-in duration-300;
 }
