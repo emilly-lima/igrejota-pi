@@ -6,21 +6,21 @@ import Ogame from "@/app/components/game";
 export default function Game({jogos}) {
 
     return (
-        <div>
+        <div className="">
             <header>
             <Navbar />
             </header>
 
-            <main className="flex flex-row fixed inset-0 bg-cover bg-no-repeat bg-center z-[-4] justify-center w-screen" style={{
+            <main className="flex flex-row flex-wrap fixed inset-0 bg-cover bg-no-repeat bg-center z-[-4] justify-center w-screen" style={{
             backgroundImage: "url('/assets/fundo-carta.png')",
           }}>
             <div id="game" className="">
-                <div>
+                <div className="p-5">
                     <h1>jogo</h1>
                 </div>
-                <img 
+                <div className="rounded-3xl bg-zinc-800 w-[70%] h-[200px]">
                     
-                />
+                </div>
             </div>
             </main>
 

@@ -72,5 +72,5 @@ p {
 }
 
 #game {
-  @apply w-[50%] rounded-3xl bottom-0 h-screen bg-white opacity-5;
+  @apply justify-center w-[50%] rounded-3xl bottom-0 h-screen bg-white opacity-80 pt-20 p-11;
 }
