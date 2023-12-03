@@ -1,7 +1,6 @@
 "use client";
 import React from "react";
 import Navbar from "@/app/components/navbar";
-import Ogame from "@/app/components/game";
 
 export default function Game({jogos}) {
 
@@ -14,12 +13,18 @@ export default function Game({jogos}) {
             <main className="flex flex-row flex-wrap fixed inset-0 bg-cover bg-no-repeat bg-center z-[-4] justify-center w-screen" style={{
             backgroundImage: "url('/assets/fundo-carta.png')",
           }}>
-            <div id="game" className="">
+            <div id="game">
                 <div className="p-5">
                     <h1>jogo</h1>
                 </div>
                 <div className="rounded-3xl bg-zinc-800 w-[70%] h-[200px]">
                     
+                </div>
+                <div className="pt-5">
+                    <h2>critérios</h2>
+                </div>
+                <div className="p-2" id="descricao">
+                    <h2>descrição</h2>
                 </div>
             </div>
             </main>
