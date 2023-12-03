@@ -13,7 +13,7 @@ export default function CarouselComplex() {
 
   return (
     <Carousel
-      className="w-[200px] h-[200px] mx-5"
+      id="car-complex" className="w-[200px] h-[200px] mx-auto top-[calc(100vh-220px)] right-[50%]"
       navigation={({ setActiveIndex, activeIndex, length }) => (
         <div className="absolute z-50 flex gap-2 bottom-4 left-2/4 -translate-x-2/4">
           {new Array(length).fill("").map((_, i) => (
