@@ -9,6 +9,7 @@ import { useComplex } from "../store/complex";
 import { useSearch } from "../store/search";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faDiceFive } from '@fortawesome/free-solid-svg-icons'
+import Link from 'next/link';
 
 export default function Second() {
 
@@ -17,6 +18,7 @@ export default function Second() {
   const [players, setPlayers] = React.useState("0");
   const [gameStyle, setGameStyle] = React.useState("0");
   const [noGamesMessage, setNoGamesMessage] = React.useState(false);
+  const [randomGame, setRandomGame] = React.useState(null);
 
 
   //filters carousel
@@ -25,7 +27,7 @@ export default function Second() {
   const { setComplex, complex } = useComplex();
 
   //search
-  const { search } = useSearch();
+  const { search,setSearch } = useSearch();
 
   console.log(complex);
 
@@ -146,11 +148,15 @@ export default function Second() {
     }
   };
 
+  const clearSearch = () => {
+    setSearch('');
+  };
+
   const chooseRandomGame = () => {
     if (jogos.length > 0) {
       const randomIndex = Math.floor(Math.random() * jogos.length);
-      const randomGame = jogos[randomIndex];
-      console.log("Jogo escolhido:", randomGame); // Aqui você pode fazer o que quiser com o jogo escolhido
+      const randomGame = jogos[randomIndex]; 
+      setSearch(randomGame.game); // Preenche o campo de busca com o nome do jogo randomizado
     } else {
       setNoGamesMessage(true);
     }
@@ -227,11 +233,7 @@ export default function Second() {
           </select>
           <div>
           </div>
-          <div className="m-auto ">
-          <button className="bg-zinc-100" onClick={chooseRandomGame}> 
-                <FontAwesomeIcon icon={faDiceFive} width={28} height={28} />
-            </button>
-          </div>
+          
         </section>
         </div>
         <aside></aside>
@@ -249,10 +251,25 @@ export default function Second() {
       </main>
       <div>
       <Card jogos={jogos}/>
+      <div className="fixed bottom-0 right-0 p-4">
+  <div className="flex flex-col items-end">
+    <button onClick={chooseRandomGame} className="mb-2"> 
+      <img src="/assets/PNGS/DADOROSA.png" className="w-[45px] h-[45px] mr-[20px]" />
+    </button>
+    <button onClick={clearSearch}>Limpar Busca</button>
+  </div>
+</div>
       {noGamesMessage && (
-        <p className="z-10 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-red-500">
-          Não há jogos disponíveis. Use o cliente.
-        </p>
+        <div className="z-50 fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-black text-center">
+        <h1 className="text-4xl font-bold">SEM RESULTADOS!</h1>
+        <h3 className="text-lg">Quer dar uma olhadinha em outros jogos?</h3>
+        <img
+          src="/assets/bunecos1lineart2.png"
+          alt="Sem resultados"
+          className="mt-4 mx-auto w-64"
+        />
+      </div>
+    
       )} {/* Exibe a mensagem se nenhum jogo for encontrado */}
       </div>
     </div>
