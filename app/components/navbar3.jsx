@@ -1,12 +1,10 @@
 "use client";
 import * as React from 'react'
-import Modal from "@/app/components/modal"
-import { useState } from 'react';
 import Link from 'next/link'
 import Busca from './busca';
 
 /*let offsetHeight;*/
-export default function Navbar2() {
+export default function Navbar3() {
     /*const headerRef = React.useRef(null);
     const [height, setHeight] = React.useState(0);
 
@@ -15,7 +13,6 @@ export default function Navbar2() {
         offsetHeight = height;
     }, [headerRef.current])
 */
-    const [openModal, setOpenModal] = useState(false)
 
     return (
         <div id='nav' className="w-screen flex z-[1000] h-[62px] items-center place-content-between relative">
@@ -25,14 +22,10 @@ export default function Navbar2() {
             <div>
                 <Busca/>
             </div>
-            <button className='bg-none mt-[3px]' onClick={() => setOpenModal(true)}>
-                    <img src="/assets/botao-ajuda.svg" className="w-[45px] h-[45px] mr-[20px]" alt="botao-ajuda" />
+            <button className='bg-none mt-[3px] pointer-events-none' >
+                    <img src="/assets/botao-ajuda.svg" className="w-[45px] h-[45px] mr-[20px] opacity-60" alt="botao-ajuda" />
                 </button>
-                <div>
-                    <Modal isOpen={openModal} setModalOpen={() => setOpenModal(!openModal)}>
-                    <img src="/assets/modal-2.svg" alt="modal-como-funciona-lista-de-jogos"/> 
-                    </Modal>
-                </div>
+
             </div>
         </div>
     )

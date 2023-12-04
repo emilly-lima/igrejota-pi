@@ -13,7 +13,10 @@ export default function Busca() {
         onChange={(e) => setSearch(e.target.value)}
         type="text"
         placeholder="Buscar jogo..."
-        className="bg-zinc-200  rounded-[16px] w-[30px] h-[38px] mr-[10px] sm:mr-[20px] lg:w-[350px] xl:w-[400px] hover:bg-white"
+        className=" rounded-[16px] w-[30px] h-[38px] mr-[10px] sm:mr-[20px] lg:w-[350px] xl:w-[400px] hover:bg-white"
+        style={{
+          backgroundColor: '#E2CEC1',
+        }}
       />
       <FontAwesomeIcon
         icon={faMagnifyingGlass}

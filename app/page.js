@@ -12,10 +12,13 @@ export default function Home() {
           <Navbar/>
         </header>
 
-        <main className="flex flex-row fixed inset-0 bg-cover bg-no-repeat bg-center z-[-4]  w-screen"
+        <main className="flex flex-row  w-screen">
+            <div
+          className="fixed inset-0 bg-cover bg-no-repeat bg-center z-[-10] w-screen"
           style={{
             backgroundImage: "url('/assets/ilustracaop1.png')",
-          }}>
+          }}
+        />
           <CarouselTime/>
           <CarouselComplex/>
           <CarouselFormato/>

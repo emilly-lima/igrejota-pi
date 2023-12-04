@@ -78,3 +78,7 @@ p {
   @apply rounded-3xl px-[40%] py-[12%];
 }
 
+input::placeholder {
+  color: rgba(0, 0, 0, 0.505);
+  text-align: center;
+}

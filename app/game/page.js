@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import Navbar from "@/app/components/navbar";
+import Navbar3 from "@/app/components/navbar3";
 import Image from "next/image";
 
 export default function Game({jogos}) {
@@ -8,7 +8,7 @@ export default function Game({jogos}) {
     return (
         <div className="">
             <header>
-            <Navbar />
+            <Navbar3 />
             </header>
 
             <main className="flex flex-row flex-wrap fixed inset-0 bg-cover bg-no-repeat bg-center z-[-4] justify-center w-screen" style={{
