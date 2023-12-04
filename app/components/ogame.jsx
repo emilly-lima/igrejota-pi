@@ -48,7 +48,7 @@ const Ogame = ({jogos}) => {
                     <h2 className='overflow-auto'>{props.desc}</h2>
                 </div>
                 <div id='link'>
-                    <a href={props.link}></a>
+                    <p>{props.link}</p>
                 </div>
             </div>
         </div>
