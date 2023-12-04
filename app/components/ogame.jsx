@@ -17,7 +17,7 @@ const Ogame = ({jogos}) => {
         link: localStorage.getItem('link'),
         img: localStorage.getItem('img'),
         game: localStorage.getItem('game')})
-    })
+    }, [])
 
     return (
         <div>
