@@ -20,7 +20,9 @@ export default function Navbar() {
     return (
         <div id='nav' className="w-screen flex z-[1000] h-[62px] items-center place-content-between absolute">
             <Link href="/">
-                <h1 className="text-white font-bold ml-[20px] text-2xl sm:text-3xl lg:ml-[80px] xl:ml-[130px]">TABLETOPPING</h1></Link>
+                <h1 className="font-bold ml-[20px] text-2xl sm:text-3xl lg:ml-[80px] xl:ml-[130px]" style={{
+          color: '#FCF2ED',
+        }}>TABLETOPPING</h1></Link>
             <div className='flex flex-row items-center lg:mr-[80px] xl:mr-[130px]'>
             <div>
                 <Busca/>

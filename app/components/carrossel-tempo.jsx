@@ -13,9 +13,9 @@ export default function CarouselTime() {
 
   return (
     <Carousel
-      id="car-tempo" className="w-[200px] h-[200px] mx-auto left-[55%] top-[70%] lg:top-[60%] "
+      id="car-tempo" className="w-[200px] h-[200px] mx-auto left-[66%] top-[70%] lg:top-[60%] 2xl:left-[57%] 2xl:top-[70%]"
       navigation={({ setActiveIndex, activeIndex, length }) => (
-        <div className="absolute z-[50] flex gap-2 bottom-4 left-2/4 -translate-x-2/4 ">
+        <div className="absolute z-[50] flex gap-2 bottom-12 left-2/4 -translate-x-2/4 ">
           {new Array(length).fill("").map((_, i) => (
             <span
               key={i}
@@ -56,7 +56,7 @@ export default function CarouselTime() {
           variant="text"
           size="lg"
           onClick={() => {
-            const newIndex = activeIndex + 1 <= 3 ? activeIndex + 1 : 3;
+            const newIndex = activeIndex + 1 <= 6 ? activeIndex + 1 : 6;
             handleNext();
             setTime(newIndex);
             setIndex(newIndex);
@@ -73,39 +73,83 @@ export default function CarouselTime() {
         </IconButton>
       )}
     >
+      <div>
+        <p id="rotulo-duvida" className="my-5">Tempo de Jogo</p>
         <Image
           src="/assets/tempo-duvida.svg"
-          alt="image 1"
+          alt="tempo-indefinido"
           width={60}
           height={60}
           loading="lazy"
           className={`object-scale-down pointer-events-none absolute -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 transition-all ${index !== 0 ? "opacity-0" : "opacity-100"}`} 
         />
-
+      </div>
+      <div>
+        <p id="rotulo" className="my-5">15 Minutos</p>
       <Image
-        src="/assets/PNGS/AMPULHETA1.png"
-        alt="image 2"
-        width={80}
-        height={30}
+        src="/assets/tempo-15min.svg"
+        alt="tempo-15min"
+        width={60}
+        height={60}
         loading="lazy"
         className={`object-scale-down pointer-events-none absolute -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 transition-all ${index !== 1 ? "opacity-0" : "opacity-100"}`} 
         />
+        </div>
+        <div>
+        <p id="rotulo" className="my-5">30 Minutos</p>
       <Image
-        src="/assets/PNGS/AMPULHETA2.png"
-        alt="image 2"
-        width={80}
-        height={100}
+        src="/assets/tempo-30min.svg"
+        alt="tempo-30min"
+        width={70}
+        height={70}
         loading="lazy"
         className={`object-scale-down pointer-events-none absolute -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 transition-all ${index !== 2 ? "opacity-0" : "opacity-100"}`} 
         />
+        </div>
+        <div>
+        <p id="rotulo" className="my-5">45 Minutos</p>
       <Image
-        src="/assets/PNGS/AMPULHETA3.png"
-        alt="image 2"
-        width={80}
-        height={100}
+        src="/assets/tempo-45min.svg"
+        alt="tempo-45min"
+        width={70}
+        height={70}
         loading="lazy"
         className={`object-scale-down pointer-events-none absolute -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 transition-all ${index !== 3 ? "opacity-0" : "opacity-100"}`} 
         />
+        </div>
+        <div>
+        <p id="rotulo" className="my-5">1 Hora</p>
+        <Image
+        src="/assets/tempo-1h.svg"
+        alt="tempo-1h"
+        width={80}
+        height={80}
+        loading="lazy"
+        className={`object-scale-down pointer-events-none absolute -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 transition-all ${index !== 4 ? "opacity-0" : "opacity-100"}`} 
+        />
+        </div>
+        <div>
+        <p id="rotulo" className="my-5">1h e 30min </p>
+        <Image
+        src="/assets/tempo-1h-e-30min.svg"
+        alt="tempo-1h-e-30min"
+        width={80}
+        height={80}
+        loading="lazy"
+        className={`object-scale-down pointer-events-none absolute -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 transition-all ${index !== 5 ? "opacity-0" : "opacity-100"}`} 
+        />
+        </div>
+        <div>
+        <p id="rotulo" className="my-5">2+ Horas</p>
+        <Image
+        src="/assets/tempo-2h+.svg"
+        alt="tempo-2h+"
+        width={80}
+        height={80}
+        loading="lazy"
+        className={`object-scale-down pointer-events-none absolute -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 transition-all ${index !== 6 ? "opacity-0" : "opacity-100"}`} 
+        />
+        </div>
     </Carousel>
   );
 }

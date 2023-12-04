@@ -227,6 +227,11 @@ export default function Second() {
           </select>
           <div>
           </div>
+          <div className="m-auto ">
+          <button className="bg-zinc-100" onClick={chooseRandomGame}> 
+                <FontAwesomeIcon icon={faDiceFive} width={28} height={28} />
+            </button>
+          </div>
         </section>
         </div>
         <aside></aside>
@@ -242,11 +247,6 @@ export default function Second() {
           }}
         />
       </main>
-          <div className="m-auto ">
-          <button className="bg-zinc-100" onClick={chooseRandomGame}> 
-                <FontAwesomeIcon icon={faDiceFive} width={28} height={28} />
-            </button>
-          </div>
       <div>
       <Card jogos={jogos}/>
       {noGamesMessage && (

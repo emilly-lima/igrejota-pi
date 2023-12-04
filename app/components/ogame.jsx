@@ -29,10 +29,10 @@ const Ogame = ({jogos}) => {
                     <p>{localStorage.getItem('gameStyle')}</p>
                 </div>
                 <div className="p-2" id="descricao">
-                    <h2>{/* localStorage.getItem('desc') */}</h2>
+                    <h2>{localStorage.getItem('desc')}</h2>
                 </div>
                 <div id='link'>
-                    {/*<a href={localStorage.getItem('link')}></a>*/}
+                    <a href={localStorage.getItem('link')}></a>
                 </div>
             </div>
         </div>

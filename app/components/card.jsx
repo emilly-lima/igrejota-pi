@@ -12,8 +12,8 @@ const Card = ({ jogos }) => {
                     localStorage.setItem('complexity', item.complexity) 
                     localStorage.setItem('gameStyle', item.gameStyle) 
                     localStorage.setItem('format', item.format)
-                    {/* localStorage.setItem('desc', item.desc) */}
-                    {/* localStorage.setItem('link', item.link) */}
+                     localStorage.setItem('desc', item.desc) 
+                    localStorage.setItem('link', item.link) 
                 }}>
                     <div className='relative z-[-4]'>
                         <div key={item.game} id='carta-super' className='cursor-pointer'>

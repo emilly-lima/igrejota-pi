@@ -82,3 +82,16 @@ input::placeholder {
   color: rgba(0, 0, 0, 0.505);
   text-align: center;
 }
+
+#rotulo-duvida {
+  text-shadow: -1px 0 #f8f1e9, 0 1px #f8f1e9, 1px 0 #f8f1e9, 0 -1px #f8f1e9;
+  color: #301D14;
+
+  @apply bg-transparent text-base font-bold text-center;
+}
+
+#rotulo{
+  color: #301D14;
+
+ @apply bg-transparent text-base font-bold text-center;
+}
