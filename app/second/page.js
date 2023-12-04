@@ -16,6 +16,8 @@ export default function Second() {
   const [jogos, setJogos] = React.useState([]);
   const [players, setPlayers] = React.useState("0");
   const [gameStyle, setGameStyle] = React.useState("0");
+  const [noGamesMessage, setNoGamesMessage] = React.useState(false);
+
 
   //filters carousel
   const { setTime, time } = useGameTime();
@@ -60,8 +62,16 @@ export default function Second() {
         });
 
         setJogos(filteredGames);
-      } catch (error) {
+      
+        if (filteredGames.length === 0) {
+          setNoGamesMessage(true); // Define o estado para exibir a mensagem
+        } else {
+          setNoGamesMessage(false); // Caso haja jogos, oculta a mensagem
+        }
+
+      }catch (error) {
         console.error("Erro ao buscar os jogos:", error);
+        setNoGamesMessage(true);
       }
     };
 
@@ -142,7 +152,7 @@ export default function Second() {
       const randomGame = jogos[randomIndex];
       console.log("Jogo escolhido:", randomGame); // Aqui você pode fazer o que quiser com o jogo escolhido
     } else {
-      console.log("Nenhum jogo disponível.");
+      setNoGamesMessage(true);
     }
   };
 
@@ -239,6 +249,11 @@ export default function Second() {
           </div>
       <div>
       <Card jogos={jogos}/>
+      {noGamesMessage && (
+        <p className="z-10 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-red-500">
+          Não há jogos disponíveis. Use o cliente.
+        </p>
+      )} {/* Exibe a mensagem se nenhum jogo for encontrado */}
       </div>
     </div>
   );
