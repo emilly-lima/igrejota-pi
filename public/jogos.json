@@ -374,7 +374,8 @@
      "players": "2 a 8",
      "format": "Tabuleiro",
      "complexity": "Médio",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Steampunk Rally.jpg"
     },
     {
      "game": "Zombiecide Season 2 Prision Outbeak",
@@ -382,7 +383,8 @@
      "players": "1 a 6",
      "format": "Tabuleiro",
      "complexity": "Médio",
-     "gameStyle": "Cooperativo"
+     "gameStyle": "Cooperativo",
+     "img": "/FDJ/Zombiecide Season 2 Prision Outbeak.jpg"
     },
     {
      "game": "Aquileia",
@@ -390,7 +392,8 @@
      "players": "3 a 5",
      "format": "Tabuleiro",
      "complexity": "Médio",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Aquileia.jpg"
     },
     {
      "game": "City Tycoon",
@@ -416,7 +419,8 @@
      "players": "2 a 10",
      "format": "Cartas",
      "complexity": "Fácil",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Uno.jpg"
     },
     {
      "game": "Tiny epic kingdoms heroes' call",
@@ -424,7 +428,8 @@
      "players": "1 a 5",
      "format": "Tabuleiro",
      "complexity": "Médio",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Tiny epic kingdoms heroes' call.png"
     },
     {
      "game": "War of indines",
@@ -432,7 +437,8 @@
      "players": "2 a 4",
      "format": "Cartas",
      "complexity": "Médio",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/War of indines.jpg"
     },
     {
      "game": "Super cats",
@@ -440,7 +446,8 @@
      "players": "3 a 6",
      "format": "Cartas",
      "complexity": "Fácil",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Super cats.jpg"
     },
     {
      "game": "Sim, mestre das trevas!",
@@ -448,7 +455,8 @@
      "players": "4 a 16",
      "format": "Cartas",
      "complexity": "Fácil",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Sim, mestre das trevas!.jpg"
     },
     {
      "game": "Butim",
@@ -492,7 +500,8 @@
      "players": "2",
      "format": "Cartas",
      "complexity": "Médio",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Card Fight Vanguard.jpg"
     },
     {
      "game": "Lords of xidit",
@@ -518,7 +527,8 @@
      "players": "2 a 4",
      "format": "Tabuleiro",
      "complexity": "Médio",
-     "gameStyle": "Cooperativo"
+     "gameStyle": "Cooperativo",
+     "img": "/FDJ/Dogs(de marcos macri).jpg"
     },
     {
      "game": "O vale dos monstros",
@@ -544,7 +554,8 @@
      "players": "2 a 4",
      "format": "Tabuleiro",
      "complexity": "Médio",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Jester.jpg"
     },
     {
      "game": "Viagem no tempo",
@@ -552,7 +563,8 @@
      "players": "3 a 5",
      "format": "Tabuleiro",
      "complexity": "Médio",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Viagem no tempo.png"
     },
     {
      "game": "Aquarium",
@@ -578,7 +590,8 @@
      "players": "2",
      "format": "Tabuleiro",
      "complexity": "Fácil",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Trilha.png"
     },
     {
      "game": "Selene the fantasy",
@@ -586,7 +599,8 @@
      "players": "2 a 6",
      "format": "Tabuleiro",
      "complexity": "Difícil",
-     "gameStyle": "Ambos"
+     "gameStyle": "Ambos",
+     "img": "/FDJ/Selene the fantasy.jpg"
     },
     {
      "game": "Gammon",
@@ -702,7 +716,8 @@
      "players": "1 a 4",
      "format": "Tabuleiro",
      "complexity": "Médio",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Imigrantes.webp"
     },
     {
      "game": "Cyclades",
@@ -710,7 +725,8 @@
      "players": "2 a 5",
      "format": "Tabuleiro",
      "complexity": "Médio",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Cyclades.jpg"
     },
     {
      "game": "Imhotep builder of egypt",
@@ -754,7 +770,8 @@
      "players": "2 a 8",
      "format": "Tabuleiro",
      "complexity": "Fácil",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Ultimate Warlorz.jpg"
     },
     {
      "game": "Tash-Kalar Arena of Legends",
@@ -762,7 +779,8 @@
      "players": "2 a 4",
      "format": "Tabuleiro",
      "complexity": "Médio",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Tash-Kalar Arena of Legends.jpg"
     },
     {
      "game": "Pantheon",
@@ -788,7 +806,8 @@
      "players": "2 a 5",
      "format": "Cartas",
      "complexity": "Fácil",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Dogs Cardgame.jpg"
     },
     {
      "game": "Castle Panic",
@@ -823,7 +842,8 @@
      "players": "2 a 4",
      "format": "Tabuleiro",
      "complexity": "Médio",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Survive Fuga de Atlântida!.jpg"
     },
     {
      "game": "Madeira",
@@ -869,15 +889,6 @@
      "complexity": "Médio",
      "gameStyle": "Competitivo",
      "img": "/FDJ/Keyforge.jpg"
-    },
-    {
-     "game": "Card Fight Vanguard",
-     "time": "30min",
-     "players": "2",
-     "format": "Cartas",
-     "complexity": "Médio",
-     "gameStyle": "Competitivo",
-     "img": "/FDJ/Card Fight Vanguard.jpg"
     },
     {
      "game": "Scotland yard",
@@ -939,7 +950,8 @@
      "players": "2 a 5",
      "format": "Tabuleiro",
      "complexity": "Médio",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Tadsch mahal.jpg"
     },
     {
      "game": "Os príncipes de Florença",
@@ -956,7 +968,8 @@
      "players": "2 a 6",
      "format": "Ambos",
      "complexity": "Médio",
-     "gameStyle": "Ambos"
+     "gameStyle": "Ambos",
+     "img": "/FDJ/Senhor dos Anéis a sociedade do anel (miniaturas).webp"
     },
     {
      "game": "Tikal",
@@ -964,7 +977,8 @@
      "players": "2 a 4",
      "format": "Tabuleiro",
      "complexity": "Médio",
-     "gameStyle": "Cooperativo"
+     "gameStyle": "Cooperativo",
+     "img": "/FDJ/Tikal.jpg"
     },
     {
      "game": "Die Händler von Genua (Os comerciantes de Gênova)",
@@ -990,7 +1004,8 @@
      "players": "2 a 4",
      "format": "Cartas",
      "complexity": "Difícil",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Magic The Gathering (Ultra Pro Deck Box).jpg"
     },
     {
      "game": "Port Royal",
@@ -1016,7 +1031,8 @@
      "players": "4 a 8",
      "format": "Cartas",
      "complexity": "Médio",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Telma.jpg"
     },
     {
      "game": "Dominion Update Pack",
@@ -1078,7 +1094,8 @@
      "players": "2 a 4",
      "format": "Cartas",
      "complexity": "Fácil",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/War Zoo.jpg"
     },
     {
      "game": "Munchkin Zombies",
@@ -1105,7 +1122,7 @@
      "format": "Tabuleiro",
      "complexity": "Médio",
      "gameStyle": "Competitivo",
-     "img": "/FDJ/Engage Senhores da Guerra (Maldição de Silent"
+     "img": "/FDJ/Engage Senhores da Guerra (Maldição de Silent Crown).png"
     },
     {
      "game": "Viajantes",
@@ -1113,7 +1130,8 @@
      "players": "3 a 6",
      "format": "Cartas",
      "complexity": "Fácil",
-     "gameStyle": "Cooperativo"
+     "gameStyle": "Cooperativo",
+     "img": "/FDJ/Viajantes.png"
     },
     {
      "game": "Pablo",
@@ -1122,7 +1140,7 @@
      "format": "Cartas",
      "complexity": "Médio",
      "gameStyle": "Competitivo",
-     "img": "/FDJ/Pablo.jpg"
+     "img": "/FDJ/Pablo.png"
     },
     {
      "game": "Histórias de Pescador",
@@ -1176,7 +1194,7 @@
      "format": "Cartas",
      "complexity": "Difícil",
      "gameStyle": "Competitivo",
-     "img": "/FDJ/Spellfire O poder da Magia.jpg"
+     "img": "/FDJ/Spellfire O poder da Magia2.jpg"
     },
     {
      "game": "Spelfire Master the magic",
@@ -1194,7 +1212,7 @@
      "format": "Cartas",
      "complexity": "Difícil",
      "gameStyle": "Competitivo",
-     "img": "/FDJ/Magic The Gathering (Deckmaster).jpg"
+     "img": "/FDJ/Magic The Gathering (Deckmaster).webp"
     },
     {
      "game": "Modern art",
