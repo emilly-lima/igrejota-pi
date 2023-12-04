@@ -2,10 +2,10 @@ import React from 'react';
 import Link from 'next/link';
 const Card = ({ jogos }) => {
     return (
-        <div className='flex flex-row gap-[58px] px-[185px] justify-center py-6 flex-wrap relative bottom-0 top-[140px] z-[-1]'>
+        <div className='flex flex-row gap-[58px] px-[185px] justify-center py-6 relative flex-wrap bottom-0 top-[130px]'>
             {jogos && jogos.map((item) => (
                 <Link href="/game" key={item.game}>
-                    <div className='relative'>
+                    <div className='relative z-[-4]'>
                         <div key={item.game} id='carta-super' className='cursor-pointer'>
                             <div id='carta-infer' />
                             <img className='aspect-square object-fill rounded-xl ' src={item.img} alt={item.Jogo} />

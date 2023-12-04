@@ -1,10 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-<<<<<<< HEAD
-{/*} @import 'animate.css';*/} 
-=======
->>>>>>> 54b0700d485c21e76fd0953a69c5bee2e1254012
+
 
 @import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;600&display=swap');
 
@@ -28,12 +25,12 @@ body {
 
 #carta-super {
   background-color: #8493CE;
-  @apply w-[145px] h-[220px] md:w-[200px] md:h-[350px] items-center flex flex-col gap-2 p-5 rounded-xl;
+  @apply w-[145px] h-[220px] md:w-[200px] md:h-[350px] items-center flex flex-col gap-2 p-5 rounded-xl z-[99];
 }
 
 #carta-infer {
   background-color: #43559D;
-  @apply absolute top-0 left-0 h-full w-full rotate-6 z-[-1] text-center rounded-xl;
+  @apply absolute top-0 left-0 h-full w-full rotate-6 z-[-4] text-center rounded-xl;
 }
 
 input {
@@ -42,16 +39,14 @@ input {
 
 select {
   background-color: #9E572D;
-  @apply rounded-full outline-none px-1 lg:px-4 xl:px-6 h-[40px] w-[70px] lg:mx-2 text-xs lg:text-[14px] sm:w-[130px] lg:w-[182px] xl:w-[200px]  text-white;
+  @apply rounded-full outline-none px-1 lg:px-4 xl:px-6 h-[40px] w-[70px] lg:mx-2 text-xs lg:text-[14px] sm:w-[130px] lg:w-[182px] xl:w-[200px]  text-white ;
 }
 
 h1 {
   @apply text-4xl;
 }
 
-button {
-  @apply rounded-md px-4 py-2 bg-white;
-}
+
 
 h3 {
   color: #301D14;
