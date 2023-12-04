@@ -1,13 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-<<<<<<< HEAD
-{/*} @import 'animate.css';*/} 
-=======
->>>>>>> 54b0700d485c21e76fd0953a69c5bee2e1254012
 
 @import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;600&display=swap');
-
 
 :root {
   --text: #130e01;
