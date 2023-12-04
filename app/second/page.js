@@ -289,7 +289,7 @@ export default function Second() {
       <img src="/assets/PNGS/DADOROSA.png" className="w-[70px] h-[70px] mr-[45px]" />
     </button>
     <button onClick={clearSearch}>
-    <img src="/assets/reroll.svg" className="w-[100px] h-[40px] mr-[30px]" />
+    <img src="/assets/novamente.svg" className="w-[100px] h-[40px] mr-[30px]" />
     </button>
   </div>
 </div>
