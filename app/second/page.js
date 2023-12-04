@@ -80,6 +80,32 @@ export default function Second() {
     fetchGames();
   }, [search, time, formato, gameStyle, complex]);
 
+  const handleTime = (e) => {
+    switch (e) {
+      case "1":
+        setTime("15min");
+        break;
+      case "2":
+        setTime("30min");
+        break;
+      case "3":
+        setTime("45min");
+        break;
+      case "4":
+        setTime("60min");
+        break;
+      case "5":
+        setTime("90min");
+        break;
+      case "6":
+        setTime("120min");
+        break;
+      default:
+        setTime("0");
+        break;
+    }
+  };
+  
   const handleFormato = (e) => {
     switch (e) {
       case "1":
@@ -175,14 +201,17 @@ export default function Second() {
           <select
             id="tempo"
             onClick={(e) => {
-              setTime(e.target.value);
+              handleTime(e.target.value);
             }}
             defaultValue={time}
           >
             <option value="0">Tempo de Jogo</option>
-            <option value="1">Menor que 30min</option>
-            <option value="2">Entre 30 e 60min</option>
-            <option value="3">Maior que 60min</option>
+            <option value="1">15min</option>
+            <option value="2">30min</option>
+            <option value="3">45min</option>
+            <option value="4">60min</option>
+            <option value="5">90min</option>
+            <option value="6">120min</option>
           </select>
           <select
             id="jogadores"
@@ -191,9 +220,12 @@ export default function Second() {
             }}
           >
             <option value="0">Nº de Jogadores</option>
-            <option value="1">Um</option>
-            <option value="2">Dois</option>
-            <option value="3">Mais de 3</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6+</option>
           </select>
           <select
             id="formato"
@@ -254,9 +286,11 @@ export default function Second() {
       <div className="fixed bottom-0 right-0 p-4">
   <div className="flex flex-col items-end">
     <button onClick={chooseRandomGame} className="mb-2"> 
-      <img src="/assets/PNGS/DADOROSA.png" className="w-[45px] h-[45px] mr-[20px]" />
+      <img src="/assets/PNGS/DADOROSA.png" className="w-[70px] h-[70px] mr-[45px]" />
     </button>
-    <button onClick={clearSearch}>Limpar Busca</button>
+    <button onClick={clearSearch}>
+    <img src="/assets/reroll.svg" className="w-[100px] h-[40px] mr-[30px]" />
+    </button>
   </div>
 </div>
       {noGamesMessage && (
