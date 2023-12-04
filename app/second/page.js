@@ -148,12 +148,13 @@ export default function Second() {
 
 
   return (
-    <div className="m-auto max-w-[100vw]">
+    <div className="m-auto max-w-[100vw] z-[1000]">
       <div className="fixed">
         <Navbar2 />
+        <div className="absolute ">
         <section
           id="filtros"
-          className="flex justify-evenly items-center w-screen p-4 h-[70px]"
+          className="flex justify-evenly items-center w-screen p-4 h-[70px] "
         >
           <select
             id="tempo"
@@ -215,11 +216,9 @@ export default function Second() {
             <option value="3">Dificil</option>
           </select>
           <div>
-          <button className="bg-zinc-100" onClick={chooseRandomGame}> 
-                <FontAwesomeIcon icon={faDiceFive} width={28} height={28} />
-            </button>
           </div>
         </section>
+        </div>
         <aside></aside>
       </div>
       <main
@@ -227,13 +226,20 @@ export default function Second() {
         style={{ maxHeight: "calc(100vh-100px)" }}
       >
         <div
-          className="fixed inset-0 bg-cover bg-no-repeat bg-center z-[-4]  w-screen"
+          className="fixed inset-0 bg-cover bg-no-repeat bg-center z-[-4] w-screen"
           style={{
             backgroundImage: "url('/assets/fundo-lista.png')",
           }}
         />
       </main>
-      <Card jogos={jogos} />
+          <div className="m-auto ">
+          <button className="bg-zinc-100" onClick={chooseRandomGame}> 
+                <FontAwesomeIcon icon={faDiceFive} width={28} height={28} />
+            </button>
+          </div>
+      <div>
+      <Card jogos={jogos}/>
+      </div>
     </div>
   );
 }
