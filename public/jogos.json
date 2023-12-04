@@ -356,7 +356,8 @@
      "players": "2 a 4",
      "format": "Tabuleiro",
      "complexity": "Médio",
-     "gameStyle": "Competitvo"
+     "gameStyle": "Competitvo",
+     "img": "/FDJ/Neuroshima Hex! 3.0.jpg"
     },
     {
      "game": "Samurai (Reiner Knizia)",
@@ -364,7 +365,8 @@
      "players": "2 a 4",
      "format": "Tabuleiro",
      "complexity": "Difícil",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Samurai (Reiner Knizia).webp"
     },
     {
      "game": "Steampunk Rally",
@@ -507,7 +509,8 @@
      "players": "2 a 4",
      "format": "Tabuleiro",
      "complexity": "Médio",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Quarriors! Dice building game.webp"
     },
     {
      "game": "Dogs (de marcos macri)",
@@ -523,7 +526,8 @@
      "players": "2 a 5",
      "format": "Tabuleiro",
      "complexity": "Médio",
-     "gameStyle": "Cooperativo"
+     "gameStyle": "Cooperativo",
+     "img": "/FDJ/O vale dos monstros.jpg"
     },
     {
      "game": "Ovini",
@@ -531,7 +535,8 @@
      "players": "3 a 4",
      "format": "Tabuleiro",
      "complexity": "Médio",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Ovini.jpg"
     },
     {
      "game": "Jester",
@@ -607,7 +612,8 @@
      "players": "2",
      "format": "Tabuleiro",
      "complexity": "Difícil",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Queops.webp"
     },
     {
      "game": "Oware",
@@ -615,7 +621,8 @@
      "players": "2",
      "format": "Tabuleiro",
      "complexity": "Fácil",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Oware.webp"
     },
     {
      "game": "Polaris",
@@ -623,7 +630,8 @@
      "players": "2 a 4",
      "format": "RPG",
      "complexity": "Médio",
-     "gameStyle": "Cooperativo"
+     "gameStyle": "Cooperativo",
+     "img": "/FDJ/Polaris.jpg"
     },
     {
      "game": "Bagha-chall",
@@ -649,7 +657,8 @@
      "players": "2",
      "format": "Tabuleiro",
      "complexity": "Médio",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Pagoda.jpg"
     },
     {
      "game": "Runicards",
@@ -657,7 +666,8 @@
      "players": "1 a 8",
      "format": "Cartas",
      "complexity": "Médio",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Runicards.jpg"
     },
     {
      "game": "Mysterium",
@@ -717,7 +727,8 @@
      "players": "1 a 6",
      "format": "Tabuleiro",
      "complexity": "Médio",
-     "gameStyle": "Cooperativo"
+     "gameStyle": "Cooperativo",
+     "img": "/FDJ/Possessão arcana.webp"
     },
     {
      "game": "Dominion",
@@ -759,7 +770,8 @@
      "players": "2 a 4",
      "format": "Tabuleiro",
      "complexity": "Médio",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Pantheon.jpg"
     },
     {
      "game": "Horse Fever",
@@ -802,7 +814,8 @@
      "players": "1 a 4",
      "format": "Ambos",
      "complexity": "Médio",
-     "gameStyle": "Ambos"
+     "gameStyle": "Ambos",
+     "img": "/FDJ/O Senhor dos Anéis.png"
     },
     {
      "game": "Survive Fuga de Atlântida!",
@@ -872,7 +885,8 @@
      "players": "2 a 6",
      "format": "Tabuleiro",
      "complexity": "Fácil",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Scotland yard.jpg"
     },
     {
      "game": "Auf achse (Carga Máxima)",
@@ -933,7 +947,8 @@
      "players": "3 a 5",
      "format": "Tabuleiro",
      "complexity": "Médio",
-     "gameStyle": "Ambos"
+     "gameStyle": "Ambos",
+     "img": "/FDJ/Os príncipes de Florença.jpg"
     },
     {
      "game": "Senhor dos Anéis: A Sociedade do Anel (miniaturas)",
@@ -966,7 +981,8 @@
      "players": "3 a 10",
      "format": "Cartas",
      "complexity": "Fácil",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Saboteur.jpg"
     },
     {
      "game": "Magic The Gathering (Ultra Pro Deck Box)",
@@ -982,7 +998,8 @@
      "players": "2 a 5",
      "format": "Cartas",
      "complexity": "Fácil",
-     "gameStyle": "Ambos"
+     "gameStyle": "Ambos",
+     "img": "/FDJ/Port Royal.jpg"
     },
     {
      "game": "Pictureka!",
@@ -990,7 +1007,8 @@
      "players": "2 a 7",
      "format": "Cartas",
      "complexity": "Fácil",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Pictureka!.jpg"
     },
     {
      "game": "Telma",
@@ -1024,7 +1042,8 @@
      "players": "2 a 9",
      "format": "Cartas",
      "complexity": "Difícil",
-     "gameStyle": "Ambos"
+     "gameStyle": "Ambos",
+     "img": "/FDJ/Reinos e Relíquias Entre Luz e Trevas.jpg"
     },
     {
      "game": "A Ilha Proibida (Aventure-se… Se tiver coragem)",
@@ -1041,7 +1060,8 @@
      "players": "3 a 6",
      "format": "Cartas",
      "complexity": "Fácil",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/O Último Grande Campeão.jpg"
     },
     {
      "game": "Robin Hood",
@@ -1049,7 +1069,8 @@
      "players": "3 a 5",
      "format": "Cartas",
      "complexity": "Difícil",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Robin Hood.png"
     },
     {
      "game": "War Zoo",
@@ -1100,7 +1121,8 @@
      "players": "2 a 10",
      "format": "Cartas",
      "complexity": "Médio",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Pablo.jpg"
     },
     {
      "game": "Histórias de Pescador",
@@ -1144,7 +1166,8 @@
      "players": "2 a 5",
      "format": "Cartas",
      "complexity": "Médio",
-     "gameStyle": "Competitivo"
+     "gameStyle": "Competitivo",
+     "img": "/FDJ/Pássaros (de Marcos Macri).jpg"
     },
     {
      "game": "Spellfire O poder da Magia",
