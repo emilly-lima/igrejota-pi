@@ -43,7 +43,7 @@ export default function CarouselComplex() {
           className="!absolute top-2/4 left-0 -translate-y-2/4"
         >
           <img
-            src="/assets/PNGS/SETA-left.png"
+            src="/assets/seta-esquerda.svg"
             stroke="currentColor"
             className="w-full"
           >
@@ -64,7 +64,7 @@ export default function CarouselComplex() {
           className="!absolute top-2/4 !right-0 -translate-y-2/4"
         >
           <img
-            src="/assets/PNGS/SETA-right.png"
+            src="/assets/seta-direita.svg"
             stroke="currentColor"
             className="w-full"
           >
@@ -74,10 +74,10 @@ export default function CarouselComplex() {
       )}
     >
         <Image
-          src="/assets/PNGS/LIVRODUVIDA.png"
+          src="/assets/complex-duvida.svg"
           alt="image 1"
-          width={80}
-          height={100}
+          width={110}
+          height={110}
           loading="lazy"
           className={`object-scale-down pointer-events-none absolute -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 transition-all ${index !== 0 ? "opacity-0" : "opacity-100"}`} 
         />

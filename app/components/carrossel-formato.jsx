@@ -13,7 +13,7 @@ export default function CarouselFormato() {
 
   return (
     <Carousel
-      id="car-formato" className="w-[200px] h-[200px] m-auto absolute  top-[50%] sm:top-[60%] right-[22%] sm:right-[36.5%] lg:right-[40%] xl:right-[42%] 2xl:right-[42.5%] "
+      id="car-formato" className="w-[200px] h-[200px] m-auto absolute  top-[50%] right-[22%] sm:right-[36.5%] lg:right-[41%] xl:right-[42%] 2xl:right-[42.5%] "
       navigation={({ setActiveIndex, activeIndex, length }) => (
         <div className="absolute z-50 flex gap-2 bottom-4 left-2/4 -translate-x-2/4 ">
           {new Array(length).fill("").map((_, i) => (
@@ -43,7 +43,7 @@ export default function CarouselFormato() {
           className="!absolute top-2/4 left-0 -translate-y-2/4"
         >
           <img
-            src="/assets/PNGS/SETA-left.png"
+            src="/assets/seta-esquerda.svg"
             stroke="currentColor"
             className="w-full"
           >
@@ -64,7 +64,7 @@ export default function CarouselFormato() {
           className="!absolute top-2/4 !right-0 -translate-y-2/4"
         >
           <img
-            src="/assets/PNGS/SETA-right.png"
+            src="/assets/seta-direita.svg"
             stroke="currentColor"
             className="w-full"
           >
@@ -74,10 +74,10 @@ export default function CarouselFormato() {
       )}
     >
         <Image
-          src="/assets/PNGS/TABULEIRODUVIDA1.png"
+          src="/assets/formato-duvida.svg"
           alt="image 1"
-          width={80}
-          height={100}
+          width={200}
+          height={200}
           loading="lazy"
           className={`object-scale-down pointer-events-none absolute -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 transition-all ${index !== 0 ? "opacity-0" : "opacity-100"}`} 
         />

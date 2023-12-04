@@ -25,8 +25,8 @@ export default function Navbar() {
             <div>
                 <Busca/>
             </div>
-                <button className='bg-none' onClick={() => setOpenModal(true)}>
-                    <img src="/assets/botao-ajuda.svg" className="w-[45px] h-[45px]" alt="botao-ajuda" />
+                <button className='bg-none mt-[3px]' onClick={() => setOpenModal(true)}>
+                    <img src="/assets/botao-ajuda.svg" className="w-[45px] h-[45px] mr-[20px] " alt="botao-ajuda" />
                 </button>
                 <div>
                     <Modal isOpen={openModal} setModalOpen={() => setOpenModal(!openModal)}>

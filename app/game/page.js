@@ -1,6 +1,7 @@
 "use client";
 import React from "react";
 import Navbar from "@/app/components/navbar";
+import Image from "next/image";
 
 export default function Game({jogos}) {
 
@@ -14,9 +15,16 @@ export default function Game({jogos}) {
             backgroundImage: "url('/assets/fundo-carta.png')",
           }}>
             <div id="game">
-                <div className="p-5">
-                    <h1>jogo</h1>
+                <div className="flex justify-end p-5 items-center">
+                <button className="right-[70%] absolute">
+            <Image src="/assets/seta-voltar.svg" alt="seta-voltar"
+        width={40}
+        height={40} 
+        />
+            </button>
+                    <h1>Jogo</h1>
                 </div>
+                
                 <div className="rounded-3xl bg-zinc-800 w-[70%] h-[200px]">
                     
                 </div>

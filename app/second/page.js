@@ -148,8 +148,8 @@ export default function Second() {
 
 
   return (
-    <div className="m-auto max-w-[100vw] z-[1000]">
-      <div className="fixed">
+    <div className="m-auto max-w-[100vw]">
+      <div className="fixed z-[1000]">
         <Navbar2 />
         <div className="absolute ">
         <section
